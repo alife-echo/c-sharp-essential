@@ -1,0 +1,216 @@
+# Processo de compilação e execução usando CLR
+
+c# -> É uma linguagem tipada,compilada e gerenciada
+
+
+----------- Compilação -------------,---------- Execução ---------------
+Código C# --> Compilador C# --> IL Code --> JIT compiler --> native code
+
+IL = codigo de lingaguem intermediaria em bytecode
+IL Code = Teste.exe e Teste.dll
+
+O compilador gera seu codigo para IL, enquanto o JIT compiler gera o codigo para native code sendo gerenciado pelo CLR e executado pelo processador 
+
+
+
+
+
+# -- SINTAXE C#
+
+//  ->  Comentário em uma linha
+
+/**/ -> bloco de comentario
+
+{} -> Delimitador de bloco de comandos
+
+; -> todos os comandos "simples" terminam com ;
+
+= -> atribuição
+
+== -> Comparação de igualdade
+
+
+
+
+
+
+# -- Organização de Codigo
+
+Projeto --> um projeto pode ter varias classes, uma classe com uma responsabilidade usamos namespaces para organizar as classes
+
+Namespaces --> contâiners logicos para as classes e outros namespaces
+
+namespaces --> usamos namespaces para agrupar as classes relacionadas
+
+
+Ex:
+
+Namespaces com mesma classe
+
+Fornecedores.Cadastro
+
+Produtos.Cadastro     
+
+Categorias.Cadastro
+
+Utilizando a notação ponto '.' eu posso referenciar uma classe a um namespace, posso ter varias classes Cadastro, mas cada cadastro vai pertencer a um namespace especifico
+
+
+
+sintaxe:
+
+nome_do_namespace.nome_da_classe
+
+outros maneiras:
+
+nome_do_namespace.nome_do_namespace.nome_da_classe
+
+posso ter nameespace dentro de namespaces
+
+
+using --> uso para simplificar os namespaces
+
+Ex:
+
+using nome_do_namespace
+
+nome_da_classe
+
+
+solution --> container para projetos criados no visual studio
+solution --> pode conter um ou mais projetos
+
+
+
+
+
+
+# -- Estruturas de pastas
+
+Dentro do arquivo de solução:
+
+Arquivo de solução que mantém a informação sobre a organização dos projetos na solução
+
+ 
+Dentro da pasta de projeto:
+
+
+bin --> Contém arquivos binários, que são o código executavel real para seu aplicativo ou biblioteca
+
+obj -> Contém arquivos objeto, ou intermediários, que são arquivos binários compilados que ainda não foram vinculados
+
+arquivo de projeto -> Contém informações sobre os arquivos incluídos no projetos, assemblies usados, GUID do projeto e versão do projeto
+
+
+
+# -- Principais Comandos
+
+dotnet --info -> lista informações detalhadas do sistema
+
+dotnet --version -> exibe a versão do .NET SDK atual
+
+dotnet --list-sdks -> exibe a lista dos sdks instalados
+
+dotnet --list-runtimes -> exibe a lista dos runtimes instalados
+
+dotnet new list -> Lista todos os templates de projetos
+
+dotnet new <nome_template> -> cria um projeto usando o template informado
+
+dotnet run -> Executa projetos
+
+dotnet restore -> Restaurar os pacotes do projeto
+
+dotnet test -> Executa projetos de teste e testes de unidade
+
+dotnet publish -> usado para publicar projetos
+
+dotnet new sln -> cria uma nova solution
+
+dotnet sln add/remove -> Adiciona/Remove projetos para solução
+
+dotnet add/remove reference -> adiciona/remove referência de projetos para outros projetos
+
+dotnet add/remove package -> adiciona referência de pacotes Nuget para um projeto
+
+
+
+
+
+
+
+# Instalando um projeto com uma versão especifica
+
+crie uma pasta
+
+dentro da pasta rode o comando:
+
+sintaxe:
+dotnet new globaljson --sdk-version numeroversaosdk --force
+
+exemplo:
+dotnet new globaljson --sdk-version 7.0.1 --force
+
+
+dentro da mesma pasta criar seu projeto
+
+
+
+
+
+# Instalando projeto com uma versão especifica 2
+
+
+dotnet new console -o MeuApp2 -f net5.0 --> criando o projeto e especificando a versão
+
+dotnet new console -o MeuApp3 --use-program-main --> criar um projeto no dotnet atual, porem usando o método main, a estrutura de codificação abaixo do net6.0, sem top level stateman
+
+
+
+
+
+
+# -- Criar projeto e solução igual ao visual studio
+
+
+Observação: crie uma pasta primeiro e faça tudo dentro dela
+
+- criar solução
+dotnet new sln -o <nome_solução>
+
+- criar projeto dentro de solução
+dotnet new <nome_do_template> -o <nome_projeto>
+
+- incluir o projeto criado na solução existente(a partir da pasta da solução)
+dotnet sln <nome_solução>.sln add <pasta_projeto>/<arquivo>.csproj
+
+start minhaSolucao.sln --> abrir solução com projeto dentro
+
+
+# -- Atalhos C#
+
+CTRL + F5 --> Executar codigo sem depuração
+
+F5 --> Executar codigo com depuração]
+
+CTRL + K + D --> Organizar código
+
+CTRL + D --> Duplicar linha onde cursor esta
+
+CTRL + F --> Localizar algo no documento atual
+
+
+
+# -- Tipos de dados de referência e de valor
+
+Tipos de referência --> Não armazenam os dados diretamente, cada variavel contém uma referência ao local da memória onde os dados estão dados estão armazenados
+
+Tipos de valor --> Armazenam diretamente seus dados e cada variável tem sua própia cópia dos dados
+
+Os tipos de dados são armazenados na memória Stack(LIFO - Last in First Out)
+
+
+Sinxtaxe declaração
+
+tipo nomeVariavel = valor;
+tipo nomeVariavel; --> não inicializado
