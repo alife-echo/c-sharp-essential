@@ -214,3 +214,122 @@ Sinxtaxe declaração
 
 tipo nomeVariavel = valor;
 tipo nomeVariavel; --> não inicializado
+
+
+
+
+
+# -- Tipos numéricos integrais
+
+palavra-chave/tipo c#       intervalo            tamanho                 Tipo.NET
+
+sbyte			  -128 a 127	   Inteiro de 8bits com sinal	 System.SByte
+-------------------------------------------------------------------------------------
+byte			  0 a 255	  Inteiro de 8bits sem sinal    System.Byte
+-------------------------------------------------------------------------------------
+short                   -32.768 a 32.767   Inteiro de 16 bits com sinal System.Int16
+-------------------------------------------------------------------------------------
+ushort                  0 a 65.535        Inteiro de 16 bites sem sinal System.Uint16
+-------------------------------------------------------------------------------------
+int          -2.147.483.648 a 2.147.483.647    Int assinado com 32 bits System.Int32
+-------------------------------------------------------------------------------------
+uint	      0 a 4.294.967.295      Int assinado com 32 bits sem sinal System.Uint32
+-------------------------------------------------------------------------------------
+long -9.223.372.036.854.775.808 a 9.223.372.036.854.775.807 Int ass de 64bi System.Int64
+-------------------------------------------------------------------------------------
+ulong 0 a 18.446.744.073.709.551.615   Inteiro de 64 bits sem sinal     System.Uint64
+-------------------------------------------------------------------------------------
+nint             Depedende plataforma  Inteiro com sinal de 32/64 bits  System.IntPtr
+-------------------------------------------------------------------------------------
+nuint            Depedende plataforma  Inteiro sem sinal de 32/64 bits  System.UIntPtr
+-------------------------------------------------------------------------------------
+
+
+
+# -- Tipos pré-definidos : Tipos numéricos de ponto flutuante
+
+
+palavra-chave/tipo c#     Tamanho       Tipo .NET
+
+float		       	  4bytes	System.Single
+double			  8bytes	System.Double 
+decimanl		  16bytes	System.Decimal
+
+
+representações
+
+double valor = 12.4;		float valor = 12.4F;		 decimal valor = 12.4M;
+System.Double valor = 12.4;	System.Single valor = 12.4f;	 System.Decimal valor = 12.4m;
+
+- Caracteristicas
+	
+Armazenados na stack
+Valor padrão 0
+Suporte a operadores aritimeticos de comparação ->   (>,<,>=,<=,!=) e (==)
+double -> para calculos cientificos
+decimal -> para calculos financeiros
+
+tipos de inicialização com literais (f-F,d-D,m-M)
+
+# -- Comandos
+
+Console.WriteLine(); --> mostrar um valor na tela do terminal
+Console.ReadLine(); --> Espera que o usuario digite para terminar o codigo no terminal
+
+
+
+# -- Tipos pré-definidos : Tipos não numéricos
+
+valor padrão do bool é false
+valor padrão do tipo char é '\0'
+(U + 0000) -> NULL
+
+				     Tipo .NET
+
+bool  --> true or false -> 8 bits -> System.Boolean
+char --> U+0000 A U+FFFF -> 16 bits -> System.Char
+
+'' --> aspas simples char
+"" --> aspas duplas string
+
+
+Ex:
+
+bool ativo = true;			char letra = 'A';
+System.Boolean ativo = true;		System.Char letra = 'A';
+
+
+# -- Tipos de referência
+
+string      armazenamento de zero ou mais caracteres   System.String
+object     é o tipo base para todos os outros tipos  System.Object
+dynamic   resolvido em tempo de execuçao            System.Object
+
+
+dynamic -> util para reflection e dlr
+
+string são imutáveis
+
+string valor = "Isto é uma string";
+valor = "Isto é uma string alterada";      --> 3 espacos da memoria
+valor = "teste";
+
+
+--> o valor não é reatribuido , ele cria espaço na memoria para cada atribuição ao valor que fiz
+
+
+
+ex:
+
+	string nome = "Curso Csharp Essencial";
+	System.String nome = "Curso Csharp Essencial";	
+		
+	object nota = 10;
+	object valor = 8.55m;
+	object nome = 'alife';
+
+
+
+
+
+

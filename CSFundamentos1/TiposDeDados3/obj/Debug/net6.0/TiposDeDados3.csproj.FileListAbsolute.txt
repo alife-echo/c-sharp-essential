@@ -1,0 +1,14 @@
+C:\Users\alife\C#Essential\CSFundamentos1\TiposDeDados3\bin\Debug\net6.0\TiposDeDados3.exe
+C:\Users\alife\C#Essential\CSFundamentos1\TiposDeDados3\bin\Debug\net6.0\TiposDeDados3.deps.json
+C:\Users\alife\C#Essential\CSFundamentos1\TiposDeDados3\bin\Debug\net6.0\TiposDeDados3.runtimeconfig.json
+C:\Users\alife\C#Essential\CSFundamentos1\TiposDeDados3\bin\Debug\net6.0\TiposDeDados3.dll
+C:\Users\alife\C#Essential\CSFundamentos1\TiposDeDados3\bin\Debug\net6.0\TiposDeDados3.pdb
+C:\Users\alife\C#Essential\CSFundamentos1\TiposDeDados3\obj\Debug\net6.0\TiposDeDados3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\C#Essential\CSFundamentos1\TiposDeDados3\obj\Debug\net6.0\TiposDeDados3.AssemblyInfoInputs.cache
+C:\Users\alife\C#Essential\CSFundamentos1\TiposDeDados3\obj\Debug\net6.0\TiposDeDados3.AssemblyInfo.cs
+C:\Users\alife\C#Essential\CSFundamentos1\TiposDeDados3\obj\Debug\net6.0\TiposDeDados3.csproj.CoreCompileInputs.cache
+C:\Users\alife\C#Essential\CSFundamentos1\TiposDeDados3\obj\Debug\net6.0\TiposDeDados3.dll
+C:\Users\alife\C#Essential\CSFundamentos1\TiposDeDados3\obj\Debug\net6.0\refint\TiposDeDados3.dll
+C:\Users\alife\C#Essential\CSFundamentos1\TiposDeDados3\obj\Debug\net6.0\TiposDeDados3.pdb
+C:\Users\alife\C#Essential\CSFundamentos1\TiposDeDados3\obj\Debug\net6.0\TiposDeDados3.genruntimeconfig.cache
+C:\Users\alife\C#Essential\CSFundamentos1\TiposDeDados3\obj\Debug\net6.0\ref\TiposDeDados3.dll
