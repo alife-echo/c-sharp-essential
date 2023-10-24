@@ -1,0 +1,14 @@
+C:\Users\alife\C#Essential\CSFundamentos1\OperacoesComData_e_Hora\bin\Debug\net6.0\OperacoesComData_e_Hora.exe
+C:\Users\alife\C#Essential\CSFundamentos1\OperacoesComData_e_Hora\bin\Debug\net6.0\OperacoesComData_e_Hora.deps.json
+C:\Users\alife\C#Essential\CSFundamentos1\OperacoesComData_e_Hora\bin\Debug\net6.0\OperacoesComData_e_Hora.runtimeconfig.json
+C:\Users\alife\C#Essential\CSFundamentos1\OperacoesComData_e_Hora\bin\Debug\net6.0\OperacoesComData_e_Hora.dll
+C:\Users\alife\C#Essential\CSFundamentos1\OperacoesComData_e_Hora\bin\Debug\net6.0\OperacoesComData_e_Hora.pdb
+C:\Users\alife\C#Essential\CSFundamentos1\OperacoesComData_e_Hora\obj\Debug\net6.0\OperacoesComData_e_Hora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\C#Essential\CSFundamentos1\OperacoesComData_e_Hora\obj\Debug\net6.0\OperacoesComData_e_Hora.AssemblyInfoInputs.cache
+C:\Users\alife\C#Essential\CSFundamentos1\OperacoesComData_e_Hora\obj\Debug\net6.0\OperacoesComData_e_Hora.AssemblyInfo.cs
+C:\Users\alife\C#Essential\CSFundamentos1\OperacoesComData_e_Hora\obj\Debug\net6.0\OperacoesComData_e_Hora.csproj.CoreCompileInputs.cache
+C:\Users\alife\C#Essential\CSFundamentos1\OperacoesComData_e_Hora\obj\Debug\net6.0\OperacoesComData_e_Hora.dll
+C:\Users\alife\C#Essential\CSFundamentos1\OperacoesComData_e_Hora\obj\Debug\net6.0\refint\OperacoesComData_e_Hora.dll
+C:\Users\alife\C#Essential\CSFundamentos1\OperacoesComData_e_Hora\obj\Debug\net6.0\OperacoesComData_e_Hora.pdb
+C:\Users\alife\C#Essential\CSFundamentos1\OperacoesComData_e_Hora\obj\Debug\net6.0\OperacoesComData_e_Hora.genruntimeconfig.cache
+C:\Users\alife\C#Essential\CSFundamentos1\OperacoesComData_e_Hora\obj\Debug\net6.0\ref\OperacoesComData_e_Hora.dll

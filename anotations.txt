@@ -333,3 +333,105 @@ ex:
 
 
 
+# ----- DATE TIME
+
+
+Caracteristica
+
+- tipo valor
+- valor padrão : 01/01/0001 00:00:00
+
+dd/mm/aaaa hh:mm:ss --> pega o formato de data do seu sistema operacional
+
+
+
+Ex:
+
+DateTime data = new DateTime(2022,09,04)
+
+new --> para criar um data especifica
+
+sintaxe para definir data e hora -- > (aaaa,mm,dd,hh,mm,ss)
+
+Ex: 
+   DateTime  data = new DateTime(2022,09,04,11,10,20)
+
+
+
+Pegar a data e o horario atual : 
+
+DateTime data = DateTime.Now; --> log : 24/10/2023  21:00:44
+
+
+
+
+Sem especificar horario:
+
+DateTime dataHoje = new DateTime(2023, 10, 24); 
+Console.WriteLine(dataHoje);  --> log : 24/10/2023 00:00:00
+
+
+Especificando data e horario
+
+DateTime dataHoraHoje = new DateTime(2023 , 10 , 24, 00, 23,01);
+Console.WriteLine(dataHoraHoje);    
+
+
+
+-- Operações com data e hora
+
+1 - Extrair informações como dia, mês, hora , ano, etc
+
+Year,Month, Day,Hour,Minute,Second,Millisecond
+
+
+2 - Adicionar dias,horas,mês,anos,etc.
+
+AddDays,AddHours,AddMonths,AddYears
+
+
+3 - Obter dia da semana e do ano
+
+DayOfWeek,DayOfYear
+
+
+4 - Expressar data no formato longo e abreviado
+
+ToLongDateString, ToShortDateString
+
+
+5 - Expressar hora no formato logo e abreviado
+
+ToLongHourString, ToShortHourString
+
+
+
+
+
+Sintaxe :
+
+DateTime hoje = DateTime.Now;
+Console.WriteLine($"hoje : {hoje}\n");
+// extrair informações da data atual
+Console.WriteLine(hoje.Year);
+Console.WriteLine(hoje.Month);
+Console.WriteLine(hoje.Day);
+Console.WriteLine(hoje.Hour);
+Console.WriteLine(hoje.Second);
+Console.WriteLine(hoje.Millisecond);
+
+//adicionando valores
+Console.WriteLine(hoje.AddDays(20));
+Console.WriteLine(hoje.AddMonths(3));
+Console.WriteLine(hoje.AddHours(2));
+Console.WriteLine(hoje.AddYears(5));
+
+//obter o dia da  semana e do ano
+Console.WriteLine(hoje.DayOfWeek);
+Console.WriteLine(hoje.DayOfYear);
+
+// data no formato longo e curto
+Console.WriteLine(hoje.ToLongDateString());
+Console.WriteLine(hoje.ToShortDateString());
+
+

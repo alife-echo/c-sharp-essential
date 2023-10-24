@@ -26,6 +26,11 @@ dynamic valor3 = 90.3m;
 Console.WriteLine(nota3);
 Console.WriteLine(valor3);
 
+if (nota3 > nota)
+{
+    Console.WriteLine("MeuZovo");
+}
+
 Console.WriteLine(nota);
 Console.WriteLine(valor1);
 Console.WriteLine(nome1);
