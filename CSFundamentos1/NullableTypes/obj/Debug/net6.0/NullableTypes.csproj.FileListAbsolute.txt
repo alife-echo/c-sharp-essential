@@ -1,0 +1,14 @@
+C:\Users\alife\C#Essential\CSFundamentos1\NullableTypes\bin\Debug\net6.0\NullableTypes.exe
+C:\Users\alife\C#Essential\CSFundamentos1\NullableTypes\bin\Debug\net6.0\NullableTypes.deps.json
+C:\Users\alife\C#Essential\CSFundamentos1\NullableTypes\bin\Debug\net6.0\NullableTypes.runtimeconfig.json
+C:\Users\alife\C#Essential\CSFundamentos1\NullableTypes\bin\Debug\net6.0\NullableTypes.dll
+C:\Users\alife\C#Essential\CSFundamentos1\NullableTypes\bin\Debug\net6.0\NullableTypes.pdb
+C:\Users\alife\C#Essential\CSFundamentos1\NullableTypes\obj\Debug\net6.0\NullableTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\C#Essential\CSFundamentos1\NullableTypes\obj\Debug\net6.0\NullableTypes.AssemblyInfoInputs.cache
+C:\Users\alife\C#Essential\CSFundamentos1\NullableTypes\obj\Debug\net6.0\NullableTypes.AssemblyInfo.cs
+C:\Users\alife\C#Essential\CSFundamentos1\NullableTypes\obj\Debug\net6.0\NullableTypes.csproj.CoreCompileInputs.cache
+C:\Users\alife\C#Essential\CSFundamentos1\NullableTypes\obj\Debug\net6.0\NullableTypes.dll
+C:\Users\alife\C#Essential\CSFundamentos1\NullableTypes\obj\Debug\net6.0\refint\NullableTypes.dll
+C:\Users\alife\C#Essential\CSFundamentos1\NullableTypes\obj\Debug\net6.0\NullableTypes.pdb
+C:\Users\alife\C#Essential\CSFundamentos1\NullableTypes\obj\Debug\net6.0\NullableTypes.genruntimeconfig.cache
+C:\Users\alife\C#Essential\CSFundamentos1\NullableTypes\obj\Debug\net6.0\ref\NullableTypes.dll

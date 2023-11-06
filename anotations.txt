@@ -435,3 +435,204 @@ Console.WriteLine(hoje.ToLongDateString());
 Console.WriteLine(hoje.ToShortDateString());
 
 
+
+
+
+# --  Nullable Types
+
+
+Tipos de valor
+
+As variaveis do tipo : numéricos,char,bool,struct --> sempre possuem um valor e são armazenados na memória Stack
+
+variável de um tipo por valor não pode conter o valor null(nulo)
+valor padrão de um tipo valor é (zero)
+
+int valor = 10;         
+
+
+			  Stack            Heap
+			valor = 10
+
+
+int valor = null;    Error -> Cannot convert null to 'type' because it is a non-nullable value type
+
+
+- Nullable Types ou Tipos Anuláveis
+
+
+Importancia : 
+
+Usado para representar um valor indefinido de um tipo, quando um tip sem valor for valido para o meu contexto
+
+Usado em banco de dados quando um valor de variavel for indefinido ou ausente
+
+
+
+Nullable Type = é um tipo de valor que pode receber um valor null
+Nullable Types = ou Tipos Anuláveis permitem atribuir um valor null a um tipo de valor
+ 
+
+Sintaxe
+
+Nullable<T><nome> = null;           (T = int,double,float,bool,etc.)
+
+Os Nullables Types suportam os valores do tipo mais o valor null
+
+Exemplo:
+	Nullable<bool>b= null; //suporta true,false e null
+
+
+ - Simplificando
+
+   int? i = null;
+   double? d = null;
+   bool? b = null;
+
+
+
+- Nullable Types são diferentes do tipos por valor
+ 
+Nullable Type int !== int
+
+int é um tipo não anulável ou Non-Nullable Type
+int? é um NullableType
+
+
+int? a = null;
+int b = a;
+Console.WriteLine(b);
+
+Error: Cannot implicity convert type int? 'to 'int'. An explicit conversion exists(are you missing a cast?)
+
+
+Solução
+
+?? -> coalescência nula
+
+?? -> usar para atribuir um valor de tipo anulavel a um não anulavel
+
+int ? a = null;
+
+int b = a ?? 0; --> se 'a' for nulo ele atribui 'a' se não ele atribui zero
+
+Console.WriteLine(b); 
+
+
+Exemplos:
+
+Problema
+int? x = 4;
+int y = 3;
+int z = x * y;
+
+Error: Cannot implicity convert type int? 'to 'int'. An explicit conversion exists(are you missing a cast?)
+
+
+
+Minha solução
+int? h = 4;
+int j = 3;
+int z = (h * j) ?? 0; 
+Console.WriteLine(z);
+
+Solução Aula
+int? h = 4;
+int? j = 3;
+int? z = h * j;
+Console.WriteLine(z);
+
+
+# Propriedades somente leitura: HasValue e Value
+
+
+
+São usadas para examinar e obter um valor de uma variável de Nullable Type
+
+HasValue: true se tiver um valor, false se não tiver um valor(null)
+
+Value: Exibe o valor atribuído
+
+int? b = 100;
+if(b.HasValue)
+{
+	Console.WriteLine($"b = {b.value}")
+}
+else 
+{
+	Console.WriteLine("b não possui valor");
+}
+
+
+
+
+
+# Convenções
+
+
+CamelCase
+
+Ex: valorDoDesconto , nomeCompleto
+
+- Usado para nome de variáveis,parâmetros e campos internos e privados.
+
+
+
+Pascal Case 
+
+Ex : CalculaImpostoDeRendam ValorDoDesconto, NomeCompleto
+
+Usado para classes,métodos,interfaces,proprieadades
+
+
+Constantes - Usar letras maiúsculas.
+
+Ex: PI,DESCONTO,VALOR,IMPOSTO
+
+
+_ (Sublinhado) - usado para campos internos privados e somente leitura (camel case)
+
+Ex : _valorTotal, _calculoImposto, _precoComDesconto
+
+
+
+- identificadores válidos
+
+string nome;
+string nomeCompleto;
+int idade;
+int _valor;
+int idade1;
+
+- identificadores inválidos
+
+int 5idade;
+int $valor;
+int valor#total;
+string nome Completo;
+
+
+- para nome de variáveis: camel case
+
+string descontoTotal;
+string desconto_Total;
+
+- constantes : maiúsculas
+
+double PI = 3.14;
+string PREFIXO = "11";
+string PREFIXO_SP = "11";
+
+Console.ReadLine(); 
+
+
+- para nomes de classe é métodos: pascal case
+class ImprimirTexto
+{
+    public void ImprimeNome()
+    {
+        Console.WriteLine('Macoratti');
+    }
+}
+
+

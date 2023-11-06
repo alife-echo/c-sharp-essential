@@ -1,0 +1,14 @@
+C:\Users\alife\C#Essential\CSFundamentos1\ConvecoesC#\obj\Debug\net6.0\ConvecoesC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\C#Essential\CSFundamentos1\ConvecoesC#\obj\Debug\net6.0\ConvecoesC#.AssemblyInfoInputs.cache
+C:\Users\alife\C#Essential\CSFundamentos1\ConvecoesC#\obj\Debug\net6.0\ConvecoesC#.AssemblyInfo.cs
+C:\Users\alife\C#Essential\CSFundamentos1\ConvecoesC#\obj\Debug\net6.0\ConvecoesC#.csproj.CoreCompileInputs.cache
+C:\Users\alife\C#Essential\CSFundamentos1\ConvecoesC#\bin\Debug\net6.0\ConvecoesC#.exe
+C:\Users\alife\C#Essential\CSFundamentos1\ConvecoesC#\bin\Debug\net6.0\ConvecoesC#.deps.json
+C:\Users\alife\C#Essential\CSFundamentos1\ConvecoesC#\bin\Debug\net6.0\ConvecoesC#.runtimeconfig.json
+C:\Users\alife\C#Essential\CSFundamentos1\ConvecoesC#\bin\Debug\net6.0\ConvecoesC#.dll
+C:\Users\alife\C#Essential\CSFundamentos1\ConvecoesC#\bin\Debug\net6.0\ConvecoesC#.pdb
+C:\Users\alife\C#Essential\CSFundamentos1\ConvecoesC#\obj\Debug\net6.0\ConvecoesC#.dll
+C:\Users\alife\C#Essential\CSFundamentos1\ConvecoesC#\obj\Debug\net6.0\refint\ConvecoesC#.dll
+C:\Users\alife\C#Essential\CSFundamentos1\ConvecoesC#\obj\Debug\net6.0\ConvecoesC#.pdb
+C:\Users\alife\C#Essential\CSFundamentos1\ConvecoesC#\obj\Debug\net6.0\ConvecoesC#.genruntimeconfig.cache
+C:\Users\alife\C#Essential\CSFundamentos1\ConvecoesC#\obj\Debug\net6.0\ref\ConvecoesC#.dll
