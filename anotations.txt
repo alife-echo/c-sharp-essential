@@ -644,3 +644,66 @@ class ImprimirTexto
 
 Console.WriteLine(); --> Exibe um conteudo com quebra de linha
 Console.Write(); --> Exibe conteudo sem quebra de linha
+
+
+Console.WriteLine();
+Console.WriteLine("-------------CONCATENAÇÃO---------------");
+
+//Escreve na mesma linha 'Maria tem 25 anos'
+// usar a concatenação : usando o operado +
+Console.WriteLine(nome + " tem " + idade + " anos ");
+Console.Write(nome + " tem " + idade + " anos ");
+
+
+Console.WriteLine();
+Console.WriteLine("-------------INTERPOLAÇÃO---------------");
+//Escreve na mesma linha 'Maria tem 25 anos'
+// usar a interpolação de srtings : $ -> interpolação {}
+Console.WriteLine($"{nome} tem {idade} anos");
+Console.Write($"{nome} tem {idade} anos");
+
+Console.WriteLine();
+Console.WriteLine("-------------PLACEHOLDER---------------");
+// usar place holders : usa {} com numeração com inicio em zero
+// numeração indica quem sera mostrado primeiro
+Console.WriteLine("{0} tem {1} anos",nome,idade);
+Console.Write("{0} tem {1} anos", nome, idade);
+
+
+
+
+
+
+# SEQUENCIA DE ESCAPES
+
+Combinação de caracteres que ajudam a especificar uma string
+
+string local = "c:\\dados\\poesias.txt";
+string frase = "Ele falou:\"Não fui eu\" \a";
+string pizza = "\nPizza \nde \nMussarela ";
+string bolo = "\nBolo \tde \tChocolate";
+
+Console.WriteLine(frase);
+Console.WriteLine(pizza);
+Console.WriteLine(bolo);
+Console.ReadLine();
+
+//Formatação usando sequencias Escapses
+/*
+ 
+ \a   --> sinal sonoro (alerta)
+ \b   --> Backspace
+ \f   --> Alimentação de Formulário
+ \n   --> Nova Linha
+ \r   --> Carriage Return
+ \t   --> Tabulação horizontal
+ \v   --> Tabulação vertical
+ \'  --> Aspas Simples
+ \"  --> Aspas duplas
+ \\  --> Barra invertida
+ \?  --> Interrogação
+ \u ooo --> ASCII unicode
+ \x hh --> ASCII hexadecimal
+ */
+
+
