@@ -636,3 +636,11 @@ class ImprimirTexto
 }
 
 
+
+
+
+
+# -- Saida de dados
+
+Console.WriteLine(); --> Exibe um conteudo com quebra de linha
+Console.Write(); --> Exibe conteudo sem quebra de linha
