@@ -21,9 +21,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConvecoesC#", "ConvecoesC#\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioFundamentos1", "ExercicioFundamentos1\ExercicioFundamentos1.csproj", "{83ACD88C-44BF-4E7A-99A6-6D6BA57FEB48}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaidaDados", "SaidaDados\SaidaDados.csproj", "{91047143-AE52-422F-A72F-0856F8588B79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SaidaDados", "SaidaDados\SaidaDados.csproj", "{91047143-AE52-422F-A72F-0856F8588B79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaidaDados2", "SaidaDados2\SaidaDados2.csproj", "{4563E329-AD43-436F-9388-5952719F0ABB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SaidaDados2", "SaidaDados2\SaidaDados2.csproj", "{4563E329-AD43-436F-9388-5952719F0ABB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversaoTipo", "ConversaoTipo\ConversaoTipo.csproj", "{B664A46B-4E95-4B84-A719-3AA76A0EBE3E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{4563E329-AD43-436F-9388-5952719F0ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4563E329-AD43-436F-9388-5952719F0ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4563E329-AD43-436F-9388-5952719F0ABB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B664A46B-4E95-4B84-A719-3AA76A0EBE3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B664A46B-4E95-4B84-A719-3AA76A0EBE3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B664A46B-4E95-4B84-A719-3AA76A0EBE3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B664A46B-4E95-4B84-A719-3AA76A0EBE3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

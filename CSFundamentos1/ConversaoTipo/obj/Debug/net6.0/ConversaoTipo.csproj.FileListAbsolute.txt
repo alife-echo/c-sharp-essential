@@ -1,0 +1,14 @@
+C:\Users\alife\C#Essential\CSFundamentos1\ConversaoTipo\bin\Debug\net6.0\ConversaoTipo.exe
+C:\Users\alife\C#Essential\CSFundamentos1\ConversaoTipo\bin\Debug\net6.0\ConversaoTipo.deps.json
+C:\Users\alife\C#Essential\CSFundamentos1\ConversaoTipo\bin\Debug\net6.0\ConversaoTipo.runtimeconfig.json
+C:\Users\alife\C#Essential\CSFundamentos1\ConversaoTipo\bin\Debug\net6.0\ConversaoTipo.dll
+C:\Users\alife\C#Essential\CSFundamentos1\ConversaoTipo\bin\Debug\net6.0\ConversaoTipo.pdb
+C:\Users\alife\C#Essential\CSFundamentos1\ConversaoTipo\obj\Debug\net6.0\ConversaoTipo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\C#Essential\CSFundamentos1\ConversaoTipo\obj\Debug\net6.0\ConversaoTipo.AssemblyInfoInputs.cache
+C:\Users\alife\C#Essential\CSFundamentos1\ConversaoTipo\obj\Debug\net6.0\ConversaoTipo.AssemblyInfo.cs
+C:\Users\alife\C#Essential\CSFundamentos1\ConversaoTipo\obj\Debug\net6.0\ConversaoTipo.csproj.CoreCompileInputs.cache
+C:\Users\alife\C#Essential\CSFundamentos1\ConversaoTipo\obj\Debug\net6.0\ConversaoTipo.dll
+C:\Users\alife\C#Essential\CSFundamentos1\ConversaoTipo\obj\Debug\net6.0\refint\ConversaoTipo.dll
+C:\Users\alife\C#Essential\CSFundamentos1\ConversaoTipo\obj\Debug\net6.0\ConversaoTipo.pdb
+C:\Users\alife\C#Essential\CSFundamentos1\ConversaoTipo\obj\Debug\net6.0\ConversaoTipo.genruntimeconfig.cache
+C:\Users\alife\C#Essential\CSFundamentos1\ConversaoTipo\obj\Debug\net6.0\ref\ConversaoTipo.dll
