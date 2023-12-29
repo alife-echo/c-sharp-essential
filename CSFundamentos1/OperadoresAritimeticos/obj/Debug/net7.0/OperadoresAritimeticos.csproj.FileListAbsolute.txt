@@ -1,0 +1,14 @@
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresAritimeticos\bin\Debug\net7.0\OperadoresAritimeticos.exe
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresAritimeticos\bin\Debug\net7.0\OperadoresAritimeticos.deps.json
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresAritimeticos\bin\Debug\net7.0\OperadoresAritimeticos.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresAritimeticos\bin\Debug\net7.0\OperadoresAritimeticos.dll
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresAritimeticos\bin\Debug\net7.0\OperadoresAritimeticos.pdb
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresAritimeticos\obj\Debug\net7.0\OperadoresAritimeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresAritimeticos\obj\Debug\net7.0\OperadoresAritimeticos.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresAritimeticos\obj\Debug\net7.0\OperadoresAritimeticos.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresAritimeticos\obj\Debug\net7.0\OperadoresAritimeticos.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresAritimeticos\obj\Debug\net7.0\OperadoresAritimeticos.dll
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresAritimeticos\obj\Debug\net7.0\refint\OperadoresAritimeticos.dll
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresAritimeticos\obj\Debug\net7.0\OperadoresAritimeticos.pdb
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresAritimeticos\obj\Debug\net7.0\OperadoresAritimeticos.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresAritimeticos\obj\Debug\net7.0\ref\OperadoresAritimeticos.dll

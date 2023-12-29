@@ -12,6 +12,9 @@ string nome = Console.ReadLine() ?? "";
 Console.WriteLine($"\nO seu nome é {nome}");
 
 Console.WriteLine($"\n Informe sua idade {nome}");
+
 int idade = Convert.ToInt32(Console.ReadLine());
+
 Console.WriteLine($"\n A idade de {nome} é {idade}");
+
 Console.ReadKey();
