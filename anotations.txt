@@ -787,3 +787,9 @@ int num2 = 4;
 float resultado = (float)(num1 / num2);
 Console.WriteLine(resultado);
 Console.ReadLine();
+
+
+
+
+
+--> Conversão de tipos 2

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dedPsLKt8KkLAiQ0HlxqknEcYdxKJg2gwUrOa4TfCjoiVfWVh6oN0wgt8suxNh1qXEVhvZvieZUGmVFLFe+1Ig==",
+  "dgSpecHash": "/ZI3S8c9j86U+OLBPstDsjBIAD36EwQZriFky84SKVm7vtzrPjgLuHeL4kFQM9f40TISDVjv9uvyswOglXrXmQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alife\\C#Essential\\CSFundamentos1\\NullableTypes\\NullableTypes.csproj",
+  "projectFilePath": "C:\\Users\\alife\\c-sharp-essential\\CSFundamentos1\\NullableTypes\\NullableTypes.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

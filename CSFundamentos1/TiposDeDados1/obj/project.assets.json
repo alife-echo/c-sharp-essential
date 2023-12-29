@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alife\\C#Essential\\CSFundamentos1\\TiposDeDados1\\TiposDeDados1.csproj",
+      "projectUniqueName": "C:\\Users\\alife\\c-sharp-essential\\CSFundamentos1\\TiposDeDados1\\TiposDeDados1.csproj",
       "projectName": "TiposDeDados1",
-      "projectPath": "C:\\Users\\alife\\C#Essential\\CSFundamentos1\\TiposDeDados1\\TiposDeDados1.csproj",
+      "projectPath": "C:\\Users\\alife\\c-sharp-essential\\CSFundamentos1\\TiposDeDados1\\TiposDeDados1.csproj",
       "packagesPath": "C:\\Users\\alife\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alife\\C#Essential\\CSFundamentos1\\TiposDeDados1\\obj\\",
+      "outputPath": "C:\\Users\\alife\\c-sharp-essential\\CSFundamentos1\\TiposDeDados1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

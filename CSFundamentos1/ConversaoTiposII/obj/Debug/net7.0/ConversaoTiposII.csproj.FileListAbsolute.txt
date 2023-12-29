@@ -1,0 +1,14 @@
+C:\Users\alife\c-sharp-essential\CSFundamentos1\ConversaoTiposII\bin\Debug\net7.0\ConversaoTiposII.exe
+C:\Users\alife\c-sharp-essential\CSFundamentos1\ConversaoTiposII\bin\Debug\net7.0\ConversaoTiposII.deps.json
+C:\Users\alife\c-sharp-essential\CSFundamentos1\ConversaoTiposII\bin\Debug\net7.0\ConversaoTiposII.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\CSFundamentos1\ConversaoTiposII\bin\Debug\net7.0\ConversaoTiposII.dll
+C:\Users\alife\c-sharp-essential\CSFundamentos1\ConversaoTiposII\bin\Debug\net7.0\ConversaoTiposII.pdb
+C:\Users\alife\c-sharp-essential\CSFundamentos1\ConversaoTiposII\obj\Debug\net7.0\ConversaoTiposII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\CSFundamentos1\ConversaoTiposII\obj\Debug\net7.0\ConversaoTiposII.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\CSFundamentos1\ConversaoTiposII\obj\Debug\net7.0\ConversaoTiposII.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\CSFundamentos1\ConversaoTiposII\obj\Debug\net7.0\ConversaoTiposII.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\CSFundamentos1\ConversaoTiposII\obj\Debug\net7.0\ConversaoTiposII.dll
+C:\Users\alife\c-sharp-essential\CSFundamentos1\ConversaoTiposII\obj\Debug\net7.0\refint\ConversaoTiposII.dll
+C:\Users\alife\c-sharp-essential\CSFundamentos1\ConversaoTiposII\obj\Debug\net7.0\ConversaoTiposII.pdb
+C:\Users\alife\c-sharp-essential\CSFundamentos1\ConversaoTiposII\obj\Debug\net7.0\ConversaoTiposII.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\CSFundamentos1\ConversaoTiposII\obj\Debug\net7.0\ref\ConversaoTiposII.dll

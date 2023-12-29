@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alife\\C#Essential\\CSFundamentos1\\NullableTypes\\NullableTypes.csproj": {}
+    "C:\\Users\\alife\\c-sharp-essential\\CSFundamentos1\\NullableTypes\\NullableTypes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alife\\C#Essential\\CSFundamentos1\\NullableTypes\\NullableTypes.csproj": {
+    "C:\\Users\\alife\\c-sharp-essential\\CSFundamentos1\\NullableTypes\\NullableTypes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alife\\C#Essential\\CSFundamentos1\\NullableTypes\\NullableTypes.csproj",
+        "projectUniqueName": "C:\\Users\\alife\\c-sharp-essential\\CSFundamentos1\\NullableTypes\\NullableTypes.csproj",
         "projectName": "NullableTypes",
-        "projectPath": "C:\\Users\\alife\\C#Essential\\CSFundamentos1\\NullableTypes\\NullableTypes.csproj",
+        "projectPath": "C:\\Users\\alife\\c-sharp-essential\\CSFundamentos1\\NullableTypes\\NullableTypes.csproj",
         "packagesPath": "C:\\Users\\alife\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alife\\C#Essential\\CSFundamentos1\\NullableTypes\\obj\\",
+        "outputPath": "C:\\Users\\alife\\c-sharp-essential\\CSFundamentos1\\NullableTypes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
