@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConversaoTipo", "ConversaoT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversaoTiposII", "ConversaoTiposII\ConversaoTiposII.csproj", "{DCBC5B23-B411-40D7-9A95-689ED06383D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntradaDeDados", "EntradaDeDados\EntradaDeDados.csproj", "{7F6C8DB2-C649-4C0F-AC23-AF35C8A8BDA2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{DCBC5B23-B411-40D7-9A95-689ED06383D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCBC5B23-B411-40D7-9A95-689ED06383D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCBC5B23-B411-40D7-9A95-689ED06383D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F6C8DB2-C649-4C0F-AC23-AF35C8A8BDA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F6C8DB2-C649-4C0F-AC23-AF35C8A8BDA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F6C8DB2-C649-4C0F-AC23-AF35C8A8BDA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F6C8DB2-C649-4C0F-AC23-AF35C8A8BDA2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
