@@ -27,11 +27,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SaidaDados2", "SaidaDados2\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConversaoTipo", "ConversaoTipo\ConversaoTipo.csproj", "{B664A46B-4E95-4B84-A719-3AA76A0EBE3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversaoTiposII", "ConversaoTiposII\ConversaoTiposII.csproj", "{DCBC5B23-B411-40D7-9A95-689ED06383D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConversaoTiposII", "ConversaoTiposII\ConversaoTiposII.csproj", "{DCBC5B23-B411-40D7-9A95-689ED06383D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntradaDeDados", "EntradaDeDados\EntradaDeDados.csproj", "{7F6C8DB2-C649-4C0F-AC23-AF35C8A8BDA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntradaDeDados", "EntradaDeDados\EntradaDeDados.csproj", "{7F6C8DB2-C649-4C0F-AC23-AF35C8A8BDA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresAritimeticos", "OperadoresAritimeticos\OperadoresAritimeticos.csproj", "{8A44FCF7-1A5D-433E-9E67-ACB05EC13DF8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresAritimeticos", "OperadoresAritimeticos\OperadoresAritimeticos.csproj", "{8A44FCF7-1A5D-433E-9E67-ACB05EC13DF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InferenciaDeTipos", "InferenciaDeTipos\InferenciaDeTipos.csproj", "{6E2465DA-396F-4A5C-8B16-927418CF5C12}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{8A44FCF7-1A5D-433E-9E67-ACB05EC13DF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A44FCF7-1A5D-433E-9E67-ACB05EC13DF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A44FCF7-1A5D-433E-9E67-ACB05EC13DF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E2465DA-396F-4A5C-8B16-927418CF5C12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E2465DA-396F-4A5C-8B16-927418CF5C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E2465DA-396F-4A5C-8B16-927418CF5C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E2465DA-396F-4A5C-8B16-927418CF5C12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
