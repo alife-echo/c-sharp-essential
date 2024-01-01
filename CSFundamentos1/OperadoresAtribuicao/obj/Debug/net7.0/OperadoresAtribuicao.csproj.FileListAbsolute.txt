@@ -1,0 +1,14 @@
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresAtribuicao\bin\Debug\net7.0\OperadoresAtribuicao.exe
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresAtribuicao\bin\Debug\net7.0\OperadoresAtribuicao.deps.json
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresAtribuicao\bin\Debug\net7.0\OperadoresAtribuicao.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresAtribuicao\bin\Debug\net7.0\OperadoresAtribuicao.dll
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresAtribuicao\bin\Debug\net7.0\OperadoresAtribuicao.pdb
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresAtribuicao\obj\Debug\net7.0\OperadoresAtribuicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresAtribuicao\obj\Debug\net7.0\OperadoresAtribuicao.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresAtribuicao\obj\Debug\net7.0\OperadoresAtribuicao.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresAtribuicao\obj\Debug\net7.0\OperadoresAtribuicao.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresAtribuicao\obj\Debug\net7.0\OperadoresAtribuicao.dll
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresAtribuicao\obj\Debug\net7.0\refint\OperadoresAtribuicao.dll
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresAtribuicao\obj\Debug\net7.0\OperadoresAtribuicao.pdb
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresAtribuicao\obj\Debug\net7.0\OperadoresAtribuicao.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresAtribuicao\obj\Debug\net7.0\ref\OperadoresAtribuicao.dll
