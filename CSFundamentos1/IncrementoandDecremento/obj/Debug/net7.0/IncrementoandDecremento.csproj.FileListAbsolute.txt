@@ -1,0 +1,14 @@
+C:\Users\alife\c-sharp-essential\CSFundamentos1\IncrementoandDecremento\bin\Debug\net7.0\IncrementoandDecremento.exe
+C:\Users\alife\c-sharp-essential\CSFundamentos1\IncrementoandDecremento\bin\Debug\net7.0\IncrementoandDecremento.deps.json
+C:\Users\alife\c-sharp-essential\CSFundamentos1\IncrementoandDecremento\bin\Debug\net7.0\IncrementoandDecremento.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\CSFundamentos1\IncrementoandDecremento\bin\Debug\net7.0\IncrementoandDecremento.dll
+C:\Users\alife\c-sharp-essential\CSFundamentos1\IncrementoandDecremento\bin\Debug\net7.0\IncrementoandDecremento.pdb
+C:\Users\alife\c-sharp-essential\CSFundamentos1\IncrementoandDecremento\obj\Debug\net7.0\IncrementoandDecremento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\CSFundamentos1\IncrementoandDecremento\obj\Debug\net7.0\IncrementoandDecremento.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\CSFundamentos1\IncrementoandDecremento\obj\Debug\net7.0\IncrementoandDecremento.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\CSFundamentos1\IncrementoandDecremento\obj\Debug\net7.0\IncrementoandDecremento.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\CSFundamentos1\IncrementoandDecremento\obj\Debug\net7.0\IncrementoandDecremento.dll
+C:\Users\alife\c-sharp-essential\CSFundamentos1\IncrementoandDecremento\obj\Debug\net7.0\refint\IncrementoandDecremento.dll
+C:\Users\alife\c-sharp-essential\CSFundamentos1\IncrementoandDecremento\obj\Debug\net7.0\IncrementoandDecremento.pdb
+C:\Users\alife\c-sharp-essential\CSFundamentos1\IncrementoandDecremento\obj\Debug\net7.0\IncrementoandDecremento.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\CSFundamentos1\IncrementoandDecremento\obj\Debug\net7.0\ref\IncrementoandDecremento.dll
