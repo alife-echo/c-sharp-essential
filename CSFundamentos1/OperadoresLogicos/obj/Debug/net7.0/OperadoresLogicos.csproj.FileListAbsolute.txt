@@ -1,0 +1,14 @@
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresLogicos\bin\Debug\net7.0\OperadoresLogicos.exe
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresLogicos\bin\Debug\net7.0\OperadoresLogicos.deps.json
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresLogicos\bin\Debug\net7.0\OperadoresLogicos.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresLogicos\bin\Debug\net7.0\OperadoresLogicos.dll
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresLogicos\bin\Debug\net7.0\OperadoresLogicos.pdb
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresLogicos\obj\Debug\net7.0\OperadoresLogicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresLogicos\obj\Debug\net7.0\OperadoresLogicos.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresLogicos\obj\Debug\net7.0\OperadoresLogicos.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresLogicos\obj\Debug\net7.0\OperadoresLogicos.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresLogicos\obj\Debug\net7.0\OperadoresLogicos.dll
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresLogicos\obj\Debug\net7.0\refint\OperadoresLogicos.dll
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresLogicos\obj\Debug\net7.0\OperadoresLogicos.pdb
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresLogicos\obj\Debug\net7.0\OperadoresLogicos.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresLogicos\obj\Debug\net7.0\ref\OperadoresLogicos.dll
