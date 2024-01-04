@@ -36,4 +36,4 @@ int x2 = 0;
 int resultado2 = ++x2 + 10;
 Console.WriteLine($"resultado ${resultado2}\n");
 
-// mesma logia para o decremento --
+// mesma logica para o decremento --

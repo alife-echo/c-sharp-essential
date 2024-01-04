@@ -35,11 +35,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresAritimeticos", "O
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InferenciaDeTipos", "InferenciaDeTipos\InferenciaDeTipos.csproj", "{6E2465DA-396F-4A5C-8B16-927418CF5C12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresAtribuicao", "OperadoresAtribuicao\OperadoresAtribuicao.csproj", "{6F454414-1451-42D5-873A-39A2407CE1CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresAtribuicao", "OperadoresAtribuicao\OperadoresAtribuicao.csproj", "{6F454414-1451-42D5-873A-39A2407CE1CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constantes", "Constantes\Constantes.csproj", "{953F211D-A4C1-4297-A885-FA1D8A76A45C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constantes", "Constantes\Constantes.csproj", "{953F211D-A4C1-4297-A885-FA1D8A76A45C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncrementoandDecremento", "IncrementoandDecremento\IncrementoandDecremento.csproj", "{10BB5708-2DCA-4B72-AEAC-51EB0CCD9F24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IncrementoandDecremento", "IncrementoandDecremento\IncrementoandDecremento.csproj", "{10BB5708-2DCA-4B72-AEAC-51EB0CCD9F24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresRelacionais", "OperadoresRelacionais\OperadoresRelacionais.csproj", "{615DF836-6182-4D08-92EF-9D1DBA956D77}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{10BB5708-2DCA-4B72-AEAC-51EB0CCD9F24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10BB5708-2DCA-4B72-AEAC-51EB0CCD9F24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10BB5708-2DCA-4B72-AEAC-51EB0CCD9F24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{615DF836-6182-4D08-92EF-9D1DBA956D77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{615DF836-6182-4D08-92EF-9D1DBA956D77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{615DF836-6182-4D08-92EF-9D1DBA956D77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{615DF836-6182-4D08-92EF-9D1DBA956D77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

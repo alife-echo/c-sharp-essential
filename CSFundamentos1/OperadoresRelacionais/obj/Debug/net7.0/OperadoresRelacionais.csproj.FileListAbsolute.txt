@@ -1,0 +1,14 @@
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresRelacionais\bin\Debug\net7.0\OperadoresRelacionais.exe
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresRelacionais\bin\Debug\net7.0\OperadoresRelacionais.deps.json
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresRelacionais\bin\Debug\net7.0\OperadoresRelacionais.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresRelacionais\bin\Debug\net7.0\OperadoresRelacionais.dll
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresRelacionais\bin\Debug\net7.0\OperadoresRelacionais.pdb
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresRelacionais\obj\Debug\net7.0\OperadoresRelacionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresRelacionais\obj\Debug\net7.0\OperadoresRelacionais.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresRelacionais\obj\Debug\net7.0\OperadoresRelacionais.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresRelacionais\obj\Debug\net7.0\OperadoresRelacionais.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresRelacionais\obj\Debug\net7.0\OperadoresRelacionais.dll
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresRelacionais\obj\Debug\net7.0\refint\OperadoresRelacionais.dll
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresRelacionais\obj\Debug\net7.0\OperadoresRelacionais.pdb
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresRelacionais\obj\Debug\net7.0\OperadoresRelacionais.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadoresRelacionais\obj\Debug\net7.0\ref\OperadoresRelacionais.dll
