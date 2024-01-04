@@ -1,0 +1,14 @@
+C:\Users\alife\c-sharp-essential\CSFundamentos1\PrecedenciaEassociatividade\bin\Debug\net7.0\PrecedenciaEassociatividade.exe
+C:\Users\alife\c-sharp-essential\CSFundamentos1\PrecedenciaEassociatividade\bin\Debug\net7.0\PrecedenciaEassociatividade.deps.json
+C:\Users\alife\c-sharp-essential\CSFundamentos1\PrecedenciaEassociatividade\bin\Debug\net7.0\PrecedenciaEassociatividade.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\CSFundamentos1\PrecedenciaEassociatividade\bin\Debug\net7.0\PrecedenciaEassociatividade.dll
+C:\Users\alife\c-sharp-essential\CSFundamentos1\PrecedenciaEassociatividade\bin\Debug\net7.0\PrecedenciaEassociatividade.pdb
+C:\Users\alife\c-sharp-essential\CSFundamentos1\PrecedenciaEassociatividade\obj\Debug\net7.0\PrecedenciaEassociatividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\CSFundamentos1\PrecedenciaEassociatividade\obj\Debug\net7.0\PrecedenciaEassociatividade.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\CSFundamentos1\PrecedenciaEassociatividade\obj\Debug\net7.0\PrecedenciaEassociatividade.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\CSFundamentos1\PrecedenciaEassociatividade\obj\Debug\net7.0\PrecedenciaEassociatividade.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\CSFundamentos1\PrecedenciaEassociatividade\obj\Debug\net7.0\PrecedenciaEassociatividade.dll
+C:\Users\alife\c-sharp-essential\CSFundamentos1\PrecedenciaEassociatividade\obj\Debug\net7.0\refint\PrecedenciaEassociatividade.dll
+C:\Users\alife\c-sharp-essential\CSFundamentos1\PrecedenciaEassociatividade\obj\Debug\net7.0\PrecedenciaEassociatividade.pdb
+C:\Users\alife\c-sharp-essential\CSFundamentos1\PrecedenciaEassociatividade\obj\Debug\net7.0\PrecedenciaEassociatividade.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\CSFundamentos1\PrecedenciaEassociatividade\obj\Debug\net7.0\ref\PrecedenciaEassociatividade.dll
