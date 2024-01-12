@@ -1,0 +1,14 @@
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadorTernario\bin\Debug\net7.0\OperadorTernario.exe
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadorTernario\bin\Debug\net7.0\OperadorTernario.deps.json
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadorTernario\bin\Debug\net7.0\OperadorTernario.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadorTernario\bin\Debug\net7.0\OperadorTernario.dll
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadorTernario\bin\Debug\net7.0\OperadorTernario.pdb
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadorTernario\obj\Debug\net7.0\OperadorTernario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadorTernario\obj\Debug\net7.0\OperadorTernario.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadorTernario\obj\Debug\net7.0\OperadorTernario.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadorTernario\obj\Debug\net7.0\OperadorTernario.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadorTernario\obj\Debug\net7.0\OperadorTernario.dll
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadorTernario\obj\Debug\net7.0\refint\OperadorTernario.dll
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadorTernario\obj\Debug\net7.0\OperadorTernario.pdb
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadorTernario\obj\Debug\net7.0\OperadorTernario.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\CSFundamentos1\OperadorTernario\obj\Debug\net7.0\ref\OperadorTernario.dll

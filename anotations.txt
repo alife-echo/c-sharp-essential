@@ -205,7 +205,12 @@ CTRL + F --> Localizar algo no documento atual
 
 Tipos de referência --> Não armazenam os dados diretamente, cada variavel contém uma referência ao local da memória onde os dados estão dados estão armazenados
 
+class,object,string
+
+
 Tipos de valor --> Armazenam diretamente seus dados e cada variável tem sua própia cópia dos dados
+
+tipos numericos,char,bool,struct
 
 Os tipos de dados são armazenados na memória Stack(LIFO - Last in First Out)
 
@@ -1234,3 +1239,121 @@ int a = 5, b = 6, c = 4;
 int r = --a * b - ++c; // 19
 Console.WriteLine(r);
 Console.ReadKey();
+
+
+
+
+
+
+
+
+
+
+
+
+# -- Nullable reference types
+
+
+Objetivo --> Minimizar a chance de seu aplicativo lançar um error/alerta -> System.NullReferenceException quando executado
+
+string nome = null; -- alerta --> Converting null literal or possible null value to non-nullbable type
+
+Console.WriteLine(nome);
+Console.WriteLine(nome.ToUpper());--> System.NullRefenceException : 'Object reference not set to an instance of an object' -> ocorre quando tento acessar as propriedade de um tipo de refencia com valor nulo
+
+salvação --> Nullable Reference Types
+
+recapitulação abaixo : 
+
+Um tipo de referência pode não ter nenhuma referencia
+
+Isso é expresso com o valor null (nulo)
+
+Se uma variável de um tipo de referência for igual a null ela não tem nenhuma referência 
+a um valor na memória heap
+
+isso também ocorre quando declaramos a variavel de um tipo de referencia mas não atribuimos um valor a ela
+
+valor padrão para uma variavel de refencia é null
+
+
+
+
+# -- Nullable Refence Types - Evitar o NullReferenceException
+
+Usar ? ->  ao atribuir o valor null
+
+Usar ?. -> ao acessar a referencia
+
+? significa -> Nullable
+
+?. significa -> Null Conditional Operator
+
+
+
+exemplo : 
+
+
+Console.WriteLine("Nullable Refence Types");
+
+
+string? nome = null; // ou poder ser isso -> string? nome = "";
+
+Console.WriteLine(nome?.ToUpper()); // se nome for null ele atribui o valor null porem se não for null ele transforme em caixa alta
+
+
+Console.ReadKey();
+
+
+
+
+
+
+
+
+# -- Operador Unitário E Ternário
+
+
+Unitário (+) e Unitário(-)
+
+Ternário(?:)
+
+ uniário +(mais)
+
+// operador positivo não tem feito na expressão
+int positivo = 2;
+int resultado;
+
+resultado = +positivo; 
+Console.WriteLine(resultado); // apenas retorna o valor atribuido
+
+
+
+
+uniário -(menos)
+
+Console.WriteLine("Informe o numero:\n");
+var n = Convert.ToInt32(Console.ReadLine());
+
+Console.WriteLine($"O negativo de {n} é igual a {-n}"); produz o negativo do seu operando
+
+Console.ReadKey();
+
+
+
+
+
+
+# -- Operador condicional ternário
+
+
+Avalia uma expresão booleana e retorna o resultado de uma das duas expressoes depedendo da expressão avaliada como true ou false
+
+
+Operador ternário (?:) é usado para validar uma condição
+
+
+sintaxe :
+
+condição ? expressão_se_true : expressão2_se_false
+
