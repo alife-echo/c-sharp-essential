@@ -1,0 +1,14 @@
+C:\Users\alife\c-sharp-essential\CSFundamentos1\ExercicioFase2Fundamentos\bin\Debug\net7.0\ExercicioFase2Fundamentos.exe
+C:\Users\alife\c-sharp-essential\CSFundamentos1\ExercicioFase2Fundamentos\bin\Debug\net7.0\ExercicioFase2Fundamentos.deps.json
+C:\Users\alife\c-sharp-essential\CSFundamentos1\ExercicioFase2Fundamentos\bin\Debug\net7.0\ExercicioFase2Fundamentos.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\CSFundamentos1\ExercicioFase2Fundamentos\bin\Debug\net7.0\ExercicioFase2Fundamentos.dll
+C:\Users\alife\c-sharp-essential\CSFundamentos1\ExercicioFase2Fundamentos\bin\Debug\net7.0\ExercicioFase2Fundamentos.pdb
+C:\Users\alife\c-sharp-essential\CSFundamentos1\ExercicioFase2Fundamentos\obj\Debug\net7.0\ExercicioFase2Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\CSFundamentos1\ExercicioFase2Fundamentos\obj\Debug\net7.0\ExercicioFase2Fundamentos.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\CSFundamentos1\ExercicioFase2Fundamentos\obj\Debug\net7.0\ExercicioFase2Fundamentos.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\CSFundamentos1\ExercicioFase2Fundamentos\obj\Debug\net7.0\ExercicioFase2Fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\CSFundamentos1\ExercicioFase2Fundamentos\obj\Debug\net7.0\ExercicioFase2Fundamentos.dll
+C:\Users\alife\c-sharp-essential\CSFundamentos1\ExercicioFase2Fundamentos\obj\Debug\net7.0\refint\ExercicioFase2Fundamentos.dll
+C:\Users\alife\c-sharp-essential\CSFundamentos1\ExercicioFase2Fundamentos\obj\Debug\net7.0\ExercicioFase2Fundamentos.pdb
+C:\Users\alife\c-sharp-essential\CSFundamentos1\ExercicioFase2Fundamentos\obj\Debug\net7.0\ExercicioFase2Fundamentos.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\CSFundamentos1\ExercicioFase2Fundamentos\obj\Debug\net7.0\ref\ExercicioFase2Fundamentos.dll
