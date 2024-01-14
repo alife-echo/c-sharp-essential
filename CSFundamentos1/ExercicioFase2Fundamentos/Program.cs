@@ -139,3 +139,31 @@ Console.WriteLine(y13);
 Console.WriteLine("\n");
 Console.WriteLine("-----------------------------");
 Console.WriteLine("\n");
+
+
+Console.WriteLine("Q14");
+int kelvin, farhenheit, celsius;
+Console.WriteLine("Digite o valor do celsius");
+celsius = Convert.ToInt32(Console.ReadLine());
+kelvin = (celsius >= -273 && celsius <= 100) ? celsius + 273 : 0;
+farhenheit = (celsius >= -273 && celsius <= 100) ? ((celsius * 9) / (5 + 32)) : 0;
+Console.WriteLine($"K:{(kelvin == 0 ? "Informe o celsius corretamente" :kelvin)},F:{(farhenheit == 0 ? "Informe o celsius corretamente":farhenheit)}");
+Console.WriteLine("\n");
+Console.WriteLine("-----------------------------");
+Console.WriteLine("\n");
+
+
+Console.WriteLine("Q15");
+var numero = 5;
+Console.WriteLine(numero++);
+numero = 1;
+Console.WriteLine(++numero);
+numero = 2;
+Console.WriteLine(numero--);
+numero = 3;
+Console.WriteLine(--numero);
+Console.ReadKey();
+Console.WriteLine("5\n2\n2\n\n2");
+Console.WriteLine("\n");
+Console.WriteLine("-----------------------------");
+Console.WriteLine("\n");
