@@ -91,6 +91,7 @@ else
     Console.WriteLine("Aluno reprovado");
 }
 */
+/*
 Console.WriteLine("Informe o valor de x\t");
 int x = Convert.ToInt32(Console.ReadLine());
 
@@ -112,4 +113,31 @@ else
     {
         Console.WriteLine("x é igual a y");
     }
+}
+*/
+
+
+
+
+Console.WriteLine("Digite a nota do aluno");
+var nota = Convert.ToDouble(Console.ReadLine());
+
+if(nota < 5)
+{
+    Console.WriteLine("Aluno Reprovado");
+}
+else if(nota >= 5 && nota <= 6)
+{
+    Console.WriteLine("Aluno em Recuperação");
+}
+else if(nota >= 6 && nota <= 9)
+{
+    Console.WriteLine("Aluno Aprovado");
+}
+else if (nota > 9){
+    Console.WriteLine("Aluno Aprovado com Distinção");
+}
+else
+{
+    Console.WriteLine("Error No sistema");
 }
