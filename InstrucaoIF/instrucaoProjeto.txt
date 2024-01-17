@@ -1,0 +1,200 @@
+
+# -- Instrução IF
+
+
+
+Console.WriteLine("Instrução IF!");
+
+    if(expressao booleana)
+    {
+     //executa o bloco de instrução se expressão for true
+    //instrução 1
+    //instrução 2
+    }
+    ou
+
+    if(expressao booleana)
+       //executa apenas uma instrução se a expressão for true
+       //uso de chaves opcional
+
+
+//
+
+
+    Console.WriteLine("Cliente Especial (S/N)");
+    string? resposta = Console.ReadLine();
+    if(resposta == "S")
+    {
+        Console.WriteLine("Desconto de 10%");
+    }
+    Console.WriteLine("Fim do processamento");
+
+
+//
+
+    Console.WriteLine("Cliente Especial (true/false)");
+    var resposta = Convert.ToBoolean(Console.ReadLine());
+    if(resposta)
+    {
+        Console.WriteLine("Desconto de 10%");
+    }
+    Console.WriteLine("Fim do processamento");
+//
+    Console.WriteLine("Cliente Especial (true/false)");
+    var resposta = Convert.ToBoolean(Console.ReadLine());
+    if(resposta)
+    {
+        Console.WriteLine("Desconto de 10%");
+    }
+    Console.WriteLine("Fim do processamento");
+    Console.ReadKey();
+//
+    bool clientEspecial = false;
+    Console.WriteLine("Cliente Especial (S/N)\t");
+    var result = Console.ReadLine();
+
+    if(result == "S")
+    {
+        clientEspecial = true;
+    }
+    if(clientEspecial)
+    {
+        Console.WriteLine("Desconto de 10%");
+    }
+    Console.WriteLine("Fim do processamento");
+    Console.ReadKey();
+//
+    Console.WriteLine("Informe o valor x\t");
+    int x = Convert.ToInt32(Console.ReadLine());
+
+    Console.WriteLine("\n Informe o valor y \t");
+    int y = Convert.ToInt32(Console.ReadLine()); 
+
+    if(x > y)
+    {
+        Console.WriteLine("x é maior que y");
+    }
+    if(x < y)
+    {
+        Console.WriteLine("x é menor que y");
+    }
+    if(x == y)
+    {
+        Console.WriteLine("x é igual a y");
+    }
+
+
+
+
+
+
+# -- Instrução if-else
+
+
+
+
+sintaxe
+
+if(expressao booleana)
+{
+  //executa for true
+ //instrução 1
+ //instrução 2
+}
+else
+{
+ //executa for false 
+//instrução 1
+//instrução 2
+}
+
+
+
+# -- exemplo 1
+
+
+Console.WriteLine("Informe a nota do aluno");
+var nota = Convert.ToInt32(Console.ReadLine());
+
+if(nota > 5)
+{
+    Console.WriteLine("Aluno Aprovado");
+}
+else
+{
+    Console.WriteLine("Aluno reprovado");
+}
+
+
+# -- exemplo 2
+
+
+
+Console.WriteLine("Informe o valor de x\t");
+int x = Convert.ToInt32(Console.ReadLine());
+
+Console.WriteLine("\n Informe o valor de y \t");
+int y = Convert.ToInt32(Console.ReadLine());   
+
+// if é else aninhados
+if(x > y)
+{
+    Console.WriteLine("x é maior que y");
+}
+else
+{
+    if(x < y)
+    {
+        Console.WriteLine("x é menor que y");
+    }
+    else
+    {
+        Console.WriteLine("x é igual a y");
+    }
+}
+
+
+
+
+# -- Instrução if-else-if
+
+
+usar a instrução else if após a instrução if para avaliar mais de uma condição
+
+
+as instruções else if somente serão executadas se a condição na instrução if for falsa
+
+
+a instrução else if verifica cada condição de cima para baixo sequencialmente , e , se uma condição for verdadeira, o bloco correspondente é executado e as demais condições não serão avaliadas
+
+
+se nenhuma condição for verdadeira, o bloco else é executado (else é opcional)
+
+
+
+-- Instrução if-else-if -sintaxe
+
+if(condição1)
+{
+   //executa se condição for true
+   //instrução 
+}
+
+else if(condição2)
+{ 
+  //executa se condicao1 for false e condicao2 for true
+ //intrução
+}
+
+else if(condição3)
+{
+  //executa se a condição1 e condição for false e condição3 for true
+ // instrução
+}
+
+else
+{
+  //executa a condição1,condição2 e condição3 for false
+ // instrução
+}
+
