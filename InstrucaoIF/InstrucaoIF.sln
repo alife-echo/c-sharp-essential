@@ -5,7 +5,9 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstruturasDeControle", "EstruturasDeControle\EstruturasDeControle.csproj", "{D9D71AF9-EC22-46E5-8851-6663441F28FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch", "Switch\Switch.csproj", "{20611671-E461-4901-BEBC-D92BBB8EA1D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Switch", "Switch\Switch.csproj", "{20611671-E461-4901-BEBC-D92BBB8EA1D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{14271268-F288-4874-9A71-A35503074D32}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{20611671-E461-4901-BEBC-D92BBB8EA1D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20611671-E461-4901-BEBC-D92BBB8EA1D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20611671-E461-4901-BEBC-D92BBB8EA1D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14271268-F288-4874-9A71-A35503074D32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14271268-F288-4874-9A71-A35503074D32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14271268-F288-4874-9A71-A35503074D32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14271268-F288-4874-9A71-A35503074D32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

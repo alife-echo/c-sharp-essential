@@ -1,0 +1,14 @@
+C:\Users\alife\c-sharp-essential\InstrucaoIF\SwitchCase\bin\Debug\net7.0\SwitchCase.exe
+C:\Users\alife\c-sharp-essential\InstrucaoIF\SwitchCase\bin\Debug\net7.0\SwitchCase.deps.json
+C:\Users\alife\c-sharp-essential\InstrucaoIF\SwitchCase\bin\Debug\net7.0\SwitchCase.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\InstrucaoIF\SwitchCase\bin\Debug\net7.0\SwitchCase.dll
+C:\Users\alife\c-sharp-essential\InstrucaoIF\SwitchCase\bin\Debug\net7.0\SwitchCase.pdb
+C:\Users\alife\c-sharp-essential\InstrucaoIF\SwitchCase\obj\Debug\net7.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\InstrucaoIF\SwitchCase\obj\Debug\net7.0\SwitchCase.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\InstrucaoIF\SwitchCase\obj\Debug\net7.0\SwitchCase.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\InstrucaoIF\SwitchCase\obj\Debug\net7.0\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\InstrucaoIF\SwitchCase\obj\Debug\net7.0\SwitchCase.dll
+C:\Users\alife\c-sharp-essential\InstrucaoIF\SwitchCase\obj\Debug\net7.0\refint\SwitchCase.dll
+C:\Users\alife\c-sharp-essential\InstrucaoIF\SwitchCase\obj\Debug\net7.0\SwitchCase.pdb
+C:\Users\alife\c-sharp-essential\InstrucaoIF\SwitchCase\obj\Debug\net7.0\SwitchCase.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\InstrucaoIF\SwitchCase\obj\Debug\net7.0\ref\SwitchCase.dll
