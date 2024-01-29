@@ -1,0 +1,14 @@
+C:\Users\alife\c-sharp-essential\InstrucaoIF\InstrucaoFor\bin\Debug\net7.0\InstrucaoFor.exe
+C:\Users\alife\c-sharp-essential\InstrucaoIF\InstrucaoFor\bin\Debug\net7.0\InstrucaoFor.deps.json
+C:\Users\alife\c-sharp-essential\InstrucaoIF\InstrucaoFor\bin\Debug\net7.0\InstrucaoFor.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\InstrucaoIF\InstrucaoFor\bin\Debug\net7.0\InstrucaoFor.dll
+C:\Users\alife\c-sharp-essential\InstrucaoIF\InstrucaoFor\bin\Debug\net7.0\InstrucaoFor.pdb
+C:\Users\alife\c-sharp-essential\InstrucaoIF\InstrucaoFor\obj\Debug\net7.0\InstrucaoFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\InstrucaoIF\InstrucaoFor\obj\Debug\net7.0\InstrucaoFor.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\InstrucaoIF\InstrucaoFor\obj\Debug\net7.0\InstrucaoFor.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\InstrucaoIF\InstrucaoFor\obj\Debug\net7.0\InstrucaoFor.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\InstrucaoIF\InstrucaoFor\obj\Debug\net7.0\InstrucaoFor.dll
+C:\Users\alife\c-sharp-essential\InstrucaoIF\InstrucaoFor\obj\Debug\net7.0\refint\InstrucaoFor.dll
+C:\Users\alife\c-sharp-essential\InstrucaoIF\InstrucaoFor\obj\Debug\net7.0\InstrucaoFor.pdb
+C:\Users\alife\c-sharp-essential\InstrucaoIF\InstrucaoFor\obj\Debug\net7.0\InstrucaoFor.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\InstrucaoIF\InstrucaoFor\obj\Debug\net7.0\ref\InstrucaoFor.dll

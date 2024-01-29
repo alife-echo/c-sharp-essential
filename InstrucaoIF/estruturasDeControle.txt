@@ -653,3 +653,107 @@ do
     } while (y < 5);
  x++;
 } while (x < 5);
+
+
+
+
+
+
+# -- Instrução For
+
+Executa um bloco de instruções repetidamente até que a condição especificada retorne false
+
+sintaxe:
+
+for(inicialização;condição;iteração)
+{
+
+}
+
+
+exemplo
+
+tabuada:
+
+for(int i = 1; i <= 10; i++)
+{
+    for(int j = 1; j <= 10; j++)
+    {
+        Console.WriteLine($"{i}X{j}={i*j}");
+  
+    }
+    Console.WriteLine("\n");
+}
+
+
+
+
+-- Instrução for II
+
+
+Podemos usar várias expressões dentro de um loop for. Isso significa que podemos ter mais de uma instrução de inicialização  e/ou iterador de um loop for
+
+
+
+exemplo:
+
+for(int i = 0, j = 0; i + j <= 10; i++, j++)
+{
+    Console.WriteLine($" i = {i} e j = {j}")
+}
+
+
+A inicialização, a condição e a instrução do iterador são opcionais do loop for.
+
+1 - Loop sem definir inicialização e a instrução
+
+int i = 1;
+for(; i <= 5;)
+{
+    Console.WriteLine($"Loop for: Iteração {i}");
+    i++;
+}
+
+2 - Loop nenhuma seção(loop infinito)
+
+int i = 1;
+for(;;)
+{
+    Console.WriteLine($"Loop for: Iteração {i}");
+    i++;
+}
+
+
+
+-- Loop for aninhados
+
+Um loop for dentro de outro loop for
+
+
+sintaxe:
+
+for(inicialização;condição;iteração)
+{
+ for(inicialização;condição;iteração)
+ {
+ instruções;
+ }
+ instruções;
+}
+
+
+exemplo:tabuada
+
+for(int i = 1; i <= 10; i++)
+{
+    for(int j = 1; j <= 10; j++)
+    {
+        Console.WriteLine($"{i}X{j}={i*j}");
+  
+    }
+    Console.WriteLine("\n");
+}
+
+
+
+
