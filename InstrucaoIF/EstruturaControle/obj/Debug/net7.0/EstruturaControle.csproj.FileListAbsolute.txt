@@ -1,0 +1,14 @@
+C:\Users\alife\c-sharp-essential\InstrucaoIF\EstruturaControle\bin\Debug\net7.0\EstruturaControle.exe
+C:\Users\alife\c-sharp-essential\InstrucaoIF\EstruturaControle\bin\Debug\net7.0\EstruturaControle.deps.json
+C:\Users\alife\c-sharp-essential\InstrucaoIF\EstruturaControle\bin\Debug\net7.0\EstruturaControle.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\InstrucaoIF\EstruturaControle\bin\Debug\net7.0\EstruturaControle.dll
+C:\Users\alife\c-sharp-essential\InstrucaoIF\EstruturaControle\bin\Debug\net7.0\EstruturaControle.pdb
+C:\Users\alife\c-sharp-essential\InstrucaoIF\EstruturaControle\obj\Debug\net7.0\EstruturaControle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\InstrucaoIF\EstruturaControle\obj\Debug\net7.0\EstruturaControle.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\InstrucaoIF\EstruturaControle\obj\Debug\net7.0\EstruturaControle.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\InstrucaoIF\EstruturaControle\obj\Debug\net7.0\EstruturaControle.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\InstrucaoIF\EstruturaControle\obj\Debug\net7.0\EstruturaControle.dll
+C:\Users\alife\c-sharp-essential\InstrucaoIF\EstruturaControle\obj\Debug\net7.0\refint\EstruturaControle.dll
+C:\Users\alife\c-sharp-essential\InstrucaoIF\EstruturaControle\obj\Debug\net7.0\EstruturaControle.pdb
+C:\Users\alife\c-sharp-essential\InstrucaoIF\EstruturaControle\obj\Debug\net7.0\EstruturaControle.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\InstrucaoIF\EstruturaControle\obj\Debug\net7.0\ref\EstruturaControle.dll

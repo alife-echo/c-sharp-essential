@@ -400,3 +400,256 @@ switch (cargo)
 
 Console.WriteLine("\nFim do processamento");
 Console.ReadKey();
+
+
+
+
+
+
+
+# -- Estruturas de Repetição
+
+
+
+goto --> serve para transferir o controle de uma parte para outra parte do programa com a ajuda de um identificador chamado label
+
+
+
+podemos usar o goto para criar uma estrutura de repetição
+
+- definimos uma label que é usada com um identificador
+
+- a seguir definimos o códgio que desejamos repetir apos o label
+
+- definimos uma condição que sera avaliada para continuar repetindo o codigo ou n
+
+- usando a instrução goto transferimos a execução do código para o label repetindo o código
+
+o label pode tanto ficar acima da condição como abaixo
+
+sintaxe:
+
+label:
+  //código a ser executado
+
+  condição
+	goto label;
+
+
+
+
+
+Console.WriteLine("Estrutura Controle");
+int i = 1;
+
+repetir:
+
+Console.WriteLine($"i = {i}\n");
+
+i++;
+
+if (i <= 10)
+    goto repetir;
+
+Console.WriteLine("Fim do processamento....");
+Console.ReadKey();
+
+
+
+estruturas de repetição
+
+while
+do while
+for
+foreach
+break
+continue
+
+
+
+
+# -- Instrução while
+
+a instrução while executa um bloco de instrução enquanto uma condição for verdadeira
+
+o loop while pode executar varias vezes , com base na condição
+
+avalia a condição antes de entrar no bloco de instruções
+
+sintaxe:
+
+while(condição)
+{
+
+}
+
+exemplo:
+
+int i = 1;
+
+while (i <= 10)
+{
+    Console.WriteLine($"{i}");
+    i++;
+}
+
+reverso
+
+while (i>0)
+{
+    Console.WriteLine($"{i}");
+    i--;
+}
+
+
+exemplo2:
+
+Console.WriteLine("Digite um numero");
+int number = Convert.ToInt32(Console.ReadLine());
+int i = 0;
+int expressions = 10;
+if(number > 0)
+{
+    while (i <= expressions)
+    {
+        Console.WriteLine($"{number}X{i}={number * i}");
+        i++;
+    }
+}
+else
+{
+    Console.WriteLine("O número deve ser maior que zero");
+}
+
+
+Console.WriteLine("Fim do processamento");
+
+
+
+
+# -- Instrução while II
+
+break -> pode ser usado para encerrar uma instrução switch,loop,while,for e if
+
+
+while(condição1)
+{
+   if(condição2)
+   {
+	break;
+   }
+	instruções
+}
+
+exemplo:
+
+int number;
+
+while (true)
+{
+    Console.WriteLine("Digite um numero - (-1 Para Sair)");
+    number = Convert.ToInt32(Console.ReadLine()); 
+    switch(number % 2)
+    {
+        case 0:
+            Console.WriteLine($" o {number} é par");
+            break;
+        case 1:
+            Console.WriteLine($"o {number} é impar");
+            break;
+    }
+    if(number == -1)
+    {
+        break;
+    }
+}
+
+
+
+Instruções while aninhadas
+
+loop while dentro de outro loop while
+
+while (condição1)
+{
+	while(condição2)
+	{
+		instruções
+	}
+	intruções
+}
+
+exemplo:
+
+plano cartesiano x,y
+
+int x = 0;
+
+while (x < 5)
+{
+    int y = 0;
+    while (y < 5)
+    {
+        Console.Write($"({x},{y})");
+        y++;
+    }
+    x++;
+    Console.WriteLine();
+}
+
+
+
+
+
+# -- Instrução do-while
+
+mesmo comportamento que while
+
+porem, executa o bloco de código pelo menus uma vez,antes de avaliar a condição, posteriormente repete o loop enquanto a condição for verdadeira
+
+
+do
+{
+  //bloco de código
+}
+while(condição)
+
+
+
+
+-- Instrução do-while aninhadas
+
+do while dentro de outro do while
+
+sintaxe:
+
+do
+{
+  do{
+	instruções;
+  }
+  while(condição2)
+  instruções;
+}
+while(condição);
+
+
+
+exemplo:
+plano cartesian x,y
+
+
+
+int x = 0;
+
+do
+{
+    int y = 0;
+    do
+    {
+     
+        Console.Write($"({x},{y}) ");
+        y++;
+    } while (y < 5);
+ x++;
+} while (x < 5);
