@@ -18,7 +18,7 @@ for(int i = 0, j = 0; i + j < 10; i++, j++)
 */
 
 int i = 1;
-for (; ;)
+for(; i <= 5;)
 {
     Console.WriteLine($"Loop for: Iteração {i}");
     i++;

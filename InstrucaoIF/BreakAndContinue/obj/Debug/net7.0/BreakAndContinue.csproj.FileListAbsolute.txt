@@ -1,0 +1,14 @@
+C:\Users\alife\c-sharp-essential\InstrucaoIF\BreakAndContinue\bin\Debug\net7.0\BreakAndContinue.exe
+C:\Users\alife\c-sharp-essential\InstrucaoIF\BreakAndContinue\bin\Debug\net7.0\BreakAndContinue.deps.json
+C:\Users\alife\c-sharp-essential\InstrucaoIF\BreakAndContinue\bin\Debug\net7.0\BreakAndContinue.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\InstrucaoIF\BreakAndContinue\bin\Debug\net7.0\BreakAndContinue.dll
+C:\Users\alife\c-sharp-essential\InstrucaoIF\BreakAndContinue\bin\Debug\net7.0\BreakAndContinue.pdb
+C:\Users\alife\c-sharp-essential\InstrucaoIF\BreakAndContinue\obj\Debug\net7.0\BreakAndContinue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\InstrucaoIF\BreakAndContinue\obj\Debug\net7.0\BreakAndContinue.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\InstrucaoIF\BreakAndContinue\obj\Debug\net7.0\BreakAndContinue.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\InstrucaoIF\BreakAndContinue\obj\Debug\net7.0\BreakAndContinue.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\InstrucaoIF\BreakAndContinue\obj\Debug\net7.0\BreakAndContinue.dll
+C:\Users\alife\c-sharp-essential\InstrucaoIF\BreakAndContinue\obj\Debug\net7.0\refint\BreakAndContinue.dll
+C:\Users\alife\c-sharp-essential\InstrucaoIF\BreakAndContinue\obj\Debug\net7.0\BreakAndContinue.pdb
+C:\Users\alife\c-sharp-essential\InstrucaoIF\BreakAndContinue\obj\Debug\net7.0\BreakAndContinue.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\InstrucaoIF\BreakAndContinue\obj\Debug\net7.0\ref\BreakAndContinue.dll

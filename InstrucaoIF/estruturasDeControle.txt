@@ -757,3 +757,59 @@ for(int i = 1; i <= 10; i++)
 
 
 
+
+
+# -- Continue
+
+
+A instrução continue interrompe a interação do loop retornando o fluxo de execução para a declaração no loop
+
+sintaxe:
+
+for (inicialização;condição;iteração) --> declaração
+{
+  if(condição)
+	continue;
+	//instrulçies
+}
+
+
+exemplo:
+
+for(int i = 0; i < 10; i++) --> o valor 4 não sera printado, pois o fluxo de execução retornou para a declaração
+{
+    if(i == 4)
+    {
+        continue;
+    }
+    Console.WriteLine(i);
+}
+
+
+exemplo 2:
+
+int n = 1;
+while (n <= 10)
+{
+    if(n == 5)
+    {
+        n = n + 1;
+        continue;
+    }
+    Console.WriteLine($"n={n}");
+    n++;
+}
+
+
+break com continue , exemplo 3: 
+
+for(int i = 0; i < 10; i++)
+{
+    if (i == 5)
+        continue;
+    if (i > 8)
+        break;
+    Console.WriteLine($"{i}");
+}
+
+
