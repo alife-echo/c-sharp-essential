@@ -142,3 +142,153 @@ while (x)
         Console.WriteLine("Resposta correta");
     }
 }*/
+/*
+Console.WriteLine("Maneira 1");
+for (int i = 10; i <= 20; i += 2)
+{
+    if (i == 16)
+        continue;
+    Console.WriteLine($"{i}");
+}
+Console.WriteLine("Maneira 2");
+for (int j = 10; j<= 20; j++)
+{
+    if (j % 2 == 1)
+        continue;
+    if (j == 16)
+        continue;
+    Console.WriteLine($"{j}");
+}
+Console.WriteLine("Maneira 3");
+for (int h = 10; ; h+=2)
+{
+    if (h == 16)
+        continue;
+    if (h > 20)
+        break;
+    Console.WriteLine($"{h}");
+}*/
+/*
+string? star = "";
+for(int i = 1; i <=1; i++)
+{
+    for(int j = 0; j <=4; j++)
+    {
+        star += "*";
+        Console.WriteLine($"{star}");
+    }
+    Console.WriteLine("\n");
+} 
+*/
+/*
+int factor,result = 1;
+Console.WriteLine("Digite um número para calcular fatorial:");
+factor = Convert.ToInt32(Console.ReadLine());
+for(int i = factor; i >= 1; i--)
+{
+    result *= i;
+}
+Console.WriteLine($"{result}");
+*/
+/*
+int count = 2;
+while (count <= 6)
+{
+    int x = 1;
+    while (x <= 10)
+    {
+        Console.WriteLine($"{count}X{x} = {count * x}");
+        x++;
+    }
+    Console.WriteLine("\n");
+    count++;
+}*/
+/*
+int nota;
+while (true)
+{
+    Console.WriteLine("Digite a nota do aluno (999) sair");
+    nota = Convert.ToInt32(Console.ReadLine());
+    if (nota > 0 && nota <= 10)
+    {
+        switch (nota)
+        {
+            case 1:
+            case 2:
+            case 3:
+            case 4:
+                Console.WriteLine("F");
+                break;
+            case 5:
+                Console.WriteLine("E");
+                break;
+            case 6:
+                Console.WriteLine("C");
+                break;
+            case 7:
+            case 8:
+                Console.WriteLine("B");
+                break;
+            case 9:
+                Console.WriteLine("A");
+                break;
+            case 10:
+                Console.WriteLine("A+");
+                break;
+            default:
+                Console.WriteLine("Erro contate a administração");
+                break;
+
+        }
+    }
+    if (nota == 999)
+        break;
+    if (nota < 0)
+    {
+        Console.WriteLine("Informe os dados corretamente");
+    }
+}
+*/
+while (true)
+{
+    Console.WriteLine("Informe o primeiro número:");
+    double v1 = Convert.ToDouble(Console.ReadLine());
+    Console.WriteLine("Informe o operando (+,-,/,*):");
+    string? operating = Console.ReadLine();
+    Console.WriteLine("Informe o segundo número:");
+    double v2 = Convert.ToDouble(Console.ReadLine());   
+    if((v1 == 0 || v2 == 0) && operating == "/")
+    {
+        Console.WriteLine("Não existe divisão por zero!!!");
+    }
+   if(v1 >= 0 && v2 >= 0)
+    {
+        switch (operating)
+        {
+            case "+":
+                Console.WriteLine($"{v1} + {v2} = {v1 + v2}");
+                break;
+            case "-":
+                Console.WriteLine($"{v1} - {v2} = {v1 - v2}");
+                break;
+            case "*":
+                Console.WriteLine($"{v1} * {v2} = {v1 * v2}");
+                break;
+            case "/":
+                Console.WriteLine($"{v1} / {v2} = {v1 / v2}");
+                break;
+            default:
+                Console.WriteLine("Error contate a administração");
+                break;
+        }
+    }
+   else
+    {
+        Console.WriteLine("Error informe os dados corretamente");
+    }
+    Console.WriteLine("Sair (-1)");
+    int quit = Convert.ToInt32(Console.ReadLine());
+    if (quit == -1) 
+        break;
+
+}
