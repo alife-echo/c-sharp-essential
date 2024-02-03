@@ -1,0 +1,68 @@
+ 
+# -- Classes e Metodos
+
+abstração de uma entidade do mundo real
+
+modelo ou template, que contém valores conhecidos como membros de dados e conjuntos de regras, conhecidos como comportamentos ou métodos
+
+é um tipo estruturado que contém membros:
+
+1. Atributos (dados: propriedades,campos)
+2. Comportamentos (métodos)
+
+sintaxe:
+
+class NomeClasse
+
+{
+ public string nome; --> Campos
+
+ public void Comer(); --> Métodos
+}
+
+
+exemplo:
+
+class Pessoa
+{
+ public string nome;
+ public int idade;
+ public string sexo;
+
+ public void Comer();
+ public void Respirar();
+ public void Trabalhar();
+}
+
+Pessoa agora representa um tipo qe contém atributos e comportamentos
+
+A classe Pessoa agora pode criar objetos do tipo Pessoa
+
+Parar criar objetos a partir de um classe usamos a palavra new
+
+
+Pessoa p1 = new Pessoa()
+p1.nome = "Maria";
+p1.idade = 34;
+p1.sexo = "feminino";
+
+Criamos uma variável p1 do tipo Pessoa
+Atribuimos valores aos atributos nome,idade,sexo
+
+p1 é chamado de objeto do tipo Pessoa
+Dizemos que p1 é um instância da classe Pessoa
+
+
+A classe Pessoa é um Modelo para criar objetos
+
+Esses objetos são alocados na memória Heap e são tipos por referência
+
+sintaxe atualizada .NET7
+
+Pessoa p1 = new()
+{
+    nome = "Alife",
+    idade = 23,
+    sexo = "masculino"
+};
+
