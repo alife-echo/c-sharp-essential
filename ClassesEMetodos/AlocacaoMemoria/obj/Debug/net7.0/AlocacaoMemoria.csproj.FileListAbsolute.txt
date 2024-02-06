@@ -1,0 +1,14 @@
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\AlocacaoMemoria\bin\Debug\net7.0\AlocacaoMemoria.exe
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\AlocacaoMemoria\bin\Debug\net7.0\AlocacaoMemoria.deps.json
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\AlocacaoMemoria\bin\Debug\net7.0\AlocacaoMemoria.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\AlocacaoMemoria\bin\Debug\net7.0\AlocacaoMemoria.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\AlocacaoMemoria\bin\Debug\net7.0\AlocacaoMemoria.pdb
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\AlocacaoMemoria\obj\Debug\net7.0\AlocacaoMemoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\AlocacaoMemoria\obj\Debug\net7.0\AlocacaoMemoria.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\AlocacaoMemoria\obj\Debug\net7.0\AlocacaoMemoria.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\AlocacaoMemoria\obj\Debug\net7.0\AlocacaoMemoria.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\AlocacaoMemoria\obj\Debug\net7.0\AlocacaoMemoria.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\AlocacaoMemoria\obj\Debug\net7.0\refint\AlocacaoMemoria.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\AlocacaoMemoria\obj\Debug\net7.0\AlocacaoMemoria.pdb
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\AlocacaoMemoria\obj\Debug\net7.0\AlocacaoMemoria.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\AlocacaoMemoria\obj\Debug\net7.0\ref\AlocacaoMemoria.dll

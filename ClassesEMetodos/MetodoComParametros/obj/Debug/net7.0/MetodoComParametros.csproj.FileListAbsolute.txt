@@ -1,0 +1,14 @@
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\MetodoComParametros\bin\Debug\net7.0\MetodoComParametros.exe
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\MetodoComParametros\bin\Debug\net7.0\MetodoComParametros.deps.json
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\MetodoComParametros\bin\Debug\net7.0\MetodoComParametros.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\MetodoComParametros\bin\Debug\net7.0\MetodoComParametros.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\MetodoComParametros\bin\Debug\net7.0\MetodoComParametros.pdb
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\MetodoComParametros\obj\Debug\net7.0\MetodoComParametros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\MetodoComParametros\obj\Debug\net7.0\MetodoComParametros.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\MetodoComParametros\obj\Debug\net7.0\MetodoComParametros.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\MetodoComParametros\obj\Debug\net7.0\MetodoComParametros.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\MetodoComParametros\obj\Debug\net7.0\MetodoComParametros.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\MetodoComParametros\obj\Debug\net7.0\refint\MetodoComParametros.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\MetodoComParametros\obj\Debug\net7.0\MetodoComParametros.pdb
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\MetodoComParametros\obj\Debug\net7.0\MetodoComParametros.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\MetodoComParametros\obj\Debug\net7.0\ref\MetodoComParametros.dll

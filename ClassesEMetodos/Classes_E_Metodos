@@ -1,6 +1,8 @@
  
 # -- Classes e Metodos
 
+
+
 abstração de uma entidade do mundo real
 
 modelo ou template, que contém valores conhecidos como membros de dados e conjuntos de regras, conhecidos como comportamentos ou métodos
@@ -65,4 +67,189 @@ Pessoa p1 = new()
     idade = 23,
     sexo = "masculino"
 };
+
+
+
+
+
+# -- Classe e Alocação na memória
+
+
+
+cada classe criada tem uma variavel na memoria stack apontando para o endereço na memoria heap.
+
+
+Cada instância da classe Pessoa (objetos p1 e p2) é uma entidade separada que tem seu próprio conjunto de membros de dados, distintos das outras instâncias da mesma classe.
+
+
+Pessoa p1;
+
+O ponteiro de referência definido por p1 é alocado na memória stack.
+
+A instrução Pessoa p1, não aloca memória para uma instância de Pessoa, apenas aloca uma variável com o nome p1 na Stack e define seu valor como null
+
+p1 = new Pessoa()
+
+No momento em que usamos a palavra chave new , o objeto é alocado na memória heap com seus dados e a variável p1 possui uma referência para o local da memória deste objeto
+
+Pessoa p1 = new Pessoa();
+p1.nome = "Maria";
+p1.idade = 34;
+p1.sexo = "feminino";
+
+
+
+
+
+# -- Alocação de memória
+
+Pessoa p2 = p1;
+
+Ambas as variáveis de referência p1 e p2 , são do tipo Pessoa, e , agora apontam para a mesma alocação da memória.
+
+Uma classe é um "tipo de referência"
+
+Classe, objeto e string são exemplos de Tipos de Referência e são alocadas na Heap
+
+
+exemplo:
+
+Pessoa p1 = new()
+{
+    idade = 20,
+    nome = "Álife",
+    sexo = "Masculino"
+};
+
+Pessoa p2 = p1;
+Console.WriteLine($"{p2.nome} {p2.idade} {p2.sexo}");
+
+class Pessoa
+{
+    public string? nome;
+    public int idade;
+    public string? sexo;
+}
+
+
+
+# -- Objeto
+
+
+Um objeto é uma instância de uma classe, criado pelo operador new, e , todos os membros da classe podem ser acessados através do objeto.
+
+A classe é um modelo, um planejamento, enquanto o objeto seria a classe materializada.
+
+public class Cachorro
+{
+    public string? nome;
+    public string? cor;
+    public string? sexo;
+
+    public void latir();
+    public void comer();
+}    
+
+
+
+# -- Métodos
+
+Os métodos representam os comportamentos das classes e são usados para executar ações e realizar a comunicação entre objetos e classes
+
+Um método é um bloco de código que contém série de instruções que são executadas quando ele for chamado
+
+No c#, todas as instruções executadas são realizadas no contexto de um método, e , todos os métodos são definidos em classes
+
+
+C# é uma linguagem orientada a objetos que não possui funções declaradas fora das classes
+
+Na linguagem C# , a rigor , não existem funções mas métodos
+
+
+
+
+
+
+
+-- Criando métodos - Sintaxe mínima
+
+
+Tipo de Retorno - Determina o tipo do valor que o método retorna ( se o metodo não retornar nada seu tipo será void)
+
+
+Nome - Define o nome do método(Pascal Case)
+
+
+Lista de parâmetros - Indica o tipo de dados e o valor das variáveis/objetos que o método pode receber. indicado em parenteses apos o nome do metodo.
+
+
+Corpo do método - Consiste das instruções definidas entre chaves no corpo do método.
+
+
+class MinhaClass
+{
+	void Saudacao()
+	{
+	 Console.WriteLine("Bem-Vindo !!!");
+	 Console.WriteLine("15/10/2022");			
+	}
+
+}
+
+
+exemplo completo :
+
+MyClass minhaClasse = new();
+
+minhaClasse.Saudacao();
+
+
+class MyClass
+{
+   public  void Saudacao()
+    {
+        Console.WriteLine("Bem-Vindo !!!");
+        ExibirDataAtual();
+    }
+   public void ExibirDataAtual()=>
+        Console.WriteLine(DateTime.Now.ToShortDateString());
+    
+}
+
+
+
+para uma instrução apenas colocar o sinal '=>'
+
+posso chamar metodos dentro de outros metodos
+
+
+
+
+
+
+
+# -- Metodos com parametros
+
+Maneira de passar dados para uma metodo/função e modificalos/exibilos da nossa maneira
+
+
+sintaxe padrão
+
+
+modificadorAcesso tipoRetorno nomeMetodo(argumentos) {
+	 instruções
+}
+
+
+
+exemplo:
+
+public void Saudacao(string nome,string data)
+{
+ 	Console.WriteLine(nome);
+ 	Console.WriteLine(data);
+}
+
+
+
 
