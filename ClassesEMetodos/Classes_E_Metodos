@@ -242,13 +242,85 @@ modificadorAcesso tipoRetorno nomeMetodo(argumentos) {
 
 
 
+
 exemplo:
+
+Myclass p1 = new Myclass();
+
+p1.Saudacao("Maria",DateTime.Now.ToShortDateString());
+
+public class Myclass
+{
 
 public void Saudacao(string nome,string data)
 {
  	Console.WriteLine(nome);
  	Console.WriteLine(data);
 }
+
+}
+
+
+
+
+
+
+
+# -- Passando Parâmetros entre classes
+
+
+var aluno = new Aluno();
+Console.WriteLine("Nome:");
+aluno.Nome = Console.ReadLine();
+Console.WriteLine("Idade:");
+aluno.Idade = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Sexo:");
+aluno.Sexo = Console.ReadLine();
+Console.WriteLine("Aprovado (S)im (N)ão : ");
+aluno.Aprovado = Console.ReadLine();
+
+Curso curso = new();
+curso.Resultado(aluno);
+public class Aluno
+{
+    public string? Nome;
+    public int Idade;
+    public string? Sexo;
+    public string? Aprovado;
+}
+
+public class Curso
+{
+    public void Resultado(Aluno aluno)
+    {
+        Console.WriteLine($"\n O aluno:{aluno.Nome} sexo:{aluno.Sexo}  com {aluno.Idade} anos");
+        if(aluno.Aprovado?.ToUpper() == "S")
+        {
+            Console.WriteLine("Aprovado");
+        }
+        else
+        {
+            Console.WriteLine("Reprovado");
+        }
+    }
+}
+
+
+
+
+
+Quando um tipo de referencia é passado por valor a um método, esse método receberá uma copia da referencia para a instancia da classe
+
+
+o método chamado recebe uma cópia do endereço da instância e o método de chamada retém o endereço original da instância
+
+
+A instância de classe no método de chamada tem um endereço , o parâmetro do método chamado tem uma cópia do endereço e os dois endereços se referem ao mesmo objeto
+
+
+metodo main -->  endereço original da instância
+curso.Resultado(aluno); --> cópia do endereço da instância
+
 
 
 

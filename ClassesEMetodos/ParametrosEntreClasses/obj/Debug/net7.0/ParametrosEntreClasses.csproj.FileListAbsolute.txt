@@ -1,0 +1,14 @@
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ParametrosEntreClasses\bin\Debug\net7.0\ParametrosEntreClasses.exe
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ParametrosEntreClasses\bin\Debug\net7.0\ParametrosEntreClasses.deps.json
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ParametrosEntreClasses\bin\Debug\net7.0\ParametrosEntreClasses.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ParametrosEntreClasses\bin\Debug\net7.0\ParametrosEntreClasses.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ParametrosEntreClasses\bin\Debug\net7.0\ParametrosEntreClasses.pdb
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ParametrosEntreClasses\obj\Debug\net7.0\ParametrosEntreClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ParametrosEntreClasses\obj\Debug\net7.0\ParametrosEntreClasses.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ParametrosEntreClasses\obj\Debug\net7.0\ParametrosEntreClasses.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ParametrosEntreClasses\obj\Debug\net7.0\ParametrosEntreClasses.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ParametrosEntreClasses\obj\Debug\net7.0\ParametrosEntreClasses.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ParametrosEntreClasses\obj\Debug\net7.0\refint\ParametrosEntreClasses.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ParametrosEntreClasses\obj\Debug\net7.0\ParametrosEntreClasses.pdb
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ParametrosEntreClasses\obj\Debug\net7.0\ParametrosEntreClasses.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ParametrosEntreClasses\obj\Debug\net7.0\ref\ParametrosEntreClasses.dll
