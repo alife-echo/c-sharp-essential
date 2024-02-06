@@ -9,11 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlocacaoMemoria", "Alocacao
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metodos", "Metodos\Metodos.csproj", "{84A1E43B-3FE7-49E0-84AF-C0F258B120A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodoComParametros", "MetodoComParametros\MetodoComParametros.csproj", "{B7638E99-E9BB-456B-82A2-92707ED83477}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetodoComParametros", "MetodoComParametros\MetodoComParametros.csproj", "{B7638E99-E9BB-456B-82A2-92707ED83477}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosEntreClasses", "MetodosEntreClasses\MetodosEntreClasses.csproj", "{6FCD19F1-1BED-47B1-9595-3F59F9C01F1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetodosEntreClasses", "MetodosEntreClasses\MetodosEntreClasses.csproj", "{6FCD19F1-1BED-47B1-9595-3F59F9C01F1A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParametrosEntreClasses", "ParametrosEntreClasses\ParametrosEntreClasses.csproj", "{3C9A058A-3B87-4CD0-AEA1-C9EFA7DEF28F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParametrosEntreClasses", "ParametrosEntreClasses\ParametrosEntreClasses.csproj", "{3C9A058A-3B87-4CD0-AEA1-C9EFA7DEF28F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Construtores", "Construtores\Construtores.csproj", "{6751443F-F151-454C-911A-871B4197AA9E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{3C9A058A-3B87-4CD0-AEA1-C9EFA7DEF28F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C9A058A-3B87-4CD0-AEA1-C9EFA7DEF28F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C9A058A-3B87-4CD0-AEA1-C9EFA7DEF28F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6751443F-F151-454C-911A-871B4197AA9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6751443F-F151-454C-911A-871B4197AA9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6751443F-F151-454C-911A-871B4197AA9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6751443F-F151-454C-911A-871B4197AA9E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

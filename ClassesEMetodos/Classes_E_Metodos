@@ -325,3 +325,66 @@ curso.Resultado(aluno); --> cópia do endereço da instância
 
 
 
+
+
+# -- Construtor
+
+
+Os construtores são tipos especiais de métodos usados para criar e inicilizar objetos de uma classe
+
+c# toda a classe precisa de um construtor para ser inicializada
+
+sempre quando new for usado o construtor será chamado
+
+se você não usar um construtor na classe, o c# criara um construtor padrão sem parametros, sendo usado para instaciar a classe e definir os valores padrão
+
+
+-- Construtor : sintaxe
+
+Um construtor deve possuir o mesmo nome da classe
+
+não possui tipo de retorno (nem mesmo void)
+
+pode ter parametros para inicializar os membros da classe
+
+
+
+valores padrão  de um construtor para os tipos de dados usados
+
+tipo        valor padrão
+
+int              0
+long             0
+float            0
+double           0
+decimal          0
+string          null
+bool            false
+
+exemplo:
+
+Console.WriteLine("Construtores");
+
+Aluno aluno = new Aluno("Maria",22,"Feminino","S");
+
+Console.WriteLine(aluno?.Nome == null ? "null" : aluno?.Nome);
+Console.WriteLine(aluno?.Idade == 0 ? 0 : aluno?.Idade);
+Console.WriteLine(aluno?.Sexo == null ? "null":aluno.Sexo);
+Console.WriteLine(aluno?.Aprovado == null ? "null":aluno.Aprovado );
+
+
+public class Aluno
+{   
+    public Aluno(string nome, int idade, string sexo, string aprovado)
+    {
+        Nome = nome; ;
+        Idade = idade; 
+        Sexo = sexo;
+        Aprovado = aprovado;
+    }
+    public string? Nome;
+    public int Idade;
+    public string? Sexo;
+    public string? Aprovado;
+}
+
