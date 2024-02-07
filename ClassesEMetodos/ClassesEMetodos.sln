@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParametrosEntreClasses", "P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Construtores", "Construtores\Construtores.csproj", "{6751443F-F151-454C-911A-871B4197AA9E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstrutorII", "ConstrutorII\ConstrutorII.csproj", "{EFF1E0DB-494D-455F-864E-D23174713B4F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{6751443F-F151-454C-911A-871B4197AA9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6751443F-F151-454C-911A-871B4197AA9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6751443F-F151-454C-911A-871B4197AA9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFF1E0DB-494D-455F-864E-D23174713B4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFF1E0DB-494D-455F-864E-D23174713B4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFF1E0DB-494D-455F-864E-D23174713B4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFF1E0DB-494D-455F-864E-D23174713B4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

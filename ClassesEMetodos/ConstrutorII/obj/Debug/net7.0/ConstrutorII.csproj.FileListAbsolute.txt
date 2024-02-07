@@ -1,0 +1,14 @@
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ConstrutorII\bin\Debug\net7.0\ConstrutorII.exe
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ConstrutorII\bin\Debug\net7.0\ConstrutorII.deps.json
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ConstrutorII\bin\Debug\net7.0\ConstrutorII.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ConstrutorII\bin\Debug\net7.0\ConstrutorII.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ConstrutorII\bin\Debug\net7.0\ConstrutorII.pdb
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ConstrutorII\obj\Debug\net7.0\ConstrutorII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ConstrutorII\obj\Debug\net7.0\ConstrutorII.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ConstrutorII\obj\Debug\net7.0\ConstrutorII.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ConstrutorII\obj\Debug\net7.0\ConstrutorII.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ConstrutorII\obj\Debug\net7.0\ConstrutorII.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ConstrutorII\obj\Debug\net7.0\refint\ConstrutorII.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ConstrutorII\obj\Debug\net7.0\ConstrutorII.pdb
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ConstrutorII\obj\Debug\net7.0\ConstrutorII.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ConstrutorII\obj\Debug\net7.0\ref\ConstrutorII.dll

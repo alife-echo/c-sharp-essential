@@ -388,3 +388,68 @@ public class Aluno
     public string? Aprovado;
 }
 
+
+
+
+# -- Construtor II
+
+Podemos criar mais de um construtor, o c# tera inteligencia para inferir quais construtor estamos usando
+
+
+exem:
+
+Aluno aluno = new Aluno(22,"feminino","A");
+
+Console.WriteLine(aluno?.Nome == null ? "null" : aluno?.Nome);
+Console.WriteLine(aluno?.Idade == 0 ? 0 : aluno?.Idade);
+Console.WriteLine(aluno?.Sexo == null ? "null" : aluno.Sexo);
+Console.WriteLine(aluno?.Aprovado == null ? "null" : aluno.Aprovado);
+public class Aluno
+{   
+    public Aluno(string nome)=>Nome = nome;    
+
+    public Aluno(int idade, string sexo, string aprovado)
+    {
+        Idade = idade;
+        Sexo = sexo;    
+        Aprovado = aprovado;
+    }
+    public string Nome;
+    public int Idade;
+    public string Sexo;
+    public string Aprovado;
+}
+
+
+
+
+-- chamando outro construtor
+
+
+usando um parametro string nome no segundo construtor posso refrenciar com this o outro construtor que usa apenas o parametro nome e guardar seu valor no atributo Nome
+
+é bom para não mexer em outros construtores já criados
+
+Aluno aluno = new Aluno("Alife",22,"feminino","A");
+
+Console.WriteLine(aluno?.Nome == null ? "null" : aluno?.Nome);
+Console.WriteLine(aluno?.Idade == 0 ? 0 : aluno?.Idade);
+Console.WriteLine(aluno?.Sexo == null ? "null" : aluno.Sexo);
+Console.WriteLine(aluno?.Aprovado == null ? "null" : aluno.Aprovado);
+public class Aluno
+{   
+    public Aluno(string nome)=>Nome = nome;    
+
+    public Aluno(string nome ,int idade, string sexo, string aprovado):this(nome)
+    {
+        Idade = idade;
+        Sexo = sexo;    
+        Aprovado = aprovado;
+    }
+    public string? Nome;
+    public int Idade;
+    public string? Sexo;
+    public string? Aprovado;
+}
+
+
