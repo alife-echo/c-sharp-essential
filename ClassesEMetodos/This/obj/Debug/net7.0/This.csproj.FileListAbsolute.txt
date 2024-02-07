@@ -1,0 +1,14 @@
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\This\bin\Debug\net7.0\This.exe
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\This\bin\Debug\net7.0\This.deps.json
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\This\bin\Debug\net7.0\This.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\This\bin\Debug\net7.0\This.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\This\bin\Debug\net7.0\This.pdb
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\This\obj\Debug\net7.0\This.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\This\obj\Debug\net7.0\This.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\This\obj\Debug\net7.0\This.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\This\obj\Debug\net7.0\This.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\This\obj\Debug\net7.0\This.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\This\obj\Debug\net7.0\refint\This.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\This\obj\Debug\net7.0\This.pdb
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\This\obj\Debug\net7.0\This.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\This\obj\Debug\net7.0\ref\This.dll

@@ -453,3 +453,102 @@ public class Aluno
 }
 
 
+
+
+
+
+
+
+# -- Palavra chave this
+
+É usada para diferenciar entre os parâmetros dos métodos e os campos quando ele tiverem o mesmo nome
+
+this representa a propia classe que esta sendo usada
+
+exemplo:
+
+public class Cliente
+{
+    public string? Nome;
+    public int Idade;
+    
+    public Cliente(string? Nome, int Idade)
+    {
+        this.Nome = Nome;
+        this.Idade = Idade;
+    }
+}
+
+
+-- Uso comuns da palavra-chave this
+
+
+Passa um objeto da instancia atual como parametro para outros metodos
+
+Teste t1 = new Teste();
+t1.Num1 = 10;
+t1.Num2 = 20;
+t1.Exibir();
+
+Teste t2 = new Teste();
+t2.Num1 = 88;
+t2.Num2 = 99;
+t2.Exibir();
+
+
+public class Teste
+{
+    public int Num1;
+    public int Num2;
+
+    public void PassarParametro(Teste t)
+    {
+        Console.WriteLine($"\n this={this}");
+        Console.WriteLine("Num1: "+ t.Num1);
+        Console.WriteLine("Num2:" + t.Num2);
+    }
+
+    public void Exibir()
+    {
+        PassarParametro(this);    
+    }
+
+}
+
+
+-- Usos comuns da palavra-chave this
+ 
+
+Invocar outro construtor da mesma classe
+
+no codigo abaixo caso seja passado apenas um valor ele ira mostrar apenas o valor inserido e ira mostrar dois parametros setados por padrão no construtor
+
+exemplo:
+
+TesteNum t1 = new TesteNum(10);
+
+public class TesteNum
+{
+    public TesteNum(int num1, int num2)
+    {
+        Console.WriteLine($"\nConstrutor com dois parâmetros {num1} e {num2}");
+    }
+
+    public TesteNum(int num): this(777,888)
+    {
+        Console.WriteLine("\n Construtor com um parâmetro " + num);
+
+    }
+}
+
+
+saida:
+
+Construtor com dois parâmetros 777 e 888
+
+Construtor com um parâmetro 10
+
+
+
+
+

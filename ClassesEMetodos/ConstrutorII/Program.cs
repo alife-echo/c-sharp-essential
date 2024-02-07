@@ -17,8 +17,8 @@ public class Aluno
         Sexo = sexo;    
         Aprovado = aprovado;
     }
-    public string Nome;
+    public string? Nome;
     public int Idade;
-    public string Sexo;
-    public string Aprovado;
+    public string? Sexo;
+    public string? Aprovado;
 }
