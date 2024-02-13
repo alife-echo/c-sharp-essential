@@ -1,0 +1,14 @@
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\MetodosRetorno\bin\Debug\net7.0\MetodosRetorno.exe
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\MetodosRetorno\bin\Debug\net7.0\MetodosRetorno.deps.json
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\MetodosRetorno\bin\Debug\net7.0\MetodosRetorno.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\MetodosRetorno\bin\Debug\net7.0\MetodosRetorno.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\MetodosRetorno\bin\Debug\net7.0\MetodosRetorno.pdb
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\MetodosRetorno\obj\Debug\net7.0\MetodosRetorno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\MetodosRetorno\obj\Debug\net7.0\MetodosRetorno.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\MetodosRetorno\obj\Debug\net7.0\MetodosRetorno.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\MetodosRetorno\obj\Debug\net7.0\MetodosRetorno.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\MetodosRetorno\obj\Debug\net7.0\MetodosRetorno.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\MetodosRetorno\obj\Debug\net7.0\refint\MetodosRetorno.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\MetodosRetorno\obj\Debug\net7.0\MetodosRetorno.pdb
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\MetodosRetorno\obj\Debug\net7.0\MetodosRetorno.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\MetodosRetorno\obj\Debug\net7.0\ref\MetodosRetorno.dll

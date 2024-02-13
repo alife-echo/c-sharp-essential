@@ -552,3 +552,71 @@ Construtor com um parâmetro 10
 
 
 
+
+
+# -- Métodos com retorno
+
+
+Os métodos podem retonar um valor para o chamador
+
+se não houver um void , o método poderá retonar um valor usando a instrução return
+
+
+return funciona apenas se o valor corresponder com o tipo do retorno, então esse valor sera retonarnado ao chamador do metodo
+
+
+
+ex:
+
+tipo de retorno = int
+
+nome metodo = Somar
+
+Modificador de acesso -->	public int Somar (int n1, int n2)
+					{
+						int soma = n1 + n2;
+						return soma;
+					}
+
+
+
+
+
+ex:
+
+
+Calculadora calc = new();
+
+Console.WriteLine($"{calc.Somar(10,10)}");
+Console.WriteLine($"{calc.Subtrair(20,10)}");
+Console.WriteLine($"{calc.Multiplicar(2,10)}");
+Console.WriteLine($"{calc.Dividir(50,10)}");
+
+public class Calculadora
+{
+    public int Somar(int n1, int n2)
+    {
+        return n1 + n2;
+    }
+    public int Subtrair(int n1, int n2)
+    {
+        return n1 - n2;
+    }
+    public int Multiplicar(int n1, int n2)
+    {
+        return n1 * n2;
+    }
+    public int Dividir(int n1, int n2)
+    {
+        return n1 / n2;
+    }
+}
+
+
+
+
+
+
+
+
+
