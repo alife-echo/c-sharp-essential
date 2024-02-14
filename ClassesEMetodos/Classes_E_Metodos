@@ -618,5 +618,51 @@ public class Calculadora
 
 
 
+# -- Sobrecarga de métodos
 
 
+
+Assinatura do método é uma identificação exclusiva de um método para o compilador c#
+
+Formação assinatura método:
+
+- Nome do método
+
+- O número de parâmetros
+
+- O tipo dos parâmetros
+
+- A ordem dos parâmetros
+
+
+o tipo de retorno de um método não faz parte da assinatura do método
+
+não é possível ter dois métodos com a mesma assinatura
+
+
+
+Sobrecarga de métodos --> realização operações em tipos diferentes de dados, em operações que variam
+
+ex:
+
+public class Calculadora
+{
+    public int Somar(int n1, int n2)
+    {
+        return n1 + n2;
+    }
+    public int Somar(int n1, int n2, int n3)
+    {
+        return n1 + n2 + n3;    
+    }
+    public double Somar(double d1, double d2) 
+    {
+        return d1 + d2; 
+    }
+    public double Somar (int n1, double d2)
+    {
+        return n1 + d2;
+    }
+}
+
+todos esses metodos tem assinaturas diferentes pois não acertam de maneira total os requisitos para formação de assinatura de método

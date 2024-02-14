@@ -1,0 +1,14 @@
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\AssinaturaMetodo\bin\Debug\net7.0\AssinaturaMetodo.exe
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\AssinaturaMetodo\bin\Debug\net7.0\AssinaturaMetodo.deps.json
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\AssinaturaMetodo\bin\Debug\net7.0\AssinaturaMetodo.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\AssinaturaMetodo\bin\Debug\net7.0\AssinaturaMetodo.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\AssinaturaMetodo\bin\Debug\net7.0\AssinaturaMetodo.pdb
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\AssinaturaMetodo\obj\Debug\net7.0\AssinaturaMetodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\AssinaturaMetodo\obj\Debug\net7.0\AssinaturaMetodo.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\AssinaturaMetodo\obj\Debug\net7.0\AssinaturaMetodo.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\AssinaturaMetodo\obj\Debug\net7.0\AssinaturaMetodo.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\AssinaturaMetodo\obj\Debug\net7.0\AssinaturaMetodo.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\AssinaturaMetodo\obj\Debug\net7.0\refint\AssinaturaMetodo.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\AssinaturaMetodo\obj\Debug\net7.0\AssinaturaMetodo.pdb
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\AssinaturaMetodo\obj\Debug\net7.0\AssinaturaMetodo.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\AssinaturaMetodo\obj\Debug\net7.0\ref\AssinaturaMetodo.dll
