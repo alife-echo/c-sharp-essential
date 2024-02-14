@@ -1,0 +1,14 @@
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\PassagemDeArgumentosPoReferenciaRef\bin\Debug\net7.0\PassagemDeArgumentosPoReferenciaRef.exe
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\PassagemDeArgumentosPoReferenciaRef\bin\Debug\net7.0\PassagemDeArgumentosPoReferenciaRef.deps.json
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\PassagemDeArgumentosPoReferenciaRef\bin\Debug\net7.0\PassagemDeArgumentosPoReferenciaRef.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\PassagemDeArgumentosPoReferenciaRef\bin\Debug\net7.0\PassagemDeArgumentosPoReferenciaRef.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\PassagemDeArgumentosPoReferenciaRef\bin\Debug\net7.0\PassagemDeArgumentosPoReferenciaRef.pdb
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\PassagemDeArgumentosPoReferenciaRef\obj\Debug\net7.0\PassagemDeArgumentosPoReferenciaRef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\PassagemDeArgumentosPoReferenciaRef\obj\Debug\net7.0\PassagemDeArgumentosPoReferenciaRef.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\PassagemDeArgumentosPoReferenciaRef\obj\Debug\net7.0\PassagemDeArgumentosPoReferenciaRef.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\PassagemDeArgumentosPoReferenciaRef\obj\Debug\net7.0\PassagemDeArgumentosPoReferenciaRef.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\PassagemDeArgumentosPoReferenciaRef\obj\Debug\net7.0\PassagemDeArgumentosPoReferenciaRef.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\PassagemDeArgumentosPoReferenciaRef\obj\Debug\net7.0\refint\PassagemDeArgumentosPoReferenciaRef.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\PassagemDeArgumentosPoReferenciaRef\obj\Debug\net7.0\PassagemDeArgumentosPoReferenciaRef.pdb
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\PassagemDeArgumentosPoReferenciaRef\obj\Debug\net7.0\PassagemDeArgumentosPoReferenciaRef.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\PassagemDeArgumentosPoReferenciaRef\obj\Debug\net7.0\ref\PassagemDeArgumentosPoReferenciaRef.dll

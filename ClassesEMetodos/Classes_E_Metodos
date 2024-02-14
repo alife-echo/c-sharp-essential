@@ -72,6 +72,11 @@ Pessoa p1 = new()
 
 
 
+
+
+
+
+
 # -- Classe e Alocação na memória
 
 
@@ -96,6 +101,11 @@ Pessoa p1 = new Pessoa();
 p1.nome = "Maria";
 p1.idade = 34;
 p1.sexo = "feminino";
+
+
+
+
+
 
 
 
@@ -133,6 +143,12 @@ class Pessoa
 
 
 
+
+
+
+
+
+
 # -- Objeto
 
 
@@ -149,6 +165,14 @@ public class Cachorro
     public void latir();
     public void comer();
 }    
+
+
+
+
+
+
+
+
 
 
 
@@ -228,6 +252,11 @@ posso chamar metodos dentro de outros metodos
 
 
 
+
+
+
+
+
 # -- Metodos com parametros
 
 Maneira de passar dados para uma metodo/função e modificalos/exibilos da nossa maneira
@@ -259,6 +288,10 @@ public void Saudacao(string nome,string data)
 }
 
 }
+
+
+
+
 
 
 
@@ -320,6 +353,10 @@ A instância de classe no método de chamada tem um endereço , o parâmetro do 
 
 metodo main -->  endereço original da instância
 curso.Resultado(aluno); --> cópia do endereço da instância
+
+
+
+
 
 
 
@@ -391,6 +428,12 @@ public class Aluno
 
 
 
+
+
+
+
+
+
 # -- Construtor II
 
 Podemos criar mais de um construtor, o c# tera inteligencia para inferir quais construtor estamos usando
@@ -451,6 +494,12 @@ public class Aluno
     public string? Sexo;
     public string? Aprovado;
 }
+
+
+
+
+
+
 
 
 
@@ -554,6 +603,11 @@ Construtor com um parâmetro 10
 
 
 
+
+
+
+
+
 # -- Métodos com retorno
 
 
@@ -618,6 +672,10 @@ public class Calculadora
 
 
 
+
+
+
+
 # -- Sobrecarga de métodos
 
 
@@ -671,6 +729,10 @@ todos esses metodos tem assinaturas diferentes pois não acertam de maneira tota
 
 
 
+
+
+
+
 # -- Exemplo pratico 1:
 
 
@@ -682,6 +744,8 @@ cadastro.ExibirDados(cliente);
 //alternar renda
 cadastro.Registrar(cliente);
 cadastro.ExibirDados("Renda Alterada", cliente);
+
+
 
 
 //mostrar
@@ -728,5 +792,136 @@ public class Cadastro
         Console.Write($"{cliente.Nome}  {cliente.Renda.ToString("c")} ");
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+# -- Passagem de argumentos por valor e referência
+
+
+1 - Passagem de argumento por valor (padrão)
+
+Um cópia do valor do argumento é feita  e passada para o parâmetro do método chamado
+
+As alterações na cópia não afetam o valor da variaável original no chamador
+
+Descomplicado = É feita um copia do valor do argumento no parametro do método, as alteraçoes feitas no parametro dentro do método não tem efeito no argumento
+
+
+
+ex:
+
+int x = 20;
+Console.WriteLine("\n Valor do argumento x antes de passar por valor : " + x);
+Console.WriteLine("\n--------------------------------------");
+
+Calculo calc = new();
+calc.Dobrar(x);
+
+Console.WriteLine("\n Valor do argumento x depois de passar por valor : " + x);
+Console.WriteLine("\n--------------------------------------");
+public class Calculo
+{
+    public void Dobrar(int y)
+    {
+        y *= 2;
+        Console.WriteLine("\nValor do parâmetro y no método Dobrar " + y);
+    }
+}
+
+
+
+saida:
+
+do Argumentos por Valor e por Referência
+
+ Valor do argumento x antes de passar por valor : 20
+
+--------------------------------------
+
+Valor do parâmetro y no método Dobrar 40
+
+ Valor do argumento x depois de passar por valor : 20
+
+
+
+
+2 - Passagem de argumento por referência ref e out
+
+Passa a referência ao mesmo local de memória dos argumentos para os parâmetros;
+nenhuma cópia é passada.
+
+O chamador dá ao método a capacidade de acessar e modificar a variável original do chamador
+(passa o acesso á variável para o método)
+
+Para fazer isso podemos usar as palavras chave ref e out
+
+
+Descomplicado = É feita uma copia da referencia  ao local de memória do argumento no parametro , as alterações feitas no parametro afetam o argumento
+
+
+
+ex:
+
+int x = 20;
+Console.WriteLine("\n Valor do argumento x antes de passar por valor : " + x);
+Console.WriteLine("\n--------------------------------------");
+
+Calculo calc = new();
+calc.Dobrar(ref x); // passagem da cópia da referência da memória do argumento x para o parâmetro y
+
+Console.WriteLine("\n Valor do argumento x depois de passar por valor : " + x);
+Console.WriteLine("\n--------------------------------------");
+public class Calculo
+{
+    public void Dobrar(ref int y)
+    {
+        y *= 2; // esse alteração reflete tambem em x pois estamos acessando sua area de memoria
+        Console.WriteLine("\nValor do parâmetro y no método Dobrar " + y);
+    }
+}
+
+
+As alterações feitas no parâmetro afetam o argumento
+
+saida:
+
+Passagem de argumentos por referencia (ref)
+
+ Valor do argumento x antes de passar por valor : 20
+
+--------------------------------------
+
+Valor do parâmetro y no método Dobrar 40
+
+ Valor do argumento x depois de passar por valor : 40
+
+--------------------------------------
+
+
+
+
+
+Recordando:
+
+Variáveis Tipo valor -> contém seus dados diretamente
+
+Variávels do tipo valor = Armazenam valores, se especificar uma variavel do tipo valor em uma chamada de metodo é passado um copia do valor dessa variável para o método
+
+
+Tipo referência -> contém uma referência aos seus dados
+
+Variáveis de tipo de referência = armazenam refências a objetos, portanto as especificar uma variavel do tipo referencia  como um argumento trasmite ao metodo uma copia da referencia que se refere ao objeto
+
+
+
+
 
 

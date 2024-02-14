@@ -1,0 +1,14 @@
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ArgumentosPorValorEReferencia\bin\Debug\net7.0\ArgumentosPorValorEReferencia.exe
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ArgumentosPorValorEReferencia\bin\Debug\net7.0\ArgumentosPorValorEReferencia.deps.json
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ArgumentosPorValorEReferencia\bin\Debug\net7.0\ArgumentosPorValorEReferencia.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ArgumentosPorValorEReferencia\bin\Debug\net7.0\ArgumentosPorValorEReferencia.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ArgumentosPorValorEReferencia\bin\Debug\net7.0\ArgumentosPorValorEReferencia.pdb
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ArgumentosPorValorEReferencia\obj\Debug\net7.0\ArgumentosPorValorEReferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ArgumentosPorValorEReferencia\obj\Debug\net7.0\ArgumentosPorValorEReferencia.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ArgumentosPorValorEReferencia\obj\Debug\net7.0\ArgumentosPorValorEReferencia.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ArgumentosPorValorEReferencia\obj\Debug\net7.0\ArgumentosPorValorEReferencia.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ArgumentosPorValorEReferencia\obj\Debug\net7.0\ArgumentosPorValorEReferencia.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ArgumentosPorValorEReferencia\obj\Debug\net7.0\refint\ArgumentosPorValorEReferencia.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ArgumentosPorValorEReferencia\obj\Debug\net7.0\ArgumentosPorValorEReferencia.pdb
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ArgumentosPorValorEReferencia\obj\Debug\net7.0\ArgumentosPorValorEReferencia.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ArgumentosPorValorEReferencia\obj\Debug\net7.0\ref\ArgumentosPorValorEReferencia.dll

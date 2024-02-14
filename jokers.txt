@@ -1,0 +1,6 @@
+
+# -- Formatar um número para o modelo EUA e exibir apenas 3 casas decimais apos a virgula desse número
+
+
+CultureInfo culture = CultureInfo.CreateSpecificCulture("en-US"); 
+Console.WriteLine($"VOLUME = {form.ToString("0.###",culture)}");
