@@ -1,0 +1,14 @@
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ReferenciaOUT\bin\Debug\net7.0\ReferenciaOUT.exe
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ReferenciaOUT\bin\Debug\net7.0\ReferenciaOUT.deps.json
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ReferenciaOUT\bin\Debug\net7.0\ReferenciaOUT.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ReferenciaOUT\bin\Debug\net7.0\ReferenciaOUT.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ReferenciaOUT\bin\Debug\net7.0\ReferenciaOUT.pdb
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ReferenciaOUT\obj\Debug\net7.0\ReferenciaOUT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ReferenciaOUT\obj\Debug\net7.0\ReferenciaOUT.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ReferenciaOUT\obj\Debug\net7.0\ReferenciaOUT.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ReferenciaOUT\obj\Debug\net7.0\ReferenciaOUT.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ReferenciaOUT\obj\Debug\net7.0\ReferenciaOUT.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ReferenciaOUT\obj\Debug\net7.0\refint\ReferenciaOUT.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ReferenciaOUT\obj\Debug\net7.0\ReferenciaOUT.pdb
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ReferenciaOUT\obj\Debug\net7.0\ReferenciaOUT.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ReferenciaOUT\obj\Debug\net7.0\ref\ReferenciaOUT.dll

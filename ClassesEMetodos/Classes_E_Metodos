@@ -853,7 +853,7 @@ Valor do parâmetro y no método Dobrar 40
 
 
 
-2 - Passagem de argumento por referência ref e out
+2 - Passagem de argumento por referência ref 
 
 Passa a referência ao mesmo local de memória dos argumentos para os parâmetros;
 nenhuma cópia é passada.
@@ -924,4 +924,42 @@ Variáveis de tipo de referência = armazenam refências a objetos, portanto as 
 
 
 
+
+
+
+
+
+# -- Passagem de argumentos por referência(out)
+
+
+A palavra-chave out faz com que os argumentos sejam passados por referência
+ 
+Devemos usar a palavra-chave out na declaraçao do método e na invocação do método
+
+Váriaveis passadas como argumentos out não precisam ser inicializadas antes de serem passadas em uma chamada de método
+
+No entanto o método chamado deve atribuir um valor ao parâmetro definido com a palavra-chave out antes que o método seja retornado
+
+precisa tanto no argumento como no parametro á -> out <T> nomeVarivel 
+
+Simplificando : posso criar uma variavel em um argumento na chamada no método, e passar esse argumento com o mesmo type para o parmetro do chamador, com isso eu posso atribuir essa variavel e passar seu valor pra fora do método
+
+a variavel tera seu valor compartilhado pois foi declarada como out que faz parte de argumentos de referencia
+
+
+Console.WriteLine("Informe o raio do círculo");
+double raio = Convert.ToDouble(Console.ReadLine());
+Circulo c1 = new Circulo();
+double circ = c1.CalculaAreaPerimetro(raio, out double area);
+Console.WriteLine($"Área:{area.ToString("0.###")} - Perimetro:{circ.ToString("0.###")}");
+
+public class Circulo
+{
+    public double CalculaAreaPerimetro(double raio, out double area)
+    {
+        area = Math.PI * Math.Pow(raio,2);
+        double perimetro = 2 * Math.PI * raio;
+        return perimetro;
+    }
+}
 
