@@ -1,0 +1,14 @@
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExercicioPratico4\bin\Debug\net7.0\ExercicioPratico4.exe
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExercicioPratico4\bin\Debug\net7.0\ExercicioPratico4.deps.json
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExercicioPratico4\bin\Debug\net7.0\ExercicioPratico4.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExercicioPratico4\bin\Debug\net7.0\ExercicioPratico4.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExercicioPratico4\bin\Debug\net7.0\ExercicioPratico4.pdb
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExercicioPratico4\obj\Debug\net7.0\ExercicioPratico4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExercicioPratico4\obj\Debug\net7.0\ExercicioPratico4.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExercicioPratico4\obj\Debug\net7.0\ExercicioPratico4.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExercicioPratico4\obj\Debug\net7.0\ExercicioPratico4.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExercicioPratico4\obj\Debug\net7.0\ExercicioPratico4.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExercicioPratico4\obj\Debug\net7.0\refint\ExercicioPratico4.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExercicioPratico4\obj\Debug\net7.0\ExercicioPratico4.pdb
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExercicioPratico4\obj\Debug\net7.0\ExercicioPratico4.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExercicioPratico4\obj\Debug\net7.0\ref\ExercicioPratico4.dll
