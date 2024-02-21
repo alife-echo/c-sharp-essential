@@ -1018,7 +1018,40 @@ Permitem definir parâmetros em uma assinatura de método que o chamador do mét
 
 Cada parâmetro opcionais deve ter um valor padrão, caso não seja  passado um valor o valor  padrão sera atribuido
 
-Parâmetros opcionais são exibidos no final da lista de parâmetros, depois de todos os parâmetros obrigatorios(caso existam)
+Parâmetros opcionais são exibidos no final da lista de parâmetros, depois de todos os parâmetros obrigatorios
+
+
+ex:
+
+Console.WriteLine("Informe o destino");
+string? destino = Console.ReadLine();
+
+Console.WriteLine("Informe o titulo");
+string titulo = Console.ReadLine();
+
+Console.WriteLine("Informe o assunto");
+string assunto  = Console.ReadLine();   
+
+
+Email e1 = new Email();
+
+e1.Enviar(destino);
+e1.Enviar(destino, titulo);
+e1.Enviar(destino,titulo,assunto);
+// não posso fazer
+//email.Enviar(destino,,assunto); // causa um error
+//
+e1.Enviar(destino, assunto: assunto); // alternativa
+
+
+Console.ReadKey();
+public class Email
+{
+    public void Enviar(string destino, string titulo = "Titulo Padrão", string assunto = "Assunto Padrão")
+    {
+        Console.WriteLine($"{destino},{titulo} : {assunto}");
+    }
+}
 
 
 

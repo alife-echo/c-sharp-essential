@@ -1,0 +1,14 @@
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ParametrosOpcionais\obj\Debug\net7.0\ParametrosOpcionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ParametrosOpcionais\obj\Debug\net7.0\ParametrosOpcionais.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ParametrosOpcionais\obj\Debug\net7.0\ParametrosOpcionais.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ParametrosOpcionais\obj\Debug\net7.0\ParametrosOpcionais.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ParametrosOpcionais\bin\Debug\net7.0\ParametrosOpcionais.exe
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ParametrosOpcionais\bin\Debug\net7.0\ParametrosOpcionais.deps.json
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ParametrosOpcionais\bin\Debug\net7.0\ParametrosOpcionais.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ParametrosOpcionais\bin\Debug\net7.0\ParametrosOpcionais.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ParametrosOpcionais\bin\Debug\net7.0\ParametrosOpcionais.pdb
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ParametrosOpcionais\obj\Debug\net7.0\ParametrosOpcionais.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ParametrosOpcionais\obj\Debug\net7.0\refint\ParametrosOpcionais.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ParametrosOpcionais\obj\Debug\net7.0\ParametrosOpcionais.pdb
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ParametrosOpcionais\obj\Debug\net7.0\ParametrosOpcionais.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ParametrosOpcionais\obj\Debug\net7.0\ref\ParametrosOpcionais.dll
