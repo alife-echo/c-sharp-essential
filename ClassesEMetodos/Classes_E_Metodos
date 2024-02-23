@@ -1058,8 +1058,55 @@ public class Email
 
 
 
+# -- Métodos Estáticos
+
+Métodos que não depedem de um objeto ou seja não dependem da criação de uma instância da classe para serem acessados
+
+Pertencem a à classe e não ao objeto
+
+como ele não possui ligação com um objeto, ele não pode usar variáveis de instância, que são variaveis do objeto
+
+Simplificando = Posso acessar os metodos da classe apenas usando o nome da classe, sem precisar instancia-la
 
 
+É definido usando o modificador static na declaração do método
+
+sintaxe:
+
+public static TipoRetorno NomeMetodo(parâmetros)
+{
+	// instruções
+}
+
+O modificador static pode ser usado em : classes, interfaces, structs,campos,métodos,propriedades,operadores,eventos e construtores
+
+
+ex:
+Console.WriteLine($"{Calculadora.Somar(10, 10)}");
+Console.WriteLine($"{Calculadora.Subtrair(20, 10)}");
+Console.WriteLine($"{Calculadora.Multiplicar(2, 10)}");
+Console.WriteLine($"{Calculadora.Dividir(50, 10)}");
+
+Console.ReadKey();
+public class Calculadora
+{
+    public static int Somar(int n1, int n2)
+    {
+        return n1 + n2;
+    }
+    public static int Subtrair(int n1, int n2)
+    {
+        return n1 - n2;
+    }
+    public static int Multiplicar(int n1, int n2)
+    {
+        return n1 * n2;
+    }
+    public static int Dividir(int n1, int n2)
+    {
+        return n1 / n2;
+    }
+}
 
 
 

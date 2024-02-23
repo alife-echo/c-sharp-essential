@@ -5,12 +5,12 @@ int x = 20;
 Console.WriteLine("\n Valor do argumento x antes de passar por valor : " + x);
 Console.WriteLine("\n--------------------------------------");
 
-Calculo calc = new();
-calc.Dobrar(x);
+Calculadoraulo Calculadora = new();
+Calculadora.Dobrar(x);
 
 Console.WriteLine("\n Valor do argumento x depois de passar por valor : " + x);
 Console.WriteLine("\n--------------------------------------");
-public class Calculo
+public class Calculadoraulo
 {
     public void Dobrar(int y)
     {

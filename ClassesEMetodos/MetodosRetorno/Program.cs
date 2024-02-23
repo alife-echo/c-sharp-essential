@@ -1,14 +1,14 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
 
-Calculadora calc = new();
+Calculadorauladora Calculadora = new();
 
-Console.WriteLine($"{calc.Somar(10,10)}");
-Console.WriteLine($"{calc.Subtrair(20,10)}");
-Console.WriteLine($"{calc.Multiplicar(2,10)}");
-Console.WriteLine($"{calc.Dividir(50,10)}");
+Console.WriteLine($"{Calculadora.Somar(10,10)}");
+Console.WriteLine($"{Calculadora.Subtrair(20,10)}");
+Console.WriteLine($"{Calculadora.Multiplicar(2,10)}");
+Console.WriteLine($"{Calculadora.Dividir(50,10)}");
 
-public class Calculadora
+public class Calculadorauladora
 {
     public int Somar(int n1, int n2)
     {

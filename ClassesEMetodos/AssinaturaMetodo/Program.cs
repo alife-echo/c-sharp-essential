@@ -9,7 +9,7 @@ email.Enviar("empresa.com.br",300);
 email.Enviar(300,"empresa.com.br");
 
 
-public class Calculadora
+public class Calculadorauladora
 {
     public int Somar(int n1, int n2)
     {
