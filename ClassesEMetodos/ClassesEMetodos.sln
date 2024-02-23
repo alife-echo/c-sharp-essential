@@ -39,9 +39,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReferenciaOUT", "Referencia
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioPratico4", "ExercicioPratico4\ExercicioPratico4.csproj", "{857889F0-80B0-4F3D-A341-42A50D8528CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArgumentosNomeados", "ArgumentosNomeados\ArgumentosNomeados.csproj", "{67B1F7D6-4C67-40AB-8D0C-62AD13E75FD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArgumentosNomeados", "ArgumentosNomeados\ArgumentosNomeados.csproj", "{67B1F7D6-4C67-40AB-8D0C-62AD13E75FD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParametrosOpcionais", "ParametrosOpcionais\ParametrosOpcionais.csproj", "{58708203-D791-4BC8-907C-3FBC50DBD299}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParametrosOpcionais", "ParametrosOpcionais\ParametrosOpcionais.csproj", "{58708203-D791-4BC8-907C-3FBC50DBD299}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioPraticoV", "ExercicioPraticoV\ExercicioPraticoV.csproj", "{DC1B7695-9685-412B-BBAF-8BAA992A3F25}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{58708203-D791-4BC8-907C-3FBC50DBD299}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58708203-D791-4BC8-907C-3FBC50DBD299}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58708203-D791-4BC8-907C-3FBC50DBD299}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC1B7695-9685-412B-BBAF-8BAA992A3F25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC1B7695-9685-412B-BBAF-8BAA992A3F25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC1B7695-9685-412B-BBAF-8BAA992A3F25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC1B7695-9685-412B-BBAF-8BAA992A3F25}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
