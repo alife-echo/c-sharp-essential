@@ -1060,6 +1060,8 @@ public class Email
 
 # -- Métodos Estáticos
 
+
+
 Métodos que não depedem de um objeto ou seja não dependem da criação de uma instância da classe para serem acessados
 
 Pertencem a à classe e não ao objeto
@@ -1071,7 +1073,9 @@ Simplificando = Posso acessar os metodos da classe apenas usando o nome da class
 
 É definido usando o modificador static na declaração do método
 
+
 sintaxe:
+
 
 public static TipoRetorno NomeMetodo(parâmetros)
 {
@@ -1109,5 +1113,60 @@ public class Calculadora
 }
 
 
+
+
+
+
+
+
+# -- Membros Estáticos (Campos e propriedades)
+
+-- Conceito
+
+-- Modificador static
+
+-- Declaração 
+
+-- Uso
+
+É definido usando o membro modificador static
+
+public class Cliente
+{
+	public string? Nome;
+	public int Idade;
+}
+
+
+Um campo estático não pertence ao objeto mas à classe
+
+Um campo(field) estático é compartilhado com todas instâncias da classe e todas as instâncias acessam o mesmo local de memória
+
+
+A a1 = new A();
+a1.x = 10;
+
+A a2 = new A();
+a2.x = 20;
+
+A.y = 30;
+
+public class A
+{
+    public int x;
+    public static int y;
+}
+
+a memoria stack ira armazenar o objeto  a1 , enquanto os dados do objeto ai estarão apontando para a memoria heap
+da mesmo forma forma para o a2
+stack  heap
+a1   --> a1 = [
+		x:10
+	     y
+		]
+	     y:30	
+
+o campo estatico sera armazenado separadamente das instancias da classe na memoria heap, 
+como o campo y é estatico as instacias irão compartilhar o mesmo local de memoria do campo y
 
 
