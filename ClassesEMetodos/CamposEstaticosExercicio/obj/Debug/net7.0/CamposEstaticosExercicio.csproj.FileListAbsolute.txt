@@ -1,0 +1,14 @@
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\CamposEstaticosExercicio\bin\Debug\net7.0\CamposEstaticosExercicio.exe
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\CamposEstaticosExercicio\bin\Debug\net7.0\CamposEstaticosExercicio.deps.json
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\CamposEstaticosExercicio\bin\Debug\net7.0\CamposEstaticosExercicio.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\CamposEstaticosExercicio\bin\Debug\net7.0\CamposEstaticosExercicio.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\CamposEstaticosExercicio\bin\Debug\net7.0\CamposEstaticosExercicio.pdb
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\CamposEstaticosExercicio\obj\Debug\net7.0\CamposEstaticosExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\CamposEstaticosExercicio\obj\Debug\net7.0\CamposEstaticosExercicio.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\CamposEstaticosExercicio\obj\Debug\net7.0\CamposEstaticosExercicio.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\CamposEstaticosExercicio\obj\Debug\net7.0\CamposEstaticosExercicio.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\CamposEstaticosExercicio\obj\Debug\net7.0\CamposEstaticosExercicio.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\CamposEstaticosExercicio\obj\Debug\net7.0\refint\CamposEstaticosExercicio.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\CamposEstaticosExercicio\obj\Debug\net7.0\CamposEstaticosExercicio.pdb
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\CamposEstaticosExercicio\obj\Debug\net7.0\CamposEstaticosExercicio.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\CamposEstaticosExercicio\obj\Debug\net7.0\ref\CamposEstaticosExercicio.dll

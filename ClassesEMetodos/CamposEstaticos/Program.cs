@@ -7,6 +7,8 @@ a1.x = 10;
 A a2 = new A();
 a2.x = 20;
 
+A.y = 30;
+
 public class A
 {
     public int x;

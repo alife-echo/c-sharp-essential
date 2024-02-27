@@ -43,9 +43,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArgumentosNomeados", "Argum
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParametrosOpcionais", "ParametrosOpcionais\ParametrosOpcionais.csproj", "{58708203-D791-4BC8-907C-3FBC50DBD299}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioPraticoV", "ExercicioPraticoV\ExercicioPraticoV.csproj", "{DC1B7695-9685-412B-BBAF-8BAA992A3F25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioPraticoV", "ExercicioPraticoV\ExercicioPraticoV.csproj", "{DC1B7695-9685-412B-BBAF-8BAA992A3F25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosEstaticos", "MetodosEstaticos\MetodosEstaticos.csproj", "{314F6EA9-823F-4D47-982A-6B3D1C166C91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetodosEstaticos", "MetodosEstaticos\MetodosEstaticos.csproj", "{314F6EA9-823F-4D47-982A-6B3D1C166C91}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CamposEstaticos", "CamposEstaticos\CamposEstaticos.csproj", "{C66B4CF4-D8F1-46D1-8DE9-F2597F8C20A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamposEstaticosExercicio", "CamposEstaticosExercicio\CamposEstaticosExercicio.csproj", "{41AE3CBF-4803-42B2-9813-89ABACEAEF82}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +145,14 @@ Global
 		{314F6EA9-823F-4D47-982A-6B3D1C166C91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{314F6EA9-823F-4D47-982A-6B3D1C166C91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{314F6EA9-823F-4D47-982A-6B3D1C166C91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C66B4CF4-D8F1-46D1-8DE9-F2597F8C20A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C66B4CF4-D8F1-46D1-8DE9-F2597F8C20A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C66B4CF4-D8F1-46D1-8DE9-F2597F8C20A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C66B4CF4-D8F1-46D1-8DE9-F2597F8C20A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41AE3CBF-4803-42B2-9813-89ABACEAEF82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41AE3CBF-4803-42B2-9813-89ABACEAEF82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41AE3CBF-4803-42B2-9813-89ABACEAEF82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41AE3CBF-4803-42B2-9813-89ABACEAEF82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
