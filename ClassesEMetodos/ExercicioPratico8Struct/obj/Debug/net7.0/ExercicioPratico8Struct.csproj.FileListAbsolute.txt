@@ -1,0 +1,14 @@
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExercicioPratico8Struct\bin\Debug\net7.0\ExercicioPratico8Struct.exe
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExercicioPratico8Struct\bin\Debug\net7.0\ExercicioPratico8Struct.deps.json
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExercicioPratico8Struct\bin\Debug\net7.0\ExercicioPratico8Struct.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExercicioPratico8Struct\bin\Debug\net7.0\ExercicioPratico8Struct.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExercicioPratico8Struct\bin\Debug\net7.0\ExercicioPratico8Struct.pdb
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExercicioPratico8Struct\obj\Debug\net7.0\ExercicioPratico8Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExercicioPratico8Struct\obj\Debug\net7.0\ExercicioPratico8Struct.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExercicioPratico8Struct\obj\Debug\net7.0\ExercicioPratico8Struct.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExercicioPratico8Struct\obj\Debug\net7.0\ExercicioPratico8Struct.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExercicioPratico8Struct\obj\Debug\net7.0\ExercicioPratico8Struct.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExercicioPratico8Struct\obj\Debug\net7.0\refint\ExercicioPratico8Struct.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExercicioPratico8Struct\obj\Debug\net7.0\ExercicioPratico8Struct.pdb
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExercicioPratico8Struct\obj\Debug\net7.0\ExercicioPratico8Struct.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExercicioPratico8Struct\obj\Debug\net7.0\ref\ExercicioPratico8Struct.dll

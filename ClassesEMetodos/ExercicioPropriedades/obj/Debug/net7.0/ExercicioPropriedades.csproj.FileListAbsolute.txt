@@ -1,0 +1,14 @@
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExercicioPropriedades\bin\Debug\net7.0\ExercicioPropriedades.exe
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExercicioPropriedades\bin\Debug\net7.0\ExercicioPropriedades.deps.json
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExercicioPropriedades\bin\Debug\net7.0\ExercicioPropriedades.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExercicioPropriedades\bin\Debug\net7.0\ExercicioPropriedades.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExercicioPropriedades\bin\Debug\net7.0\ExercicioPropriedades.pdb
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExercicioPropriedades\obj\Debug\net7.0\ExercicioPropriedades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExercicioPropriedades\obj\Debug\net7.0\ExercicioPropriedades.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExercicioPropriedades\obj\Debug\net7.0\ExercicioPropriedades.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExercicioPropriedades\obj\Debug\net7.0\ExercicioPropriedades.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExercicioPropriedades\obj\Debug\net7.0\ExercicioPropriedades.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExercicioPropriedades\obj\Debug\net7.0\refint\ExercicioPropriedades.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExercicioPropriedades\obj\Debug\net7.0\ExercicioPropriedades.pdb
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExercicioPropriedades\obj\Debug\net7.0\ExercicioPropriedades.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExercicioPropriedades\obj\Debug\net7.0\ref\ExercicioPropriedades.dll

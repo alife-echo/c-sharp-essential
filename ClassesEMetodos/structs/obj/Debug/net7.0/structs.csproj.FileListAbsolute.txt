@@ -1,0 +1,14 @@
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\structs\bin\Debug\net7.0\structs.exe
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\structs\bin\Debug\net7.0\structs.deps.json
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\structs\bin\Debug\net7.0\structs.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\structs\bin\Debug\net7.0\structs.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\structs\bin\Debug\net7.0\structs.pdb
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\structs\obj\Debug\net7.0\structs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\structs\obj\Debug\net7.0\structs.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\structs\obj\Debug\net7.0\structs.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\structs\obj\Debug\net7.0\structs.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\structs\obj\Debug\net7.0\structs.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\structs\obj\Debug\net7.0\refint\structs.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\structs\obj\Debug\net7.0\structs.pdb
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\structs\obj\Debug\net7.0\structs.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\structs\obj\Debug\net7.0\ref\structs.dll

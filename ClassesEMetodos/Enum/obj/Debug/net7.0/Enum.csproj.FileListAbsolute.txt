@@ -1,0 +1,14 @@
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\Enum\bin\Debug\net7.0\Enum.exe
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\Enum\bin\Debug\net7.0\Enum.deps.json
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\Enum\bin\Debug\net7.0\Enum.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\Enum\bin\Debug\net7.0\Enum.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\Enum\bin\Debug\net7.0\Enum.pdb
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\Enum\obj\Debug\net7.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\Enum\obj\Debug\net7.0\Enum.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\Enum\obj\Debug\net7.0\Enum.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\Enum\obj\Debug\net7.0\Enum.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\Enum\obj\Debug\net7.0\Enum.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\Enum\obj\Debug\net7.0\refint\Enum.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\Enum\obj\Debug\net7.0\Enum.pdb
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\Enum\obj\Debug\net7.0\Enum.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\Enum\obj\Debug\net7.0\ref\Enum.dll

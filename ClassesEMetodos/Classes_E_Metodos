@@ -1121,6 +1121,8 @@ public class Calculadora
 
 # -- Membros Estáticos (Campos e propriedades)
 
+
+
 -- Conceito
 
 -- Modificador static
@@ -1168,5 +1170,383 @@ a1   --> a1 = [
 
 o campo estatico sera armazenado separadamente das instancias da classe na memoria heap, 
 como o campo y é estatico as instacias irão compartilhar o mesmo local de memoria do campo y
+
+
+
+
+
+
+
+
+# -- Construtor estatico
+
+
+
+Um construtor é usado para inicilizar quaisquer membros estaticos ou para executar um ação especifica que precisa ser executada apenas uma vez
+
+Ele é chamado automaticamente(uma unica vez) antes que a primeira instância seja criada ou que quaisquer membros estáticos sejam referenciados
+
+
+# -- Construtor estático : propriedades
+
+Um construtor estático não usa modificadores de acesso nem tem parâmetros.
+
+Um classe ou struct só pode ter um unico construtor estático
+
+Um construtor estático não pode ser chamado diretamente
+
+O usuário não tem controle sobre quando o construtor estático é executado no programa
+
+Se não houver um construtor estático para inicializar campos estáticos, todos os campos estático serão inicializados com valor padrão
+
+Se um construtor estático gerar uma exceção, o runtime não o chamara uma segunda vez, e o membro estático permanecera não inicializado durante o tempo de vida do aplicativo
+
+
+
+sintaxe:
+
+Bastar criar um construtor sem parâmetros usando a palavra-chave static
+
+class MinhaClasse
+{
+   // construtor estático
+   static MinhaClasse()
+   {
+   //Código
+   }
+
+}
+
+
+Podemos ter outros construtores na classe/struc além do construtor estático
+
+
+
+
+# -- Propriedades 
+
+Uma proprieadade é um membro da classe que fornece  um mecanismo para ler,gravar ou calcular o valor de um campo privado
+
+As propriedades podem ser usadas como dados publicos , porem com seus proprios acessadores especiais
+
+Expõe a classe publicamente, porem não deixa acessar o codigo de implementação ou verificação
+
+
+
+- Propriedade sintaxe
+
+sintaxe:
+
+public class Pessoa
+{
+  private string nome;
+  public string Nome
+  {
+  	get{return nome;}
+  	set{nome = value;}
+  }
+
+}
+
+
+sintaxe simples:
+
+public class Pessoa
+{
+	public string Nome {get;set;}
+}
+
+
+
+Campos X Propriedades
+
+public class Cliente
+{
+    public string? Nome;
+    public int Idade;
+    
+    public Cliente(string? nome,int idade)
+    {
+    		Nome = nome;
+    		Idade = idade;
+    }
+}
+
+
+- Usando campos públicos
+
+ Permite o acesso ao campo para quem instanciar a classe mas sem acesso a atribuição dos dados, apenas a inicialização
+ 
+ Os campos expõem o estado de um objeto da classe ao mundo exterior
+ 
+--- 
+ 
+- Proriedades
+
+public class Cliente
+{
+ public string? Nome {get;set;}
+ public int Idade {get;set;}
+ 
+ public Cliente(string? nome, int idade)
+ {
+ 	Nome = nome;
+ 	Idade = idade;
+ }
+}
+
+- Usando propriedades públicas
+
+Usa um campo de apoio privado para definir e recuperar o valor da propriedade
+
+O acessador get retorna o valor do campo privado
+
+O acessador set pode realizar alguma validação de dados antes de atribuir um valor ao campo privado
+
+simpli : as propriedades possuem meios de controlar acesso ao campo privado e realizar validação sobre a atribuição dos dados
+
+
+public string? Nome{ get;} --> somente leitura
+public int Idade {get;set;} --> leitura e gravação
+
+
+Diferença propriedade e campo -> enquanto o campo eu posso apenas atribuir os valores, nas propriedades eu posso restringir,acessar  e validar os valores
+
+-- propriedades : vantagens 
+
+Permitem um melhor controle dos membros da classe 
+
+Escolha de acessadores
+
+Mais flexiveis podendo alterar o codigo sem afetar outras partes
+
+Maior seguraça dos dados permitindo controlar o acesso
+
+
+
+# -- Exercicio propriedades :
+
+
+public class Produto
+{
+    private string? nome; --> campo de apoio
+    public string? Nome 
+    { 
+        get {return nome?.ToUpper();}
+        set {nome = value;}
+    }
+    private double preco; --> campo de apoio
+    public double Preco 
+    { 
+        get { return preco; }
+        set 
+        {
+            if (value < 5.00)
+            {
+                preco = 5.00;
+            }
+            else
+            {
+                preco = value;
+            }
+        }
+    }
+    private double desconto = 0.25; --> campo de apoio
+    public double Desconto { get { return desconto; } }
+
+    public double PrecoFinal {
+        get { return preco - preco * desconto;}
+    }
+    private int estoqueminimo; --> campo de apoio
+    public int EstoqueMinimo {
+            set { estoqueminimo = value; } 
+    }
+
+    public void Exibir()
+    {
+        Console.WriteLine(
+            $"{Nome}\n{Preco.ToString("c")}\n{Desconto * 100}%" +
+            $"\n{PrecoFinal.ToString("c")}\n{estoqueminimo}"
+            );
+    }
+
+}
+
+campo de apoio = serve para quando eu quiser trabalhar com set
+
+campo de apoio = podem ser acessados por toda classe e pelos acessadores especiais
+
+
+
+
+
+
+# -- Struct
+
+Um tipo de dado composto por outros tipos de dados(semelhante a uma classe)
+
+Uma struct pode conter campos,propriedades,construdores,metodos,constantes,indexados,operadores e mesmo outro tipos de estruturas.
+
+Diferença:
+
+Struct é do tipo valor(stack) enquanto  a classe é do tipo de referencia(heap). 
+
+Em atribuições a struct fara a copia de seus dados na stack, enquanto em classe ocorrera uma sobreposição dos dados na heap
+
+struct - sintaxe
+
+struct<nome_do_tipo>
+{
+   //membros:campos,propriedades,métodos,construdor e etc.
+}
+
+struct Pessoa
+{
+    public string Nome;
+    public string Idade { get; set; }
+
+    public void Exibir()
+    {
+        Console.WriteLine("Struct");
+    }
+}
+
+
+
+-- Quando usar structs
+
+Considere definir um struct em vez de uma classe se as instâncias do tipo forem pequenas e normalmente de curta duração ou se forem comumente incorporadas em outros objetos
+
+
+
+
+
+
+# -- Enum
+
+
+
+Enum ou Enumeration é um tipo de dados especial definido pelo usuário
+
+Enum é tipo valor (stack)
+
+enum é um "classe especial" que é definida por um conjunto de constantes nomeadas do tipo numérico
+
+enum ajuda a tornar o programa mais fácil de entender e manter
+
+Uma enumeração é definida usando a palavra-chave enum, diretamente dentro de um namespace, classe ou struct, e todos os nomes das constantes podem ser declarados e separados por virgula
+
+
+
+enum DiasDaSemana
+{
+    Segunda,
+    Terca,
+    Quarta,
+    Quinta,
+    Sexta,
+    Sabado,
+    Domingo
+}
+
+enum Categorias
+{
+    Moda,
+    Automotivo,
+    Artes,
+    Bebidas,
+    Livros,
+    Brinquedos
+}
+enum CodigoErro
+{
+    Nenhum = 0,
+    Desconhecido = 1,
+    ConexaoFalhou = 100,
+    DadosInvalidos = 200
+}
+
+
+Por padrão , os valores associados ao membros de uma enum são do tipo int;
+
+O primeiro membro de um enum tem o valor 0 e o valor de cada membro seguinte é incrementado de 1. (quando nenhum valor for atribuido)
+
+
+ex:
+
+enum Categorias --> não possui atribuições
+{
+    Moda, --> 0
+    Automotivo, --> 1
+    Artes, --> 2
+    Bebidas, --> 3
+    Livros, --> 4
+    Brinquedos --> 5
+}
+
+
+Podemos atribuir valores diferentes aos membros de uma enum
+
+Uma alteração no valor padrão de um nembro enum atribuira automaticamente valores incrementais aos outros membros sequencialmente
+
+
+enum Categorias
+{
+Moda, //0
+Automotivo, //1
+Artes = 5,
+Bebidas,//6
+Livros,//7
+Brinquedos //8
+}
+
+Podemos atribuir valores diferentes a cada membro do enum
+
+
+enum Categorias
+{
+Moda = 1,
+Automotivo = 5,
+Artes = 6,
+Bebidas = 10,
+Livros = 12,
+Brinquedos = 15
+}
+
+
+
+
+
+
+enum Categorias
+{
+    Moda, --> 0
+    Automotivo, --> 1
+    Artes, --> 2
+    Bebidas, --> 3
+    Livros, --> 4
+    Brinquedos --> 5
+}
+
+Um enum pode ser acessado usando a sintaxe de ponto : nome_enum.membro
+
+ex:
+
+Console.WriteLine(Categorias.Moda); ---> exibe o nome da constante
+
+Acessar valor da constante no enum, conversão do valor membro do enum para o seu tipo numerico é preciso realizar conversão forçada cast
+
+
+int dia = (int)DiasDaSemana.Quarta;
+Console.WriteLine(DiasDaSemana.Quarta);
+Console.WriteLine($"Dias da semana Quarta vale:{dia}");
+
+
+Enum - Acesso
+
+o enum pode ser qualquer tipo de dado numerico : byte,sbyte,short,ushort,int,uint,long ou ulong
+
+Para definir o tipo basta informar o nome do tipo após o nome do enum
+
 
 
