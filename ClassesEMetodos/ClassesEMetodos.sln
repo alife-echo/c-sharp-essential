@@ -63,6 +63,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioPratico8Struct", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum", "Enum\Enum.csproj", "{DF976DEC-DA8F-4933-91B4-CB07D5A2850E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploEnum", "ExemploEnum\ExemploEnum.csproj", "{F38C638C-BD91-4237-B295-024BAA59E292}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{DF976DEC-DA8F-4933-91B4-CB07D5A2850E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF976DEC-DA8F-4933-91B4-CB07D5A2850E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF976DEC-DA8F-4933-91B4-CB07D5A2850E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F38C638C-BD91-4237-B295-024BAA59E292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F38C638C-BD91-4237-B295-024BAA59E292}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F38C638C-BD91-4237-B295-024BAA59E292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F38C638C-BD91-4237-B295-024BAA59E292}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
