@@ -1530,6 +1530,8 @@ enum Categorias
 
 Um enum pode ser acessado usando a sintaxe de ponto : nome_enum.membro
 
+
+
 ex:
 
 Console.WriteLine(Categorias.Moda); ---> exibe o nome da constante
@@ -1542,11 +1544,30 @@ Console.WriteLine(DiasDaSemana.Quarta);
 Console.WriteLine($"Dias da semana Quarta vale:{dia}");
 
 
+
+
 Enum - Acesso
 
 o enum pode ser qualquer tipo de dado numerico : byte,sbyte,short,ushort,int,uint,long ou ulong
 
 Para definir o tipo basta informar o nome do tipo após o nome do enum
+
+enum DiasDaSemana : byte
+{
+    Segunda,
+    Terca,
+    Quarta,
+    Quinta,
+    Sexta,
+    Sabado,
+    Domingo
+}
+
+acessando valor
+
+byte dia = (byte)DiasDaSemana.Quarta;
+Console.WriteLine($"Dias da semana Quarta vale:{dia}");
+
 
 
 
