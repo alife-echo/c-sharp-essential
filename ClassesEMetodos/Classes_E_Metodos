@@ -1571,3 +1571,107 @@ Console.WriteLine($"Dias da semana Quarta vale:{dia}");
 
 
 
+
+
+Exemplo utilização enum:
+
+
+
+namespace _18Enumeration;
+
+        enum Categorias
+        {
+            Moda,
+            Automotivo,
+            Artes,
+            Bebidas,
+            Brinquedos
+        }
+        enum DiasDaSemana
+        {
+            Segunda,
+            Terça,
+            Quarta,
+            Quinta,
+            Sexta,
+            Sabado,
+            Domingo
+        }
+    
+
+--------
+
+// See https://aka.ms/new-console-template for more information
+
+using _18Enumeration;
+
+
+Console.WriteLine("## Enum ## \n");
+
+foreach (var category in Enum.GetValues(typeof(Categorias))){---> maneira de exibir os nomes e seus valores no enum
+    Console.WriteLine($"Nome:{category},Valor:{(int)category}");
+}
+Console.WriteLine("\nSelecione a Categoria teclando o seu valor");
+int valor = Convert.ToInt32(Console.ReadLine());
+
+var nomeMembroEnum = (Categorias)valor; --> acessar o nome em um enum
+Console.WriteLine($"\n Voce Selecionou a categoria : {nomeMembroEnum.ToString()}");
+
+Console.WriteLine(DiasDaSemana.Domingo);
+Console.WriteLine(DiasDaSemana.Terça);
+
+int dia1 = (int)DiasDaSemana.Domingo; --> acessar o valor do enum
+int dia2 = (int)DiasDaSemana.Terça;
+
+Console.WriteLine($"\n {DiasDaSemana.Domingo} vale : {dia1}");
+Console.WriteLine($"\n {DiasDaSemana.Terça} vale : {dia2}");
+Console.ReadKey();
+
+
+
+
+
+
+
+
+# -- Modificadores de acesso
+
+
+Os modificadores de acesso são palavras-chave usadas para especificar o acesso de um membro(campo,propriedade,método,etc.) ou de um tipo (classe,struct,etc.)
+
+
+public, private , internal , protected , file
+
+
+public --> codigo pode ser acessado no mesmo assembly ou outro assembly que faz referencia a ele
+
+private --> o tipo ou membro pode ser acessado pelo codigo apenas se estiver na mesma classe ou struct
+
+internal --> o tipo ou membro pode ser acessado por qualquer codigo no mesmo assembly, mas não em outro assembly
+
+protected --> o tipo ou membro pode ser acessado por qualquer codigo no assembly que ele esta declarado ou uma classe derivada de outro assembly
+
+file --> restringe a visibilidade de um tipo de nível superior ao arquivo no qual ele for declarado
+
+
+			  (Na própria classe(x))   (Subclasses no Assembly)    (Classes(x) do Assembly)  (Sublasses Fora do assembly)  (Classes(x) fora do assembly)
+
+public 			            x			    x                             x                         x                              x
+
+protected internal                  x			    x	                          x                         x
+	
+internal 			    x 			    x		                  x
+
+protected                           x 			    x	                                                    x
+	
+private protected                   x                       x
+
+private                             x
+
+
+
+Subclasse - É a classe derivada , a classe filha que foi herdada da classe pai
+
+Assembly - É o arquivo .exe ou .dll gerado pela sua aplicação .NET em cada projeto da solução
+
+Classe(x),Classes(x) - Classe ou Struct

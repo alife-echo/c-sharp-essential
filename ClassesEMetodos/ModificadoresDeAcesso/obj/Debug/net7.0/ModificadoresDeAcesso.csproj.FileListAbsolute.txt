@@ -1,0 +1,14 @@
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ModificadoresDeAcesso\bin\Debug\net7.0\ModificadoresDeAcesso.exe
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ModificadoresDeAcesso\bin\Debug\net7.0\ModificadoresDeAcesso.deps.json
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ModificadoresDeAcesso\bin\Debug\net7.0\ModificadoresDeAcesso.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ModificadoresDeAcesso\bin\Debug\net7.0\ModificadoresDeAcesso.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ModificadoresDeAcesso\bin\Debug\net7.0\ModificadoresDeAcesso.pdb
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ModificadoresDeAcesso\obj\Debug\net7.0\ModificadoresDeAcesso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ModificadoresDeAcesso\obj\Debug\net7.0\ModificadoresDeAcesso.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ModificadoresDeAcesso\obj\Debug\net7.0\ModificadoresDeAcesso.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ModificadoresDeAcesso\obj\Debug\net7.0\ModificadoresDeAcesso.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ModificadoresDeAcesso\obj\Debug\net7.0\ModificadoresDeAcesso.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ModificadoresDeAcesso\obj\Debug\net7.0\refint\ModificadoresDeAcesso.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ModificadoresDeAcesso\obj\Debug\net7.0\ModificadoresDeAcesso.pdb
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ModificadoresDeAcesso\obj\Debug\net7.0\ModificadoresDeAcesso.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ModificadoresDeAcesso\obj\Debug\net7.0\ref\ModificadoresDeAcesso.dll
