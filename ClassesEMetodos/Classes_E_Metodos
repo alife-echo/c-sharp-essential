@@ -1765,8 +1765,131 @@ Message 	  String	  Contém uma mensagem de erro explicando a causa da exceção
 
 StackTrace        String          Contém a informação que descreve aonde a exceção ocorreu
 
-InnerException 	  Exception  	  Se a exceção foi lançada por outra exceção, esta propriedade contém a referencia da antiga exceção	
+InnerException 	  Exception  	  Se a exceção foi lançada por outra exceção, esta propriedade contém a referencia da antiga exceção
 
+
+
+
+ex:
+
+
+Console.WriteLine("\n Informe o valor de x");
+int x = Convert.ToInt32(Console.ReadLine());
+
+Console.WriteLine("\n Informe o valor de y");
+int y = Convert.ToInt32(Console.ReadLine());
+
+try
+{
+    int z = x / y;
+    Console.WriteLine($"\n {x} / {y} = {z}");
+}
+catch(Exception ex)
+{
+
+    Console.WriteLine("\n Não existe divisão por zero, tente outro número....");
+    Console.WriteLine($"\n Erro: <<< {ex.Message}");
+    Console.WriteLine($"\n Localização: <<< {ex?.StackTrace?.ToString()}");
+    Console.WriteLine($"\n Ref: <<<{ex?.InnerException?.ToString()}");
+}
+
+finally
+{
+    Console.WriteLine("\nProcessamento concluido....");
+}
+Console.ReadKey();
+
+
+
+
+
+
+
+# -- Tipos Anõnimos
+
+
+Um tipo anônimo é um tipo(classe) sem nenhum nome que pode conter apenas propriedades públicas somente leitura
+
+
+Os tipos anônimos fornecem uma maneira coveniente para encapsular um conjunto de propriedades somente leitura em um único objeto sem precisar primeiro definir explicitamente um tipo
+
+o nome do tipo é gerado pelo compilador e não está disponível no código-fonte e o tipo de cada propriedade é inferido pelo compilador
+
+
+Um tipo anonimo é inicializado utilizando o operador new, seguindo com um inicializador de objetos
+
+deve-se usar a palavra-chave var para recuperar a referencia
+
+todas as propriedades do tipo anonimo são apenas para leitura
+
+var aluno = new
+{
+	Nome = "Maria",
+	Idade = 42
+}
+
+Console.WriteLine(aluno.Nome + " - " + aluno.Idade + " anos");
+
+Console.WriteLine(aluno.GetType().ToString()); --> retornar os tipos em um tipo anonimo
+
+
+
+	
+-- posso criar outros tipos anonimos dentro de um tipo anonimo
+
+
+var aluno2 = new
+{
+    Id = 1,
+    Nome = "Jairo",
+    Email = "jairo@email.com",
+    Endereco = new {Id = 1, Cidade = "Santos", Pais = "Brasil"}
+};
+Console.WriteLine(aluno2.Endereco.Cidade);
+
+
+
+-- posso criar array de tipos anonimos
+
+
+var alunos = new[]
+{
+        new {Id = 1, Cidade = "Maria", Email = "maria@email.com"},
+        new {Id = 2, Cidade = "Sonia", Email = "sonia@email.com"},
+        new {Id = 3, Cidade = "Bruno", Email = "bruno@email.com"}
+
+};
+Console.WriteLine(alunos.GetType().ToString());
+Console.WriteLine(alunos[0].Email);
+
+
+
+
+
+
+# -- Tipos anônimos: caracteristicas
+
+
+São os tipos de referencia que derivam diretamente de Object
+
+Contêm uma ou mais propriedades públicas somente leitura
+
+
+metodos,eventos --> não é valida em um tipo anonimo
+
+expressão usada para inicializar uma propriedade não pode ser nula, uma função anonima ou tipo de ponteiro
+
+se dois ou mais tipos anonimos tiverem o mesmo numero e tipo de propriedades na mesma ordem, o compilador ira tratalos como o mesmo tipo,
+e eles compartilham as mesmas informações de tipo gerado pelo compilador
+
+sempre será local para o método no qual for definido e não pode ser retornado do método --> caso queira colocar o tipo anonimo em um metodo de classe
+
+pode ser passado para outro método como parametro de tipo de objeto, mas isso não é recomendado
+
+
+
+
+# -- Quando usar  tipos anonimos ?
 
 
   

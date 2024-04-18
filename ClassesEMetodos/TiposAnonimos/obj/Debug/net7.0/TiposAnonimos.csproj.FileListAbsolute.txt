@@ -1,0 +1,14 @@
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\TiposAnonimos\bin\Debug\net7.0\TiposAnonimos.exe
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\TiposAnonimos\bin\Debug\net7.0\TiposAnonimos.deps.json
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\TiposAnonimos\bin\Debug\net7.0\TiposAnonimos.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\TiposAnonimos\bin\Debug\net7.0\TiposAnonimos.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\TiposAnonimos\bin\Debug\net7.0\TiposAnonimos.pdb
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\TiposAnonimos\obj\Debug\net7.0\TiposAnonimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\TiposAnonimos\obj\Debug\net7.0\TiposAnonimos.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\TiposAnonimos\obj\Debug\net7.0\TiposAnonimos.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\TiposAnonimos\obj\Debug\net7.0\TiposAnonimos.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\TiposAnonimos\obj\Debug\net7.0\TiposAnonimos.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\TiposAnonimos\obj\Debug\net7.0\refint\TiposAnonimos.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\TiposAnonimos\obj\Debug\net7.0\TiposAnonimos.pdb
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\TiposAnonimos\obj\Debug\net7.0\TiposAnonimos.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\TiposAnonimos\obj\Debug\net7.0\ref\TiposAnonimos.dll
