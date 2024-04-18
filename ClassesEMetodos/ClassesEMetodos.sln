@@ -71,6 +71,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModificadoresDeAcesso", "Mo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioPratico10", "ExercicioPratico10\ExercicioPratico10.csproj", "{EE699A86-FFDF-4B5C-809C-DF9D5C6949E5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryCatch", "TryCatch\TryCatch.csproj", "{CE1FF7AC-575E-4FC6-9D1A-906EE6FA1FE1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -213,6 +215,10 @@ Global
 		{EE699A86-FFDF-4B5C-809C-DF9D5C6949E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE699A86-FFDF-4B5C-809C-DF9D5C6949E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE699A86-FFDF-4B5C-809C-DF9D5C6949E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE1FF7AC-575E-4FC6-9D1A-906EE6FA1FE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE1FF7AC-575E-4FC6-9D1A-906EE6FA1FE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE1FF7AC-575E-4FC6-9D1A-906EE6FA1FE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE1FF7AC-575E-4FC6-9D1A-906EE6FA1FE1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

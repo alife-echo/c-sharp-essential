@@ -1,0 +1,14 @@
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\TryCatch\bin\Debug\net7.0\TryCatch.exe
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\TryCatch\bin\Debug\net7.0\TryCatch.deps.json
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\TryCatch\bin\Debug\net7.0\TryCatch.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\TryCatch\bin\Debug\net7.0\TryCatch.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\TryCatch\bin\Debug\net7.0\TryCatch.pdb
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\TryCatch\obj\Debug\net7.0\TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\TryCatch\obj\Debug\net7.0\TryCatch.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\TryCatch\obj\Debug\net7.0\TryCatch.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\TryCatch\obj\Debug\net7.0\TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\TryCatch\obj\Debug\net7.0\TryCatch.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\TryCatch\obj\Debug\net7.0\refint\TryCatch.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\TryCatch\obj\Debug\net7.0\TryCatch.pdb
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\TryCatch\obj\Debug\net7.0\TryCatch.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\TryCatch\obj\Debug\net7.0\ref\TryCatch.dll

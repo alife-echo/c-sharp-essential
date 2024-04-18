@@ -1675,3 +1675,98 @@ Subclasse - É a classe derivada , a classe filha que foi herdada da classe pai
 Assembly - É o arquivo .exe ou .dll gerado pela sua aplicação .NET em cada projeto da solução
 
 Classe(x),Classes(x) - Classe ou Struct
+
+
+
+
+
+
+
+
+
+# -- Bloco Try-Catch
+
+
+Uma exceção é uma violação de uma condição que não foi especificada que ocorre em tempo de execução do codigo
+
+Se o programa não fornecer o código para tratar uma exceção, o sistema vai parar a execução do programa com uma mensagem de erro(lançar um exceção)
+
+
+Console.WriteLine("\n Informe o valor de x");
+int x = Convert.ToInt32(Console.ReadLine());
+
+Console.WriteLine("\n Informe o valor de y");
+int y = Convert.ToInt32(Console.ReadLine());
+
+int z = x / y;
+
+Console.WriteLine($"\n {x} / {y} = {z}");
+
+error  --> Unhandled exception. System.DivideByZeroException: Attempted to divide by zero.
+
+Desta forma exceções que podem ocorrer em um aplicativo devem ser tratadas para evitar travamentos e resultados inesperados e continuar a execução do código quando isso for possivel
+
+
+
+
+-- Para lidar com exceções a linguagem c# fornece o suporte interno através do uso do bloco:
+
+
+try{
+	// código que vai ser executado e
+	// que pode gerar uma exceção
+}
+catch
+{
+	//se ocorrer um erro será tratado aqui
+}
+
+
+A instrução try catch consiste em um bloco try seguido por uma ou mais clausulas catch, que se especificam manipuladores para diferentes exceções
+
+CLR(common languagem runtime) vai procurar o catch para tratar a exceção
+
+
+
+
+ -- Tratamento de exceção: bloco try-catch-finally
+
+finaly --> sempre será executado usado para liberar recursos  usado do programa ou realizar outra tarefa
+
+try{
+	// código que vai ser executado e
+	// que pode gerar uma exceção
+}
+catch
+{
+	//se ocorrer um erro será tratado aqui
+}
+finally
+{
+  //código para liberar recursos
+}
+
+
+Tendo sido lançado ou não uma exceção o bloco finally será executado
+
+
+
+
+
+-- Tratamento de exceção : Propriedades da exceção(Exception)
+
+Uma exceção contém diversas propriedades somente leitura que mostram informações sobre a exceção que causou erro.
+
+Abaixo temos as principais:
+
+Propriedade        Tipo             Descrição
+
+Message 	  String	  Contém uma mensagem de erro explicando a causa da exceção
+
+StackTrace        String          Contém a informação que descreve aonde a exceção ocorreu
+
+InnerException 	  Exception  	  Se a exceção foi lançada por outra exceção, esta propriedade contém a referencia da antiga exceção	
+
+
+
+  
