@@ -1891,5 +1891,22 @@ pode ser passado para outro método como parametro de tipo de objeto, mas isso n
 
 # -- Quando usar  tipos anonimos ?
 
+em linq
 
-  
+
+
+
+
+
+# -- Partial Class
+
+
+Partial class -> permite que uma classe venha ser implementada em múltiplos arquivos fisicos com extensão .cs
+
+Desta forma é possivel dividir a definição de uma classe, struct,interface ou método em dois ou mais arquivos de origem
+
+Cada arquivo de origem contém as definições de membros,tipós ou métodos e todas as partes são combinadas quando o aplicativo for compilado  
+
+Podemos criar classes,interfaces, structs e métodos parciais usando o modificador partial
+
+

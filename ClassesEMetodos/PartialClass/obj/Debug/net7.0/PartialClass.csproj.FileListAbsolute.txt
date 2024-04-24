@@ -1,0 +1,14 @@
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\PartialClass\bin\Debug\net7.0\PartialClass.exe
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\PartialClass\bin\Debug\net7.0\PartialClass.deps.json
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\PartialClass\bin\Debug\net7.0\PartialClass.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\PartialClass\bin\Debug\net7.0\PartialClass.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\PartialClass\bin\Debug\net7.0\PartialClass.pdb
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\PartialClass\obj\Debug\net7.0\PartialClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\PartialClass\obj\Debug\net7.0\PartialClass.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\PartialClass\obj\Debug\net7.0\PartialClass.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\PartialClass\obj\Debug\net7.0\PartialClass.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\PartialClass\obj\Debug\net7.0\PartialClass.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\PartialClass\obj\Debug\net7.0\refint\PartialClass.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\PartialClass\obj\Debug\net7.0\PartialClass.pdb
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\PartialClass\obj\Debug\net7.0\PartialClass.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\PartialClass\obj\Debug\net7.0\ref\PartialClass.dll
