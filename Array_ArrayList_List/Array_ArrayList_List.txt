@@ -1,0 +1,112 @@
+
+# -- Apresentação
+
+
+
+Coleções --> formam uma importante estrutura de dados para criar e gerenciar grupos de objetos relacionados
+
+Existe duas maneiras de agrupar objetos:
+
+1 - Criando Arrays de Objetos
+2 - Criando Coleções de Objetos
+
+Os arrays são uteis para criar e trabalhar com um número fixo de objetos do mesmo tipo
+
+As coleções fornecem uma maneira mais flexivel de trabalhar com grupos de objetos
+
+
+
+1 - Coleções não genericas presentes no namespace System.Collections:
+
+ArrayList,Stack,SortedList,Queue,Hashtable, etc.
+
+
+2 - As coleções Genéricas presentes no namespaces System.Collections.Generic:
+
+List,SortedList,Stack,Queue,HashSet,SortedSet,Dictionary,SortedDictionary
+
+
+
+
+
+
+# -- Arrays
+
+
+Os arrays são um conjunto de elementos de mesmo tipo de dados e de tamanho fixo
+
+Um array de uma dimensão é conhecido como vetor,enqunato de mais de uma dimensão e conhecido como matriz
+
+Array é usado para armazenar mais de um valor literal do mesmo tipo em uma variável de mesmo nome
+
+
+
+
+sintaxe array:
+
+tipo dos elementos abrindo e fechando colchetes seguido do nome da variável que identifica o array
+
+TipoDados[] NomeDoArray;
+
+
+
+
+ex:
+
+int[] numeros; --> sem alocar valor
+
+int[] numeros = new int[10] {1,2,3,4,5,6,7,8,9,10}; --> atribuindo valor
+
+string[] nomes;
+
+string[] nomes = new string[5] {"Maria","Eva","Pedro","Ana","Ada"}
+
+
+//declaração do array
+int[] numeros;
+
+//alocação memoria
+numeros = new int[10] {1,2,3,4,5,6,7,8,9,10};
+
+
+
+Simplificação:
+
+string[] nomes = new string[5] { "Maria", "Marta", "Roberta", "Dhen", "Ruby" };
+
+string[] nomes1 = new string[] { "Maria", "Marta", "Roberta", "Dhen", "Ruby" };
+
+string[] nomes2 =  { "Maria", "Marta", "Roberta", "Dhen", "Ruby" };
+
+
+
+
+
+-- Acessando os elementos do array
+
+
+Os elementos do array podem ser acessados usando um índice
+
+Um índice é um número associado a cada elemento da matriz, começando com o valor 0 e terminando com o tamanho do array menos - 1
+
+
+int[] numeros = new int[] {1,2,3,4,5,6,7,8,9,10};
+
+		Array com elementos do tipo int
+	     [1,2,3,4,5,6,7,8,9,10]
+indice	 0,1,2,3,4,5,6,7,8,9
+	
+
+numeros[7] --> 8
+ 
+           [Maria,Eva,Pedro,Ana,Ada]
+ indice       0    1   2     3   4
+ 
+nomes[1] --> Eva
+
+
+
+int[] numeros = new int[10] --> sera criado 10 elemementos com valor zero por padrão,se for string sera null por padrão
+
+se eu tentar atribuir um valor fora dos limites do array ocorrera um erro --> Index was outside the bounds of the array
+

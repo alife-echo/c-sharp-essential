@@ -1,0 +1,14 @@
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExerciseMaxAge\bin\Debug\net7.0\ExerciseMaxAge.exe
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExerciseMaxAge\bin\Debug\net7.0\ExerciseMaxAge.deps.json
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExerciseMaxAge\bin\Debug\net7.0\ExerciseMaxAge.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExerciseMaxAge\bin\Debug\net7.0\ExerciseMaxAge.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExerciseMaxAge\bin\Debug\net7.0\ExerciseMaxAge.pdb
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExerciseMaxAge\obj\Debug\net7.0\ExerciseMaxAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExerciseMaxAge\obj\Debug\net7.0\ExerciseMaxAge.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExerciseMaxAge\obj\Debug\net7.0\ExerciseMaxAge.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExerciseMaxAge\obj\Debug\net7.0\ExerciseMaxAge.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExerciseMaxAge\obj\Debug\net7.0\ExerciseMaxAge.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExerciseMaxAge\obj\Debug\net7.0\refint\ExerciseMaxAge.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExerciseMaxAge\obj\Debug\net7.0\ExerciseMaxAge.pdb
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExerciseMaxAge\obj\Debug\net7.0\ExerciseMaxAge.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ExerciseMaxAge\obj\Debug\net7.0\ref\ExerciseMaxAge.dll

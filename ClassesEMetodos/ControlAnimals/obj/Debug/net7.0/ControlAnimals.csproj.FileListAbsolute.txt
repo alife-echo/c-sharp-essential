@@ -1,0 +1,14 @@
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ControlAnimals\bin\Debug\net7.0\ControlAnimals.exe
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ControlAnimals\bin\Debug\net7.0\ControlAnimals.deps.json
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ControlAnimals\bin\Debug\net7.0\ControlAnimals.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ControlAnimals\bin\Debug\net7.0\ControlAnimals.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ControlAnimals\bin\Debug\net7.0\ControlAnimals.pdb
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ControlAnimals\obj\Debug\net7.0\ControlAnimals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ControlAnimals\obj\Debug\net7.0\ControlAnimals.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ControlAnimals\obj\Debug\net7.0\ControlAnimals.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ControlAnimals\obj\Debug\net7.0\ControlAnimals.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ControlAnimals\obj\Debug\net7.0\ControlAnimals.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ControlAnimals\obj\Debug\net7.0\refint\ControlAnimals.dll
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ControlAnimals\obj\Debug\net7.0\ControlAnimals.pdb
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ControlAnimals\obj\Debug\net7.0\ControlAnimals.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\ClassesEMetodos\ControlAnimals\obj\Debug\net7.0\ref\ControlAnimals.dll
