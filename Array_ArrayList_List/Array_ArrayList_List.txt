@@ -110,3 +110,70 @@ int[] numeros = new int[10] --> sera criado 10 elemementos com valor zero por pa
 
 se eu tentar atribuir um valor fora dos limites do array ocorrera um erro --> Index was outside the bounds of the array
 
+
+
+
+
+
+
+
+# -- Arrays II
+
+
+
+-- Acessando os elementos de um Array usando uma laçõ for
+
+Podemos usar um laço for para percorrer elementos de um array
+
+Usamos a proprieadade Length da classe Array para definir o tamanho do Array no laço for
+
+A classe Array esta no namespace System e fornece diversas propriedades e métodos para trabalhar com um array
+(Length,Rank,Copy,Clear,Sort,etc)
+
+
+ex:
+
+string[] nomes = { "Ana", "Maria", "Marta", "Paulo", "Carlos" };
+int[] numeros = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+
+for (int i = 0; i < numeros.Length; i++)
+{
+    Console.WriteLine($"Elemento de índice {i} : {numeros[i]}");
+}
+Console.WriteLine("-------------------------------------------");
+for (int i = 0;i < nomes.Length; i++)
+{
+    Console.WriteLine($"Elemento de índice {i} : {nomes[i]}");
+}
+
+
+
+
+# -- Arrays III
+
+-- Acessando os elementos de um array usando um laço foreach
+
+Podemos usar o laço foreach para ler/recuperar elementos de um array sem precisar usar o índice nem definir o tamanho do array
+
+A instrução foreach permite executar uma instrução ou um bloco de instruções para cada elemento presente em uma coleção (Array,List,ArrayList,Stack,Queue,etc)
+
+Sintaxe:
+
+foreach(tipo elemento in coleção)
+{
+  // instrução ou bloco de instruções
+}
+
+
+em parenteses criamos um elemento do tipo utilizado na coleção e, com operador in, informamos a coleção a ser percorrida
+
+
+vantagens foreach:
+
+- não precisamos definir a inicialização
+- não precisamos definir uma condição de parada pois isso é definido de forma implícita,pelo tamanho da coleção
+- a instrução foreach usa a palavra-chave 'in' para iterar sobre cada item da coleção
+- o número de iterações do laço foreach é igual ao total de itens da coleção
+
+
+
