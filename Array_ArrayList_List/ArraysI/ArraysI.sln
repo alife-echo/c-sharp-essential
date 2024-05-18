@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraysII", "..\ArraysII\Arr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraysIII", "..\ArraysIII\ArraysIII.csproj", "{51C738C0-7C28-4C35-8501-BB6F31F61555}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasseArray", "..\ClasseArray\ClasseArray.csproj", "{1754F9FD-888B-4C75-A6C0-8D3D88A532FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClasseArray", "..\ClasseArray\ClasseArray.csproj", "{1754F9FD-888B-4C75-A6C0-8D3D88A532FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioArray", "..\ExercicioArray\ExercicioArray.csproj", "{FE762845-CD3F-4CCD-BDE2-C572EB64570D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{1754F9FD-888B-4C75-A6C0-8D3D88A532FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1754F9FD-888B-4C75-A6C0-8D3D88A532FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1754F9FD-888B-4C75-A6C0-8D3D88A532FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE762845-CD3F-4CCD-BDE2-C572EB64570D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE762845-CD3F-4CCD-BDE2-C572EB64570D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE762845-CD3F-4CCD-BDE2-C572EB64570D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE762845-CD3F-4CCD-BDE2-C572EB64570D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

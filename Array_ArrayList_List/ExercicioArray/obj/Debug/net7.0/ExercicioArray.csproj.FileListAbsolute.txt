@@ -1,0 +1,14 @@
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ExercicioArray\bin\Debug\net7.0\ExercicioArray.exe
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ExercicioArray\bin\Debug\net7.0\ExercicioArray.deps.json
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ExercicioArray\bin\Debug\net7.0\ExercicioArray.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ExercicioArray\bin\Debug\net7.0\ExercicioArray.dll
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ExercicioArray\bin\Debug\net7.0\ExercicioArray.pdb
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ExercicioArray\obj\Debug\net7.0\ExercicioArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ExercicioArray\obj\Debug\net7.0\ExercicioArray.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ExercicioArray\obj\Debug\net7.0\ExercicioArray.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ExercicioArray\obj\Debug\net7.0\ExercicioArray.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ExercicioArray\obj\Debug\net7.0\ExercicioArray.dll
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ExercicioArray\obj\Debug\net7.0\refint\ExercicioArray.dll
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ExercicioArray\obj\Debug\net7.0\ExercicioArray.pdb
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ExercicioArray\obj\Debug\net7.0\ExercicioArray.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ExercicioArray\obj\Debug\net7.0\ref\ExercicioArray.dll
