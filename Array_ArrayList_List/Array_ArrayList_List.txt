@@ -177,3 +177,79 @@ vantagens foreach:
 
 
 
+
+
+# -- Classe Array
+
+
+Fornece metodos para trabalhar com arrays
+
+Classe base para os arrays
+
+Metodos Principais:
+
+Reverse --> Inverte a sequencia de um array unidimensional
+
+Ex: Array.Reverse(nome_array);
+
+2 - Sort - Ordena os arrays
+
+Ex: Array.Sort(nome_array);
+
+3 - BinarySearch - Faz a busca em um array ordenado de um valor usando o algoritimo de busca binário. Se for encontrado será retornado o valor do índice do elemento,
+caso contrario será retornado um número negativo
+
+Array.BinarySearch(nome_array,objeto)
+
+
+
+
+
+Exemplos:
+
+
+string[] nomes = { "Ana", "Maria", "Dinair", "Paulo", "Carlos", "Beatriz" };
+
+Console.WriteLine("Exibindo o array original\n");
+
+ExibeArray(nomes);
+
+Console.WriteLine("Invertendo ordem do array\n");
+
+Array.Reverse(nomes);
+ExibeArray(nomes);
+
+Console.WriteLine("Ordenando Array \n");
+Array.Sort(nomes); 
+ExibeArray(nomes);
+
+Console.WriteLine("Localizando item array");
+string? nome = Console.ReadLine();
+
+var indice = Array.BinarySearch(nomes, nome);
+
+if(indice >= 0)
+{
+    Console.WriteLine($"{nome} foi encontrado com índice = {indice}");
+}
+else
+{
+    Console.WriteLine($"{nome} não foi encontrado");
+}
+
+
+static void ExibeArray(string[] nomes)
+{
+    foreach (string nome in nomes)
+    {
+        Console.WriteLine(nome);
+    }
+}
+
+
+
+
+
+
+
+

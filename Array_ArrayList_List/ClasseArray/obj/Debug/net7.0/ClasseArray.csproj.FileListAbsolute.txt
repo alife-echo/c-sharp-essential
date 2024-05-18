@@ -1,0 +1,14 @@
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ClasseArray\bin\Debug\net7.0\ClasseArray.exe
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ClasseArray\bin\Debug\net7.0\ClasseArray.deps.json
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ClasseArray\bin\Debug\net7.0\ClasseArray.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ClasseArray\bin\Debug\net7.0\ClasseArray.dll
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ClasseArray\bin\Debug\net7.0\ClasseArray.pdb
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ClasseArray\obj\Debug\net7.0\ClasseArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ClasseArray\obj\Debug\net7.0\ClasseArray.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ClasseArray\obj\Debug\net7.0\ClasseArray.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ClasseArray\obj\Debug\net7.0\ClasseArray.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ClasseArray\obj\Debug\net7.0\ClasseArray.dll
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ClasseArray\obj\Debug\net7.0\refint\ClasseArray.dll
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ClasseArray\obj\Debug\net7.0\ClasseArray.pdb
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ClasseArray\obj\Debug\net7.0\ClasseArray.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ClasseArray\obj\Debug\net7.0\ref\ClasseArray.dll

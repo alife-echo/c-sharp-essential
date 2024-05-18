@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysI", "ArraysI.csproj", "{A0AFEF22-EBEA-41A4-8FCB-4A4A3D86E8B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraysI", "ArraysI.csproj", "{A0AFEF22-EBEA-41A4-8FCB-4A4A3D86E8B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysII", "..\ArraysII\ArraysII.csproj", "{C1281798-D815-4AFD-B866-632BE7437863}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraysII", "..\ArraysII\ArraysII.csproj", "{C1281798-D815-4AFD-B866-632BE7437863}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysIII", "..\ArraysIII\ArraysIII.csproj", "{51C738C0-7C28-4C35-8501-BB6F31F61555}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraysIII", "..\ArraysIII\ArraysIII.csproj", "{51C738C0-7C28-4C35-8501-BB6F31F61555}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasseArray", "..\ClasseArray\ClasseArray.csproj", "{1754F9FD-888B-4C75-A6C0-8D3D88A532FA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{51C738C0-7C28-4C35-8501-BB6F31F61555}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51C738C0-7C28-4C35-8501-BB6F31F61555}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51C738C0-7C28-4C35-8501-BB6F31F61555}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1754F9FD-888B-4C75-A6C0-8D3D88A532FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1754F9FD-888B-4C75-A6C0-8D3D88A532FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1754F9FD-888B-4C75-A6C0-8D3D88A532FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1754F9FD-888B-4C75-A6C0-8D3D88A532FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
