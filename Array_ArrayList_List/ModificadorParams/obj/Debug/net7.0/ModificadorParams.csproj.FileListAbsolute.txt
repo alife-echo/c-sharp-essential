@@ -1,0 +1,14 @@
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ModificadorParams\bin\Debug\net7.0\ModificadorParams.exe
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ModificadorParams\bin\Debug\net7.0\ModificadorParams.deps.json
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ModificadorParams\bin\Debug\net7.0\ModificadorParams.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ModificadorParams\bin\Debug\net7.0\ModificadorParams.dll
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ModificadorParams\bin\Debug\net7.0\ModificadorParams.pdb
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ModificadorParams\obj\Debug\net7.0\ModificadorParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ModificadorParams\obj\Debug\net7.0\ModificadorParams.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ModificadorParams\obj\Debug\net7.0\ModificadorParams.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ModificadorParams\obj\Debug\net7.0\ModificadorParams.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ModificadorParams\obj\Debug\net7.0\ModificadorParams.dll
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ModificadorParams\obj\Debug\net7.0\refint\ModificadorParams.dll
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ModificadorParams\obj\Debug\net7.0\ModificadorParams.pdb
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ModificadorParams\obj\Debug\net7.0\ModificadorParams.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ModificadorParams\obj\Debug\net7.0\ref\ModificadorParams.dll

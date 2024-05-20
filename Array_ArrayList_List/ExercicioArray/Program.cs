@@ -17,7 +17,7 @@ for(int i = 0; i < 5; i++)
 ExibirInformacoes(nomesAlunos);
 ExibirInformacoes(notasAlunos);
 Media(notasAlunos);
-
+\
 static void Media(double[] medias)
 {
     Console.WriteLine($"Media turma:{medias.Average()}");
