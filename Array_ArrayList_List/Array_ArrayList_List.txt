@@ -474,3 +474,61 @@ Console.WriteLine(b[1, 1]);
 
 
 
+# -- Arrays MultiDimensionaisII
+
+
+Podemos usar um laço for para ler e recuperar os valores dos elementos de um array bidimesional definindo um laço for
+para cada uma das dimensões do array
+
+Para obter as dimensões do array usamos o método GetLength(n), onde a primeira dimensão inicia com zero (n=0)
+
+
+ex:
+
+int[,] array1 = new int[2, 3] { { 1, 4, 2 }, { 3, 6, 8 } };
+
+
+for(int i = 0; i < array1.GetLength(0); i++)
+{
+    for(int j = 0; j < array1.GetLength(1); j++)
+    {
+        Console.WriteLine(array1[i,j]);
+    }
+}
+
+
+
+GetLength(0) --> percorra primeira dimensão --> i
+GetLenght(1) --> percorra segunda dimensão --> j
+
+
+'Index was outside the bounds of the array' --> acessar um indice que não existe
+
+
+
+
+
+exemplo:
+
+
+int[,] array1 = new int[2, 3] { { 1, 4, 2 }, { 3, 6, 8 } };
+
+int[,] array2 = new int[2, 3] { {2,9,3}, {5,1,4} };
+
+
+for(int i = 0; i < array1.GetLength(0); i++)
+{
+    for(int j = 0; j < array1.GetLength(1); j++)
+    {
+        Console.Write(array1[i,j]);
+    }
+    Console.WriteLine();
+}
+
+Console.WriteLine("Foreach");
+
+foreach (int n in array2)
+{
+    Console.Write(n);
+}
+
