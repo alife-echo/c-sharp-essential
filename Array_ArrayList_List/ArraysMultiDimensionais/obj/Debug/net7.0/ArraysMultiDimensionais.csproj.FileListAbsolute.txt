@@ -1,0 +1,14 @@
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ArraysMultiDimensionais\bin\Debug\net7.0\ArraysMultiDimensionais.exe
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ArraysMultiDimensionais\bin\Debug\net7.0\ArraysMultiDimensionais.deps.json
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ArraysMultiDimensionais\bin\Debug\net7.0\ArraysMultiDimensionais.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ArraysMultiDimensionais\bin\Debug\net7.0\ArraysMultiDimensionais.dll
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ArraysMultiDimensionais\bin\Debug\net7.0\ArraysMultiDimensionais.pdb
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ArraysMultiDimensionais\obj\Debug\net7.0\ArraysMultiDimensionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ArraysMultiDimensionais\obj\Debug\net7.0\ArraysMultiDimensionais.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ArraysMultiDimensionais\obj\Debug\net7.0\ArraysMultiDimensionais.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ArraysMultiDimensionais\obj\Debug\net7.0\ArraysMultiDimensionais.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ArraysMultiDimensionais\obj\Debug\net7.0\ArraysMultiDimensionais.dll
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ArraysMultiDimensionais\obj\Debug\net7.0\refint\ArraysMultiDimensionais.dll
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ArraysMultiDimensionais\obj\Debug\net7.0\ArraysMultiDimensionais.pdb
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ArraysMultiDimensionais\obj\Debug\net7.0\ArraysMultiDimensionais.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ArraysMultiDimensionais\obj\Debug\net7.0\ref\ArraysMultiDimensionais.dll

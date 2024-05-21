@@ -253,6 +253,7 @@ static void ExibeArray(string[] nomes)
 
 # - Modificador Params
 
+
 Maneira de criar um numero ilimitado de argumentos
 
 Aceita um numeros variado de argumentos
@@ -269,6 +270,7 @@ se o array for não for unidimensional sera retornado um erro CS0225
 
 
 
+
 Ao colocar params do metodo,podemos passar:
 
 Uma lista separada por vírgulas de argumentos do tipo dos elementos do array
@@ -276,6 +278,7 @@ Uma lista separada por vírgulas de argumentos do tipo dos elementos do array
 um array de argumentos do tipo especificado
 
 se não tiver nenhum argumento, o comprimento da lista de parâmetros será zero
+
 
 
 
@@ -338,4 +341,136 @@ public class Calcular
         return total;
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# -- Arrays MultiDimensionais
+
+
+
+C# suporta arrays de ate 32 dimensões 
+
+Um array com mais de uma dimensão é basicamente um array de array
+
+Um array multidimensional pode ser declarado adicionando virgulas entre colchetes na declaração do array
+
+
+Tipo [,] nome --> bidimensional --> Ex: int[,] array2d;
+
+Tipo [,,] nome --> tridimensional --> Ex: int[,,] array3d;
+
+Tipo [,,] nome --> quadridimensional --> Ex: int[,,,] array3d;
+
+
+
+Array Bidimensional --> tabela
+
+Ex int[3,3] a; -->  3 linhas e 3 colunas
+
+
+
+-- Identificação de elemento no array
+
+
+               coluna 0            coluna 1      coluna 2
+
+linha 0        a[0,0]               a[0,1]       a[0,2]
+
+
+linha 1        a[1,0]               a[1,1]       a[1,2]
+
+
+linha 2        a[2,0]               a[2,1]       a[2,2]
+
+
+
+Cada elemento no array é identificado por um nome de elemento na forma a[i,j]
+
+a -> nome do array
+
+i -> linha
+
+j -> coluna
+
+
+
+
+
+-- Array Bidimensional - Declaração
+
+int[,] array1 = new int [3,3];
+
+Bidimensional
+
+3 linhas e 3 colunas
+
+array1 pode armazenar apenas 9 elementos. (3 * 3)
+
+
+
+
+-- Array Bidimensional - Inicialização
+
+
+int [,] a;       a=> null
+
+a = new int[2,2]; --> atribui valores padrão que é zero
+
+a = new int[2,2] {{1,2},{2,3}};
+
+a = new int[2,2] {
+			{0,1},
+			{2,3}
+			};
+
+int[,] a = {{0,1} {2,3}}; --> maneira simplificada
+
+
+
+exemplo:
+
+// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Arrays MultiDimensionais");
+
+
+int[,] a;
+
+a = new int[2, 2];
+
+
+a[0, 0] = 10;
+a[0, 1] = 11;
+a[1, 0] = 12;
+a[1, 1] = 13;
+
+
+Console.WriteLine(a[0,0]);
+Console.WriteLine(a[0,1]);
+Console.WriteLine(a[1,0]);
+Console.WriteLine(a[1,1]);
+
+
+int[,] b = new int[2, 2] { {20,30}, {40,50} };
+
+Console.WriteLine(b[0, 0]);
+Console.WriteLine(b[0, 1]);
+Console.WriteLine(b[1, 0]);
+Console.WriteLine(b[1, 1]);
+
+
+
+
+
+
 
