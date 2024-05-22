@@ -1,0 +1,14 @@
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ExercicioArraysBidimensionais\bin\Debug\net7.0\ExercicioArraysBidimensionais.exe
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ExercicioArraysBidimensionais\bin\Debug\net7.0\ExercicioArraysBidimensionais.deps.json
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ExercicioArraysBidimensionais\bin\Debug\net7.0\ExercicioArraysBidimensionais.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ExercicioArraysBidimensionais\bin\Debug\net7.0\ExercicioArraysBidimensionais.dll
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ExercicioArraysBidimensionais\bin\Debug\net7.0\ExercicioArraysBidimensionais.pdb
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ExercicioArraysBidimensionais\obj\Debug\net7.0\ExercicioArraysBidimensionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ExercicioArraysBidimensionais\obj\Debug\net7.0\ExercicioArraysBidimensionais.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ExercicioArraysBidimensionais\obj\Debug\net7.0\ExercicioArraysBidimensionais.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ExercicioArraysBidimensionais\obj\Debug\net7.0\ExercicioArraysBidimensionais.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ExercicioArraysBidimensionais\obj\Debug\net7.0\ExercicioArraysBidimensionais.dll
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ExercicioArraysBidimensionais\obj\Debug\net7.0\refint\ExercicioArraysBidimensionais.dll
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ExercicioArraysBidimensionais\obj\Debug\net7.0\ExercicioArraysBidimensionais.pdb
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ExercicioArraysBidimensionais\obj\Debug\net7.0\ExercicioArraysBidimensionais.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ExercicioArraysBidimensionais\obj\Debug\net7.0\ref\ExercicioArraysBidimensionais.dll
