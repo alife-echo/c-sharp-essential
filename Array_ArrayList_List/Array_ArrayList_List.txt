@@ -532,3 +532,102 @@ foreach (int n in array2)
     Console.Write(n);
 }
 
+
+
+
+
+
+# -- Array List I
+
+
+Um arraylist é uma coleção não generica cujo tamanho pode ser alterado dinamicamente e que armazena  elementos de vários tipos de dados
+
+Esta coleção é uma alternativa ao array e também pode ser indexada individualmente e permite alocação dinâmica de memória,inclusão,pesquisa e classificação de elementos na coleção
+
+
+O tamanho do ArrayList aumenta de forma dinamica, os elementos posssuem um índice que começa com valor 0 incremetando de 1 em 1
+
+
+
+# -- ArrayList - construtores
+
+
+ArrayList esta no namespace System.Collections possui 3 construtores usados para criar um ArrayList
+
+
+
+ArrayList() --> cria uma instancia arraylist vazia e sem capacidade inicial 
+
+(Capacity e Count) --> Propriedades
+
+Capacity --> Defini a Capacidade do ArrayList
+
+Count --> Obter o número de elementos do arrayList
+
+ArrayList(Int32) --> Cria uma instancia de arrayList vazio, porem com uma capacidade inicial Definida
+
+ArrayList(ICollection) --> Cria uma ArrayList, porem com as configurações de outra collection criada
+
+
+
+
+# -- ArrayList - Declaração, instanciação e inclusão de elementos
+
+Criar --> Palavra chave new e a seguir usar o metodo Add ou Object Initializer para adicionar valores a arrayList
+
+
+
+Maneiras de Criar ArrayList:
+
+ArrayList lista = new ArrayList();
+
+var lista = new ArrayList();	
+
+ArrayList lista = new();
+
+Valores padrão ArrayList não inicializada:
+Capacity = 0;
+Count = 0;
+
+
+ArrayList lista = new ArrayList(5); -> Capacity 5
+
+var lista = new ArrayList(5);	-> Capacity 5
+
+ArrayList lista = new(5);       -> Capacity 5
+
+
+
+# -- Adicionando valores ArrayList
+
+ArrayList lista = new(); --> não atribui capacidade, arraylist não precisa
+
+lista.Add("Paulo");
+lista.Add(4.5);
+lista.Add(5);
+lista.Add(true);
+lista.Add(" ");
+lista.Add(null);
+
+Count = 6
+Capacity = 8
+
+ArrayList trabalha a capacidade de 4 em 4, se possuo 6 elementos , então passei da capacidade 4 logo preciso aumentar mais 4 na capacidade,assim por diante
+
+ArrayList aceita todos os tipos de dados, diferente do array.
+
+
+
+
+# -- Adicionando valores ArrayList por object initializer
+
+var lista = new ArrayList() 
+ 			{
+ 			"Paulo",4.5,5,true," ",null"
+ 			};
+
+
+
+
+
+

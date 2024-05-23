@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraysMultiDimensionais", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraysMultiDimensionaisII", "..\ArraysMultiDimensionaisII\ArraysMultiDimensionaisII.csproj", "{2CA09F28-9791-44F6-8178-ECE310027CFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioArraysBidimensionais", "..\ExercicioArraysBidimensionais\ExercicioArraysBidimensionais.csproj", "{0D9B6BB1-6F5C-4946-A041-682FAF69CF71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioArraysBidimensionais", "..\ExercicioArraysBidimensionais\ExercicioArraysBidimensionais.csproj", "{0D9B6BB1-6F5C-4946-A041-682FAF69CF71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayListI", "..\ArrayListI\ArrayListI.csproj", "{838769BD-E841-493F-97AF-620526C5C07D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{0D9B6BB1-6F5C-4946-A041-682FAF69CF71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D9B6BB1-6F5C-4946-A041-682FAF69CF71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D9B6BB1-6F5C-4946-A041-682FAF69CF71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{838769BD-E841-493F-97AF-620526C5C07D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{838769BD-E841-493F-97AF-620526C5C07D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{838769BD-E841-493F-97AF-620526C5C07D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{838769BD-E841-493F-97AF-620526C5C07D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
