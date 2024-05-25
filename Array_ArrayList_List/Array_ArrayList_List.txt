@@ -687,14 +687,67 @@ Ex:
 
 var lista = new ArrayList() {"Ana",5,true," ",null,1.1,"Zé",3,9,0};
 
-lista.Remove(null);
-lista.RemoveAt(4);
-lista.RemoveRange(0,2);
+lista.Remove(null); --> {"Ana",5,true," ",1.1,"Zé",3,9,0};
+lista.RemoveAt(4); --> {"Ana",5,true," ","Zé",3,9,0};
+lista.RemoveRange(0,2); --> {true," ","Zé",3,9,0};
+
 
 
 Console.ReadKey();
 
  
  
+ 
+# -- ArrayList - Verificar se um elemento esta na coleção
+
+
+Podemos usar o método Contains para determinar se um elementos especificado existe na ArrayList ou não.
+
+O método retorna True se existir caso contrário retorna False
+
+
+
+ex:
+
+var lista = new ArrayList() { "Maria", 5, true, 4.5, null, DateTime.Now };
+
+var res1 = lista.Contains(5);
+
+var res2 = lista.Contains(null);
+
+bool res3 = lista.Contains(45);
+
+bool res4 = lista.Contains("Maria");
+
+
+
+# -- ArrayList - Ordenação e Remoção de Todos os Elementos
+
+Para odernar uma ArrayList com elementos do mesmo tipo na ordem ascendente usamos o método Sort(). (usa o algoritimo quicksort)
+
+Sort() --> Ordenar elementos do mesmo tipo em ordem ascendente
+
+Clear() --> Limpar elementos array, sem alterar o capacity
+
+var lista2 = new ArrayList() {"Maria","Ana","Zilda","Carlos","Dina"};
+
+lista2.Sort();
+
+lista2.Clear();
+
+Console.ReadKey();
+
+
+
+# -- Recomendação
+
+ArrayList -- objetivo tratar coleções heterogeneas, porem seu desempenho não é bom
+
+List<T> -- > Nova maneira de tratar com lista heterogeneas
+
+
+
+
+
 
 

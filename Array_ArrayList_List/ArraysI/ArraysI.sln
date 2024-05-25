@@ -25,7 +25,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayListI", "..\ArrayListI
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayListII", "..\ArrayListII\ArrayListII.csproj", "{501290F7-3195-4513-B367-0B8BC26BD730}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayListIII", "..\ArrayListIII\ArrayListIII.csproj", "{2F02C5DE-2A92-4F94-A4F4-704C9F3F27DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayListIII", "..\ArrayListIII\ArrayListIII.csproj", "{2F02C5DE-2A92-4F94-A4F4-704C9F3F27DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayListIIIIr", "..\ArrayListIIIIr\ArrayListIIIIr.csproj", "{BF3B410F-B041-4138-A9F0-93FF32CA2C07}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{2F02C5DE-2A92-4F94-A4F4-704C9F3F27DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F02C5DE-2A92-4F94-A4F4-704C9F3F27DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F02C5DE-2A92-4F94-A4F4-704C9F3F27DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF3B410F-B041-4138-A9F0-93FF32CA2C07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF3B410F-B041-4138-A9F0-93FF32CA2C07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF3B410F-B041-4138-A9F0-93FF32CA2C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF3B410F-B041-4138-A9F0-93FF32CA2C07}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
