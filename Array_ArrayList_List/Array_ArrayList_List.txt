@@ -598,6 +598,7 @@ ArrayList lista = new(5);       -> Capacity 5
 
 
 
+
 # -- Adicionando valores ArrayList
 
 ArrayList lista = new(); --> não atribui capacidade, arraylist não precisa
@@ -629,5 +630,62 @@ var lista = new ArrayList()
 
 
 
+
+
+
+
+# -- ArrayList II
+
+ - Adicionar Elementos
+ 
+Add --> O método Add permite incluir um único elemento ao final de uma arralist
+ 
+Método Insert(int index,Object value) --> permite incluir um elemento em uma posição qualquer usando um índice especifico
+
+var lista = new ArrayList() {"Maria",5,true,null}; 
+ 
+ex:
+
+lista.Add(3.5);
+
+lista.Insert(3,"Paulo");
+
+
+
+-- Adicionando coleção de elementos
+
+
+ Podemos adicionar uma coleção de elementos a um ArrayList usando os métodos:
+ 
+ AddRange(ICollection) - Adiciona a coleção de elementos ao final da ArrayList
+ 
+ InsertRange(int index,ICollection) - Adiciona a coleção de elementos na ArrayList na posição do índice especificado
+ 
+ var lista2 = new ArrayList() { "Bob",6,false,null};
+
+int[] array1 = { 1, 2, 3 };
+
+lista2.AddRange(array1);
+
+lista2.InsertRange(2, array1);
+
+
+
+ 
+ # -- ArrayList - Remover Elementos
+ 
+Podemos remover elementos de um ArrayList usando os métodos:
+
+Remove(Object value) --> Remove a primeira ocorrência de um objecto/valor especifico
+
+RemoveAt(int index) --> Remove o elemento no índice especificado
+
+RemoveRange(int index,int count) - Remove um número definido de elementos a partir de um índice especificado
+
+
+
+
+ 
+ 
 
 
