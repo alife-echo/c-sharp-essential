@@ -22,7 +22,9 @@ Exibir(list);
 
 
 list.Remove("Bob");
+Exibir(list);
 list.RemoveAt(1);
+Exibir(list);
 list.RemoveRange(2,4);
 
 Exibir(list);

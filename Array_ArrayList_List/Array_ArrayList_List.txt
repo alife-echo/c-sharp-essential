@@ -721,6 +721,7 @@ bool res4 = lista.Contains("Maria");
 
 
 
+
 # -- ArrayList - Ordenação e Remoção de Todos os Elementos
 
 Para odernar uma ArrayList com elementos do mesmo tipo na ordem ascendente usamos o método Sort(). (usa o algoritimo quicksort)
@@ -739,11 +740,16 @@ Console.ReadKey();
 
 
 
+
+
 # -- Recomendação
 
 ArrayList -- objetivo tratar coleções heterogeneas, porem seu desempenho não é bom
 
 List<T> -- > Nova maneira de tratar com lista heterogeneas
+
+
+
 
 
 
@@ -820,4 +826,120 @@ List<string> list5 = new List<string>()
 
 
 
+
 # -- Coleção List<T> II
+
+List<T> - Principais Métodos
+
+Inclusão de itens: Add(T) e Insert(int index,T value)
+
+Inclusão de coleções : AddRange(ICollection) e InsertRange(int index,ICollection)
+
+Iteração na List : laço for (Count) e laço foreach
+
+Verificar se um elemento esta na lista : Contains(T)
+
+Remoção de itens : Remove(T value), RemoveAt(int index)  e RemoveRange(int index,int count)
+
+Ordenação da lista e remoção e todos os elementos da lista : Sort() e Clear()
+
+
+list --> ["Jax","Fiora","Zac","Cassia","Álife","Cassia","Bob","Richard","Bob","RR", "Gustavo", "Morandi"]
+
+list --> ["Jax","Zac","Cassia","Álife","Cassia","Richard","RR","Bob", "Gustavo", "Morandi"]
+
+
+
+
+
+
+
+
+
+
+
+# -- List E ArrayList
+
+Value Type : Armazena diretamente os dados atribuidos na memória Stack
+Exemplos:int,double,float,long,DateTime,struct,etc
+
+Reference Type : Armazena uma referência para os dados atribuídos na memória Heap
+Exemplos: string,Array,ArrayList,List<T>, class , classes definidas pelo usuário, etc.
+
+
+Boxing: É a conversão de um Value Type para um reference Type
+
+int num = 23;
+Object obj = num;
+
+Unboxing: É quando um reference Type(object) volta a ser um Value Type
+
+int num = 23;
+Object obj = num;
+int i = (int)obj;
+
+
+
+
+ -- Comportamento ArrayList
+ 
+ Uma coleção arrays list pode armazenar diversos tipos de dados: Value Type e Reference Type
+ 
+ Qualquer tipo de referencia ou valor adicionado a ArrayList é implicitamente convertido em System.Object
+ 
+ Se os itens são tipo valor ele devem sofrer boxing quando adicionados a coleção, e unboxing quando recuperados da coleção
+ 
+ Boxing e Unboxing são operaçoes que degradam o desempenho ao percorrer grandes coleçoes 
+ 
+ 
+ 
+ 
+ -- Comportamento da List<T>
+ 
+ A coleção List<T> é uma coleção de objetos fortemente tipados onde T representa o tipo dos dados dos elementos que serão armazenados
+ 
+ o Paramentro de tipo T pode ser um tipo por valor ou tipo de referencia
+ 
+ Na coleção List<T> não precisa de boxing e unboxing os itens não são convertidos para System.Object e tambem permiter o compilador fazer verificação de tipo
+ 
+ ex:
+ 
+ArrayList lista = new ArrayList();  
+
+lista.Add(3);
+lista.Add(105);
+
+var elemento = lista[0];
+int el = lista is not null ? (int)lista[1] : 0;
+
+
+List<int> lista2 = new List<int>();
+lista2.Add(5);
+lista2.Add(4);
+
+var elemento2 = lista2[0];
+var el2 = lista2[1];    
+
+
+List<T> é mais segura e rapida do que a arraylist, especialmente quando os itens da lista são tipo valor
+
+
+
+List<T>                                                                 ArrayList
+
+System.Collections.Generic								        System.Collection
+Coleção de objetos fortemente tipados							   Coleção que pode armazenar itens de diversos tipos de dados. Não é fortemente tipado
+Não realiza operação de boxing e unboxing 						   Realiza unboxing e boxing
+Apresenta melhor desempenho								   Apresenta um desempenho menor
+Apresenta seguraça de tipo									   Não apresenta segurança de tipo
+Recomendado para tratar objetos homogêneos e heterogêneos			   Seu uso deve ser evitado
+
+
+
+
+
+
+
+
+
+
