@@ -1,0 +1,14 @@
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ListTII\bin\Debug\net7.0\ListTII.exe
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ListTII\bin\Debug\net7.0\ListTII.deps.json
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ListTII\bin\Debug\net7.0\ListTII.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ListTII\bin\Debug\net7.0\ListTII.dll
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ListTII\bin\Debug\net7.0\ListTII.pdb
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ListTII\obj\Debug\net7.0\ListTII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ListTII\obj\Debug\net7.0\ListTII.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ListTII\obj\Debug\net7.0\ListTII.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ListTII\obj\Debug\net7.0\ListTII.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ListTII\obj\Debug\net7.0\ListTII.dll
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ListTII\obj\Debug\net7.0\refint\ListTII.dll
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ListTII\obj\Debug\net7.0\ListTII.pdb
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ListTII\obj\Debug\net7.0\ListTII.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ListTII\obj\Debug\net7.0\ref\ListTII.dll

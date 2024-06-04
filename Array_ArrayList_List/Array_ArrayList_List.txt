@@ -750,4 +750,74 @@ List<T> -- > Nova maneira de tratar com lista heterogeneas
 
 
 
+# -- Coleção List<T> I
 
+
+List<T> --> Coleção de objetos fortemente tipados que podem ser acessados usando um índice que inicia em zero,
+e possui métodos para classificar , pesquisar, modificar e manipular listas.
+
+
+Esta coleção é a versão genérica da coleção ArrayList, sendo equivalente a ela, e esta presente no namespace
+System.Collections.Generic
+
+
+A classe List<T> pode ser usada para criar uma coleção de tipos diferentes, onde T representa o tipo do objeto que
+pode ser inteiro,string,double,etc., e também pode ser um tipo complexo como uma classe definida pelo usuário.
+
+ArrayList e List são indexados, posso acessalos pelo indice
+
+
+
+
+
+-- List<T> - Caracteristicas 
+
+Uma List<T> pode conter elementos do tipo especificado por T, fornece verificação de tipo em tempo de compilação
+e não executa boxing-unboxing porque é genérica.
+
+Os elementos podem ser adicionados a uma list<T> usando os métodos Add(),AddRange(),Insert e InsertRange() ou usando
+a sintaxe de inicializador de coleção.
+
+Uma List<T> é uma estrutura dinâmica que pode ser redimensionada
+
+Uma List<T> inicia vazia e seus elementos são alocados sob demanda
+
+Uma List<T> como Arrays e ArrayList são tipos de referencia: uma variavel refere-se ao objeto real, que deve ser instanciado
+na memória Heap.
+
+
+
+
+
+-- List<T> - Declaração, instanciação e inclusão de elementos
+
+Para criar uma List<T> temos que especificar o parâmetro de tipo T para definir o tipo dos elementos que desejamos armazenar,
+usar a palavra-chave new e a seguir podemos usar o método Add para incluir elementos ou podemos usar os inicializadores
+de coleção para criar uma List<T> em uma única etapa.
+
+Exemplos de declaração:
+
+count = 0
+capacity = 0
+
+List<string> list;
+list = new List<string>();
+
+List<int> list2 = new List<int>();
+
+List<double> list3 = new();
+
+var list4 = new List<float>();
+
+list4.Add(3);
+
+List<string> list5 = new List<string>() 
+{ 
+ "Álife","Bob","Lucas"
+};
+
+
+
+
+
+# -- Coleção List<T> II

@@ -27,7 +27,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayListII", "..\ArrayList
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayListIII", "..\ArrayListIII\ArrayListIII.csproj", "{2F02C5DE-2A92-4F94-A4F4-704C9F3F27DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayListIIIIr", "..\ArrayListIIIIr\ArrayListIIIIr.csproj", "{BF3B410F-B041-4138-A9F0-93FF32CA2C07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayListIIIIr", "..\ArrayListIIIIr\ArrayListIIIIr.csproj", "{BF3B410F-B041-4138-A9F0-93FF32CA2C07}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListI", "..\ListI\ListI.csproj", "{FDE2232E-AECD-4716-ACB3-C9341477F238}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListTII", "..\ListTII\ListTII.csproj", "{88AFA555-E669-4724-AE00-4311CA0EB88D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +91,14 @@ Global
 		{BF3B410F-B041-4138-A9F0-93FF32CA2C07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF3B410F-B041-4138-A9F0-93FF32CA2C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF3B410F-B041-4138-A9F0-93FF32CA2C07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDE2232E-AECD-4716-ACB3-C9341477F238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDE2232E-AECD-4716-ACB3-C9341477F238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDE2232E-AECD-4716-ACB3-C9341477F238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDE2232E-AECD-4716-ACB3-C9341477F238}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88AFA555-E669-4724-AE00-4311CA0EB88D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88AFA555-E669-4724-AE00-4311CA0EB88D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88AFA555-E669-4724-AE00-4311CA0EB88D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88AFA555-E669-4724-AE00-4311CA0EB88D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
