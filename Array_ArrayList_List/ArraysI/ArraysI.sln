@@ -31,7 +31,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayListIIIIr", "..\ArrayL
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListI", "..\ListI\ListI.csproj", "{FDE2232E-AECD-4716-ACB3-C9341477F238}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListTII", "..\ListTII\ListTII.csproj", "{88AFA555-E669-4724-AE00-4311CA0EB88D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListTII", "..\ListTII\ListTII.csproj", "{88AFA555-E669-4724-AE00-4311CA0EB88D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListAndArrayList", "..\ListAndArrayList\ListAndArrayList.csproj", "{05C97978-E2F5-42B6-BF5D-F1FE1CF10591}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List_Metodo_Find", "..\List_Metodo_Find\List_Metodo_Find.csproj", "{26068906-DB58-4987-BD41-3E8B01E6F3DF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +103,14 @@ Global
 		{88AFA555-E669-4724-AE00-4311CA0EB88D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88AFA555-E669-4724-AE00-4311CA0EB88D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88AFA555-E669-4724-AE00-4311CA0EB88D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05C97978-E2F5-42B6-BF5D-F1FE1CF10591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05C97978-E2F5-42B6-BF5D-F1FE1CF10591}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05C97978-E2F5-42B6-BF5D-F1FE1CF10591}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05C97978-E2F5-42B6-BF5D-F1FE1CF10591}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26068906-DB58-4987-BD41-3E8B01E6F3DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26068906-DB58-4987-BD41-3E8B01E6F3DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26068906-DB58-4987-BD41-3E8B01E6F3DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26068906-DB58-4987-BD41-3E8B01E6F3DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

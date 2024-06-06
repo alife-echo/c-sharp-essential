@@ -795,6 +795,8 @@ na memória Heap.
 
 
 
+
+
 -- List<T> - Declaração, instanciação e inclusão de elementos
 
 Para criar uma List<T> temos que especificar o parâmetro de tipo T para definir o tipo dos elementos que desejamos armazenar,
@@ -827,6 +829,11 @@ List<string> list5 = new List<string>()
 
 
 
+
+
+
+
+
 # -- Coleção List<T> II
 
 List<T> - Principais Métodos
@@ -847,6 +854,9 @@ Ordenação da lista e remoção e todos os elementos da lista : Sort() e Clear(
 list --> ["Jax","Fiora","Zac","Cassia","Álife","Cassia","Bob","Richard","Bob","RR", "Gustavo", "Morandi"]
 
 list --> ["Jax","Zac","Cassia","Álife","Cassia","Richard","RR","Bob", "Gustavo", "Morandi"]
+
+
+
 
 
 
@@ -896,6 +906,7 @@ int i = (int)obj;
  
  -- Comportamento da List<T>
  
+ 
  A coleção List<T> é uma coleção de objetos fortemente tipados onde T representa o tipo dos dados dos elementos que serão armazenados
  
  o Paramentro de tipo T pode ser um tipo por valor ou tipo de referencia
@@ -933,6 +944,79 @@ Não realiza operação de boxing e unboxing 						   Realiza unboxing e boxing
 Apresenta melhor desempenho								   Apresenta um desempenho menor
 Apresenta seguraça de tipo									   Não apresenta segurança de tipo
 Recomendado para tratar objetos homogêneos e heterogêneos			   Seu uso deve ser evitado
+
+
+
+
+
+
+
+
+
+
+
+
+# -- List - Métodos Find
+
+
+
+predicado --> função/método de argumento único que retorna um valor booleano
+
+Find(), FindLast(), FindIndex(), FindLastIndex() , FindAll();
+
+Find() -->  retorna o primeiro elemento que corresponde ao predicado fornecido
+ 
+FindLast() --> retorna o ultimo elemento que corresponde ao predicado fornecido
+
+FindIndex() --> retorna o indice do primeiro elemento que corresponde ao predicado fornecido. Ele retorna -1 se não houver correspodência encontrada
+
+FindLastIndex() --> retorna o indice do ultimo elemento que corresponde ao predicado fornecido. Ele retorna -1 se não houver correspondecia encontrada
+
+FindAll() --> Recupera todos os elementos que correspondem ás condições definidas pelo predicado especificado
+
+
+
+
+Ex:
+
+List<string> frutas = new() {"Uva","Banana","Maça","Abacate","Laranja","Morango"};
+
+var fruta1 = frutas.Find(Procura);
+Console.WriteLine(fruta1);
+
+Console.ReadKey();
+
+
+static bool Procura(string item)
+{
+    return item.Contains('n');
+}
+
+
+
+
+A função/metodo é passado para o Find para definir o criterio de busca, sendo o parametro da função Procura a propria lista de frutas
+
+
+Ao invés de criar uma função que retorna true ou false podemos usar uma expressão lambda
+
+
+
+
+
+-- Expressão Lambda
+
+
+
+Uma expressão lambda é uma função anônima
+
+Para criar uma expressão lambda, devemos especificar: 
+- os parâmetros e entrada no lado esquerdo do operador lambda (=>)
+- e definir a expressão ou bloco de instruções do lado direito do operador lambda
+
+Ex: x => x * x   --> Define um parâmetro chamado x e retorna o valor de x ao quadrado
+
+var resultado = frutas.Find(f => f.Contains("n"));
 
 
 

@@ -1,0 +1,14 @@
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\List_Metodo_Find\bin\Debug\net7.0\List_Metodo_Find.exe
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\List_Metodo_Find\bin\Debug\net7.0\List_Metodo_Find.deps.json
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\List_Metodo_Find\bin\Debug\net7.0\List_Metodo_Find.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\List_Metodo_Find\bin\Debug\net7.0\List_Metodo_Find.dll
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\List_Metodo_Find\bin\Debug\net7.0\List_Metodo_Find.pdb
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\List_Metodo_Find\obj\Debug\net7.0\List_Metodo_Find.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\List_Metodo_Find\obj\Debug\net7.0\List_Metodo_Find.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\List_Metodo_Find\obj\Debug\net7.0\List_Metodo_Find.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\List_Metodo_Find\obj\Debug\net7.0\List_Metodo_Find.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\List_Metodo_Find\obj\Debug\net7.0\List_Metodo_Find.dll
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\List_Metodo_Find\obj\Debug\net7.0\refint\List_Metodo_Find.dll
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\List_Metodo_Find\obj\Debug\net7.0\List_Metodo_Find.pdb
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\List_Metodo_Find\obj\Debug\net7.0\List_Metodo_Find.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\List_Metodo_Find\obj\Debug\net7.0\ref\List_Metodo_Find.dll
