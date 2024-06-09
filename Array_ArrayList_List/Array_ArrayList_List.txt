@@ -1063,3 +1063,187 @@ static bool Procura(string item)
 
 
 
+
+
+
+
+
+# -- List e IEnumerable
+
+
+List<T> e principais métodos de consultas LINQ
+
+
+Any() --> Determina se qualquer elemento de uma sequência existe ou atende a uma condição.(Determina se a coleção contém elementos)
+
+
+FirstOrDefault() --> Retorna o primeiro elemento da coleção que satisfaz uma condição opcional. Retorna o valor padrão do tipo caso não encontre nenhum elemento
+
+
+OrderBy() --> Classifica os elementos na coleção em ordem decrescente com base em uma determinada condição e retorna a coleção classificada
+
+
+ToList() --> Recebe um tipo IEnumerable e o converte em um tipo List
+
+
+Where() --> Retorna todos os elementos da coleção que satisfazem uma determinada condição. (execução adiada)
+
+
+
+
+
+
+
+-- List x IEnumerable
+
+
+IEnumerable<T>                                                  List<T>
+
+
+Descreve comportamento								Implementa o Comportamento
+
+Read-Only											Implementa acesso e alteração  de uma coleção
+
+Método que retorna o proximo item da coleção				
+
+Não precisa ter toda a coleção na memoria					Possui toda a coleção em memoria e  sabe quantos itens a coleção possui
+
+Não sabe quantos elementos a coleção possui
+
+Ao ser iterado em um foreach ele vai retornando o proximo item da coleçao
+
+Dá ao compilador a chace de adiar a execução
+
+
+exemplo 1 : 
+
+
+// See https://aka.ms/new-console-template for more information
+Console.WriteLine("List e IEnumerable");
+
+var limiteCredito = new List<Limite>();
+
+for (int i = 1; i < 15; i++)
+{
+     limiteCredito.Add(new Limite() { Numero = i});
+}
+
+var limitesComRestricao = limiteCredito.Where(x => x.AnalisaLimite()); --> isso é um IEnumerable, porque eu não sei o tamanho da coleção devido a coleção ter muitos elementos ou ser gerado  dinamicamente
+
+
+Console.WriteLine("\nFim do processamento");
+public class Limite
+{
+    public int Numero { get; set; }
+    public bool isRestricao;
+
+    public Limite() 
+    {
+        var semente = Guid.NewGuid().GetHashCode();
+        var numeroAleatorio = new Random(semente).Next(1, 4);
+        isRestricao = numeroAleatorio == 1;
+
+    }
+    public bool AnalisaLimite()
+    {
+        Console.WriteLine($"Executa análise de limite de Crédito para o limite {Numero}");
+        return isRestricao;
+    }
+}
+
+
+
+
+exemplo 2 : 
+
+// See https://aka.ms/new-console-template for more information
+Console.WriteLine("List e IEnumerable");
+
+var limiteCredito = new List<Limite>();
+
+for (int i = 1; i < 15; i++)
+{
+     limiteCredito.Add(new Limite() { Numero = i});
+}
+
+var limitesComRestricao = limiteCredito.Where(x => x.AnalisaLimite()).ToList(); --> ao colocar o tolist eu implmento o ienumerable,agora eu sei o tamanho da lista e seus elementos
+
+Console.WriteLine("\nFim do processamento");
+public class Limite
+{
+    public int Numero { get; set; }
+    public bool isRestricao;
+
+    public Limite() 
+    {
+        var semente = Guid.NewGuid().GetHashCode();
+        var numeroAleatorio = new Random(semente).Next(1, 4);
+        isRestricao = numeroAleatorio == 1;
+
+    }
+    public bool AnalisaLimite()
+    {
+        Console.WriteLine($"Executa análise de limite de Crédito para o limite {Numero}");
+        return isRestricao;
+    }
+}
+
+
+exemplo 3 :
+
+
+ao percorrer ienumerable eu exibo a coleção duas vezes, pois o ienumerable não tem toda coleção na memoria
+
+ao pecorrer o ienumerable com toList, os valores são guardados na memoria, mostrando a coleção apenas uma vez
+
+
+var limitesComRestricao = limiteCredito.Where(x => x.AnalisaLimite());
+
+var limitesComRestricao = limiteCredito.Where(x => x.AnalisaLimite()).ToList();
+
+
+if(limitesComRestricao.Count() > 3)
+{
+    Console.WriteLine("\n ### Temos mais de 3 linhas com restrição");
+}
+
+if(limitesComRestricao.Count() > 5)
+{
+    Console.WriteLine("\n ### Temos mais de 5 linhas com restrição");
+
+}
+
+
+
+
+-- Cenario em que um IEnumerable é bom
+
+no caso abaixo, o codigo vai retornar o primeiro valor da coleção ou padrão,porem ele vai percorrer toda a coleção,exibindo todos os dados
+
+var limitesComRestricao = limiteCredito.Where(x => x.AnalisaLimite()).ToList();
+
+var primeiroLimiteComRestrição = limitesComRestricao.FirstOrDefault();
+
+Console.WriteLine($"\n##{primeiroLimiteComRestrição?.Numero}");
+
+
+-- porem com ienumerable ele vai encontrar o primeiro valor ou padrão, e vai exibir o primeiro, sem precisar percorrer toda coleção para exibir tudo
+
+var limitesComRestricao = limiteCredito.Where(x => x.AnalisaLimite())
+
+var primeiroLimiteComRestrição = limitesComRestricao.FirstOrDefault();
+
+Console.WriteLine($"\n##{primeiroLimiteComRestrição?.Numero}");
+
+
+
+
+
+-- Quando usar ToList ou IEnumerable ? 
+
+
+IEnumerable :
+Uma unica consulta nos dados,sem precisar modificar varias vezes, porque ienumerable não tem seus valores avaliados, e tem execução adiada
+
+List:
+Quando preciso acessar o resultado de uma consulta Linq varias vezes ou modificar os dados,porque os dados serão armazenados na memoria e avaliados pelo ToList();

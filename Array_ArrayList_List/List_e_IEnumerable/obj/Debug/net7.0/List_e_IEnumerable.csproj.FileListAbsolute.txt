@@ -1,0 +1,14 @@
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\List_e_IEnumerable\bin\Debug\net7.0\List_e_IEnumerable.exe
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\List_e_IEnumerable\bin\Debug\net7.0\List_e_IEnumerable.deps.json
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\List_e_IEnumerable\bin\Debug\net7.0\List_e_IEnumerable.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\List_e_IEnumerable\bin\Debug\net7.0\List_e_IEnumerable.dll
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\List_e_IEnumerable\bin\Debug\net7.0\List_e_IEnumerable.pdb
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\List_e_IEnumerable\obj\Debug\net7.0\List_e_IEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\List_e_IEnumerable\obj\Debug\net7.0\List_e_IEnumerable.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\List_e_IEnumerable\obj\Debug\net7.0\List_e_IEnumerable.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\List_e_IEnumerable\obj\Debug\net7.0\List_e_IEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\List_e_IEnumerable\obj\Debug\net7.0\List_e_IEnumerable.dll
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\List_e_IEnumerable\obj\Debug\net7.0\refint\List_e_IEnumerable.dll
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\List_e_IEnumerable\obj\Debug\net7.0\List_e_IEnumerable.pdb
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\List_e_IEnumerable\obj\Debug\net7.0\List_e_IEnumerable.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\List_e_IEnumerable\obj\Debug\net7.0\ref\List_e_IEnumerable.dll
