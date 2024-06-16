@@ -1247,3 +1247,8 @@ Uma unica consulta nos dados,sem precisar modificar varias vezes, porque ienumer
 
 List:
 Quando preciso acessar o resultado de uma consulta Linq varias vezes ou modificar os dados,porque os dados serão armazenados na memoria e avaliados pelo ToList();
+
+
+
+
+

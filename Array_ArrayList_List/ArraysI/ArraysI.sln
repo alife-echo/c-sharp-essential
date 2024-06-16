@@ -37,7 +37,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListAndArrayList", "..\List
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "List_Metodo_Find", "..\List_Metodo_Find\List_Metodo_Find.csproj", "{26068906-DB58-4987-BD41-3E8B01E6F3DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List_e_IEnumerable", "..\List_e_IEnumerable\List_e_IEnumerable.csproj", "{DC9B3F49-8B16-4646-BEDB-B6D9FCFE86A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "List_e_IEnumerable", "..\List_e_IEnumerable\List_e_IEnumerable.csproj", "{DC9B3F49-8B16-4646-BEDB-B6D9FCFE86A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioListT", "..\ExercicioListT\ExercicioListT.csproj", "{85181478-2614-4CEE-B93B-9B97C77161CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{DC9B3F49-8B16-4646-BEDB-B6D9FCFE86A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC9B3F49-8B16-4646-BEDB-B6D9FCFE86A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC9B3F49-8B16-4646-BEDB-B6D9FCFE86A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85181478-2614-4CEE-B93B-9B97C77161CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85181478-2614-4CEE-B93B-9B97C77161CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85181478-2614-4CEE-B93B-9B97C77161CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85181478-2614-4CEE-B93B-9B97C77161CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
