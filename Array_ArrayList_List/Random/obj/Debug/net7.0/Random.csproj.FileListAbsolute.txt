@@ -1,0 +1,14 @@
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\Random\bin\Debug\net7.0\Random.exe
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\Random\bin\Debug\net7.0\Random.deps.json
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\Random\bin\Debug\net7.0\Random.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\Random\bin\Debug\net7.0\Random.dll
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\Random\bin\Debug\net7.0\Random.pdb
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\Random\obj\Debug\net7.0\Random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\Random\obj\Debug\net7.0\Random.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\Random\obj\Debug\net7.0\Random.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\Random\obj\Debug\net7.0\Random.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\Random\obj\Debug\net7.0\Random.dll
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\Random\obj\Debug\net7.0\refint\Random.dll
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\Random\obj\Debug\net7.0\Random.pdb
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\Random\obj\Debug\net7.0\Random.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\Random\obj\Debug\net7.0\ref\Random.dll

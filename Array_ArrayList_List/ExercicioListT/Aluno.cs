@@ -20,7 +20,8 @@ public class Aluno
    public static void ExbirDadosAluno (List<Aluno> alunos)
     {
         Console.WriteLine($"\n----------------- ALUNOS - ORDENADO -----------------");
-        for (int i = 0; i < alunos.Count; i++)
+        var sortedAlunos = alunos.OrderBy(a => a.Nome).ToList();  
+        for (int i = 0; i < sortedAlunos.Count; i++)
         {
             Console.WriteLine($"Nome:{alunos[i].Nome},Nota:{alunos[i].Nota}");
         }

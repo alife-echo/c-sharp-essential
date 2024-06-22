@@ -1,12 +1,13 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using ExercicioListT;
+using System.Threading.Channels;
+
 Console.WriteLine("List<T> - Exercício");
 
 
 var alunos = new List<Aluno>();
 Console.WriteLine("\n");
 Aluno.MenuAluno();
-int _ = 0;
 for(;;)
 {
     int opcao = Convert.ToInt32(Console.ReadLine());
@@ -79,5 +80,4 @@ for(;;)
     {
         Console.WriteLine("Ocorreu um erro,contate o administrador");
     }
-    _++;
 }

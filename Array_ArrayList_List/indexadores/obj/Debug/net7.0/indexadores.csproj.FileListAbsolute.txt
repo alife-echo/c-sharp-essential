@@ -1,0 +1,14 @@
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\indexadores\obj\Debug\net7.0\indexadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\indexadores\obj\Debug\net7.0\indexadores.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\indexadores\obj\Debug\net7.0\indexadores.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\indexadores\obj\Debug\net7.0\indexadores.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\indexadores\bin\Debug\net7.0\indexadores.exe
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\indexadores\bin\Debug\net7.0\indexadores.deps.json
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\indexadores\bin\Debug\net7.0\indexadores.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\indexadores\bin\Debug\net7.0\indexadores.dll
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\indexadores\bin\Debug\net7.0\indexadores.pdb
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\indexadores\obj\Debug\net7.0\indexadores.dll
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\indexadores\obj\Debug\net7.0\refint\indexadores.dll
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\indexadores\obj\Debug\net7.0\indexadores.pdb
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\indexadores\obj\Debug\net7.0\indexadores.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\indexadores\obj\Debug\net7.0\ref\indexadores.dll

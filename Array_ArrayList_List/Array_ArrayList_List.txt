@@ -1252,3 +1252,148 @@ Quando preciso acessar o resultado de uma consulta Linq varias vezes ou modifica
 
 
 
+
+
+
+
+
+# -- Indexadores - definição
+
+
+"Os indexadores permitem que as instâncias de uma classe ou struct sejam indexadas como um array. Eles lembram as propriedades mas seu assessores(get,set) recebem parâmetros"
+
+Um indexador é um membro da classe que permite acessar uma variável de membro da classe ou struct usando os recursos de um array
+
+Quando você define um indexador para uma classe, essa classe se comporta como um array virtual e podemos acessar a instância da classe usando o operador de acesso ao array ([]) e
+também usar índices para acessar e atribuir valores como nos arrays
+
+
+
+-- indexadores - sintaxe
+
+para declarar um indexador em uma classe ou struct , use a palavra-chave this
+
+public int this[int index]
+{
+   get{...}
+   set{...}
+}
+
+
+- Declaramos um indexador como um método passando um modificador de acesso (public,private,protected ou internal) seguido de um valor de retorno(não pode ser void)
+
+- O nome do indexador será a palavra reservada this;
+
+- A lista de parâmetros de entrada devem ser envolvida em colchetes [];
+
+- Ao final final basta definir os assessores get e o set para definir a lógica de acesso retornando e atribuindo um valor
+
+
+
+
+-- Indexadores - exemplo
+
+public class Time
+{
+    string[] valor = new string[10];
+
+    public string this[int i]
+    {
+        get { if (i > 0 && i < valor.Length) { return valor[i]; } return "Error"; }
+        set { if (i > 0 && i < valor.Length) { valor[i] = value; } }
+    }
+}
+
+
+
+
+Time --> possui um indexador, um metodo get para pegar valor e uma metodo set para colocar valores
+
+this --> usada para definir um indexador 
+
+value --> é usado para definir um valor que esta sendo atribuído pelo indexador set
+
+um indexador não pode ser estatico
+
+
+utilidade --> Utilidade de um indexador é fornecer uma sintaxe para acessar,atráves do índice itens de um objeto que representa uma coleção
+
+
+
+
+
+
+
+
+# -- Random
+
+- Gerando número aleatórios
+
+Random -> é usado para gerar números pseudos-aleatórios com base no valor de uma semente (seed)
+
+Random -> A classe random sem paramentros utiliza o relogio do sistema como semente
+
+A geração de números aleatorios ocorre apartir de uma semente,e se a semente for usado repetidamente, a mesma série de números será gerada.
+
+
+- Metodos Next
+
+Next() --> Retorna um numero aleatorio positivo dentro do intervalo padrão -2.147.483.648 a 2.147.483.643
+
+Next(int) --> Retorna um número aleatorio postivo, que é menor que o valor maximo definido
+
+Next(int,int) --> Retorna um número aleatorio positivo dentro do intervalo maximo e minimo definido
+
+NextDouble() --> Gera um número de ponto flutuante aleatório que é maior ou igual a 0,0 e menor que 1,0
+
+NextByte(Byte[]) --> Preenche os elementos de um array de bytes com números aleatórios
+
+NextInt64(...) --> Retorna um número inteiro aleatório positivo dentro do intervalo 0 e 9223372036854775807
+
+
+A classe possui dois contrutores:
+
+Random() --> Inicializa uma nova instância da classe Random usando um valor de semente padrão
+
+Random(int32) --> Inicializa uma nova instancia da classe Random usando um valor da semente definido
+
+
+Exemplo:
+
+Random random = new Random();
+
+Console.WriteLine(random.Next());
+Console.WriteLine(random.Next(20));
+Console.WriteLine(random.Next(0,20));
+Console.WriteLine(random.NextDouble());
+
+Random random2 = new Random(2023);
+
+for (int i = 0; i < 20; i++) --> gerando 20 numeros aleatorios
+{
+    Console.WriteLine(random2.Next(0,100));
+}
+
+
+Join --> Concatena os elementos de um array especificado ou os membros de uma coleção, usando o separador especificado entre cada elemento  ou membro
+
+
+Console.WriteLine("Sorteio MegaSena \n");
+
+Random random = new Random();
+int[] numerosSorteados = new int[6];
+for (int i = 0; i < numerosSorteados.Length; i++)
+{
+    int numeroAleatorio;
+
+    do
+    {
+        numeroAleatorio = random.Next(1, 61);
+    } while (numerosSorteados.Contains(numeroAleatorio));
+    numerosSorteados[i] = numeroAleatorio;
+
+}
+Array.Sort(numerosSorteados);
+Console.WriteLine("Números Sorteados \n");
+Console.WriteLine(string.Join(" ",numerosSorteados));
+Console.ReadKey();
