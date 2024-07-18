@@ -1,0 +1,14 @@
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ExercicioArrayListArrayList\bin\Debug\net7.0\ExercicioArrayListArrayList.exe
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ExercicioArrayListArrayList\bin\Debug\net7.0\ExercicioArrayListArrayList.deps.json
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ExercicioArrayListArrayList\bin\Debug\net7.0\ExercicioArrayListArrayList.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ExercicioArrayListArrayList\bin\Debug\net7.0\ExercicioArrayListArrayList.dll
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ExercicioArrayListArrayList\bin\Debug\net7.0\ExercicioArrayListArrayList.pdb
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ExercicioArrayListArrayList\obj\Debug\net7.0\ExercicioArrayListArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ExercicioArrayListArrayList\obj\Debug\net7.0\ExercicioArrayListArrayList.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ExercicioArrayListArrayList\obj\Debug\net7.0\ExercicioArrayListArrayList.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ExercicioArrayListArrayList\obj\Debug\net7.0\ExercicioArrayListArrayList.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ExercicioArrayListArrayList\obj\Debug\net7.0\ExercicioArrayListArrayList.dll
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ExercicioArrayListArrayList\obj\Debug\net7.0\refint\ExercicioArrayListArrayList.dll
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ExercicioArrayListArrayList\obj\Debug\net7.0\ExercicioArrayListArrayList.pdb
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ExercicioArrayListArrayList\obj\Debug\net7.0\ExercicioArrayListArrayList.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\Array_ArrayList_List\ExercicioArrayListArrayList\obj\Debug\net7.0\ref\ExercicioArrayListArrayList.dll

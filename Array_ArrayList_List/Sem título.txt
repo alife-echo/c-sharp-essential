@@ -1,0 +1,26 @@
+
+# - Conceitos introdutorios
+
+-- Aula 1
+
+- Pesquisar uma celula na caixa de nome
+- Todas as ações que faço no excel são guardados em planilhas
+
+-- Aula 2 (Guias)
+
+Pagina inicial --> Informação de formatação de celula
+Inserir --> Informaçao para inserir algo na planilha
+Layout Página --> Indicado para dashboards
+Fórmulas --> Utilizar formulas
+Dados --> Manipular dados de banco de dados
+Exibir --> Opções de exibição no excel
+
+
+-- Aula 3 (Abas)
+
+Navegação,exclusão,ocultação de abas
+
+-- Aula 4(Exibição)
+
+
+
