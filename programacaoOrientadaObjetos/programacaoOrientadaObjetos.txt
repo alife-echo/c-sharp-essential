@@ -1,0 +1,92 @@
+# -- Pilares POO
+
+POO --> aboradagem de desenvolvimento de software no qual o software e baseado em objetos que interagem uns com outros para realizar uma tarefa
+
+Interação --> Toma forma de mensagens que são trocadas entre objetos, sendo que em resposta a uma mensagen o objeto pode executar uma ação ou metodo
+
+Objeto --> é uma estrutura que incorpora os dados e comportamentos para trabalhar com esses dados
+
+Um objeto é uma instancia de uma classe
+
+Onde a classe é um tipo e o objeto é uma instancia do tipo
+
+classe : Produto --> objeto : caderno,livro,celular,mouse,etc.
+classe : Cliente --> objeto : Macoratti,Maria,Pedro,etc.
+
+Abstração --> Converter as informações do mundo real  para desenvolver um software.
+
+Encapsulamento --> processo pelo qual o acesso aos dados do objeto não são permitidos. Ele esta ocultado e protegido.
+O objeto esconde seus dados de outro objetos e permite que os dados sejam acessados por meio dos seus proprios metodos.
+
+Encapsulamento --> O codigo do objeto deve controlar seu proprio estado
+
+Encapsulamento --> O codigo esta seguro pois suas propriedades estão escondidas
+
+Herança --> permite que voce crie novas classes que reutilizam,estedem e modificam o comportamento definido por outras classes existentes
+
+Herança --> A classe cujo membros são herdados é chamado de classe base e a classe que herda é chamada de classe derivada
+
+A base fornece uma funcionalidade comun(dados e comportamentos) e  as classes derivadas herdam ou substituem essa funcionalidade
+
+Polimorfismo --> é a habilidade de objetos distintos responderem a mesma mensagem de sua própia maneira
+
+Polimorfismo --> podemos invocar métodos da classe derivada através atraves da classe base em tempo de execução, e , permitir que classes forneçam diferentes implementações de métodos que são chamados com mesmo nome
+
+
+
+
+
+
+# --  Herença - Conceito e Sintaxe
+
+
+Herança --> Mecanismo pelo qual uma classe derivada ou subclasse pode adquirir propriedades e métodos de outra classe (conhecida como classe base ou superclasse)
+
+Derivada --> Capaz de reutilizar o codigo da classe base, evitando duplicação de codigo e permitindo especialização de comportamentos
+
+Relação entre classe derivada e classe base --> atraves dos dois pontos (:) com o nome da classe derivada antes e depois o nome da classe base
+
+Herança simples --> Herança direta da fonte
+
+Na linguagem c# temos a herança simples(podemos definir uma hierarquia de herança)
+
+public class nome_classe_derivada : nome_classe_base
+{
+// declaração dos membros da classe derivada
+}
+
+
+
+
+
+# -- Herança - Benefícios
+
+
+Reutilização De Código --> Atraves de atributos e metodos comuns, evita a duplicação de codigo
+
+Especialização --> As classes derivadas alem de herdar os atributos e metodos podem ter comportamentos especificos, criando uma hierarquia de classes e diferentes niveis de especialização
+
+Extensiabilidade --> A herança permite adicionar varios atributos e metodos a uma classe derivada sem modificar a classe base, voce pode estender o comportamento de uma classe sem afetar outras partes do código que dependem dela.
+
+Encapsulamento --> a herança pode ser combinada com os modificadores de acesso,(public,private,protected) para apenas as classes derivadas certas podem acessar as propriedades e metodos da classe base
+
+
+
+# -- Herança - Problemas
+
+
+Aclopamento Forte --> A herança cria um acoplamento forte entre a classe base e as classes derivadas, se a classe base for modificada, as classes derivadas serão modificadas tambem, tornando o codigo suscetivel a erros colaterais
+
+Herança Profunda --> Hierarquias muitos profundas podem deixar o codigo dificel de manter e complexo
+
+Herança e Reutilização Excessiva --> A reutilização de heranças é permitida mesmo a relação 'É um' não sendo apropriada, nesse caso é melhor utilizar se o metodo de composicão(outro tecnica de programação orientada a objetos)
+
+Rigidez do Design --> Dificil fazer alterações na estrutura da classe, mudanças na classe base podem exigir ajustes excessivos nas classes derivadas
+
+
+
+
+
+
+
+

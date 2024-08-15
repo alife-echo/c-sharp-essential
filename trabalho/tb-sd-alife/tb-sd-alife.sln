@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tb-sd-alife", "tb-sd-alife.csproj", "{4539B418-8F7A-4276-A000-DD4550695FD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "alife-tb-sd-f", "..\alife-tb-sd-f\alife-tb-sd-f.csproj", "{C8C928B5-E974-48CA-B657-75C0601DA951}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4539B418-8F7A-4276-A000-DD4550695FD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4539B418-8F7A-4276-A000-DD4550695FD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4539B418-8F7A-4276-A000-DD4550695FD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4539B418-8F7A-4276-A000-DD4550695FD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8C928B5-E974-48CA-B657-75C0601DA951}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8C928B5-E974-48CA-B657-75C0601DA951}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8C928B5-E974-48CA-B657-75C0601DA951}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8C928B5-E974-48CA-B657-75C0601DA951}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEE881E4-DDBD-48F4-BB09-E598FEE759D5}
+	EndGlobalSection
+EndGlobal

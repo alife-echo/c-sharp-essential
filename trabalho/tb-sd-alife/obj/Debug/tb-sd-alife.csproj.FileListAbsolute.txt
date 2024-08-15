@@ -1,0 +1,14 @@
+C:\Users\alife\c-sharp-essential\trabalho\tb-sd-alife\bin\Debug\tb-sd-alife.exe.config
+C:\Users\alife\c-sharp-essential\trabalho\tb-sd-alife\bin\Debug\tb-sd-alife.exe
+C:\Users\alife\c-sharp-essential\trabalho\tb-sd-alife\bin\Debug\tb-sd-alife.pdb
+C:\Users\alife\c-sharp-essential\trabalho\tb-sd-alife\bin\Debug\MetroFramework.Design.dll
+C:\Users\alife\c-sharp-essential\trabalho\tb-sd-alife\bin\Debug\MetroFramework.dll
+C:\Users\alife\c-sharp-essential\trabalho\tb-sd-alife\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\alife\c-sharp-essential\trabalho\tb-sd-alife\obj\Debug\tb-sd-alife.csproj.AssemblyReference.cache
+C:\Users\alife\c-sharp-essential\trabalho\tb-sd-alife\obj\Debug\tb_sd_alife.Form1.resources
+C:\Users\alife\c-sharp-essential\trabalho\tb-sd-alife\obj\Debug\tb_sd_alife.Properties.Resources.resources
+C:\Users\alife\c-sharp-essential\trabalho\tb-sd-alife\obj\Debug\tb-sd-alife.csproj.GenerateResource.cache
+C:\Users\alife\c-sharp-essential\trabalho\tb-sd-alife\obj\Debug\tb-sd-alife.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\trabalho\tb-sd-alife\obj\Debug\tb-sd-alife.csproj.CopyComplete
+C:\Users\alife\c-sharp-essential\trabalho\tb-sd-alife\obj\Debug\tb-sd-alife.exe
+C:\Users\alife\c-sharp-essential\trabalho\tb-sd-alife\obj\Debug\tb-sd-alife.pdb

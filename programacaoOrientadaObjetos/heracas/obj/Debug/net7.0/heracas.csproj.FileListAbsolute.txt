@@ -1,0 +1,14 @@
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\heracas\bin\Debug\net7.0\heracas.exe
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\heracas\bin\Debug\net7.0\heracas.deps.json
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\heracas\bin\Debug\net7.0\heracas.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\heracas\bin\Debug\net7.0\heracas.dll
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\heracas\bin\Debug\net7.0\heracas.pdb
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\heracas\obj\Debug\net7.0\heracas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\heracas\obj\Debug\net7.0\heracas.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\heracas\obj\Debug\net7.0\heracas.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\heracas\obj\Debug\net7.0\heracas.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\heracas\obj\Debug\net7.0\heracas.dll
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\heracas\obj\Debug\net7.0\refint\heracas.dll
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\heracas\obj\Debug\net7.0\heracas.pdb
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\heracas\obj\Debug\net7.0\heracas.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\heracas\obj\Debug\net7.0\ref\heracas.dll

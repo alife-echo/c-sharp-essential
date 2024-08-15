@@ -1,0 +1,14 @@
+C:\Users\alife\c-sharp-essential\leetCode\TwoSum\bin\Debug\net7.0\TwoSum.exe
+C:\Users\alife\c-sharp-essential\leetCode\TwoSum\bin\Debug\net7.0\TwoSum.deps.json
+C:\Users\alife\c-sharp-essential\leetCode\TwoSum\bin\Debug\net7.0\TwoSum.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\leetCode\TwoSum\bin\Debug\net7.0\TwoSum.dll
+C:\Users\alife\c-sharp-essential\leetCode\TwoSum\bin\Debug\net7.0\TwoSum.pdb
+C:\Users\alife\c-sharp-essential\leetCode\TwoSum\obj\Debug\net7.0\TwoSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\leetCode\TwoSum\obj\Debug\net7.0\TwoSum.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\leetCode\TwoSum\obj\Debug\net7.0\TwoSum.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\leetCode\TwoSum\obj\Debug\net7.0\TwoSum.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\leetCode\TwoSum\obj\Debug\net7.0\TwoSum.dll
+C:\Users\alife\c-sharp-essential\leetCode\TwoSum\obj\Debug\net7.0\refint\TwoSum.dll
+C:\Users\alife\c-sharp-essential\leetCode\TwoSum\obj\Debug\net7.0\TwoSum.pdb
+C:\Users\alife\c-sharp-essential\leetCode\TwoSum\obj\Debug\net7.0\TwoSum.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\leetCode\TwoSum\obj\Debug\net7.0\ref\TwoSum.dll
