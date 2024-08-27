@@ -1,0 +1,15 @@
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\herancasEComportamento\obj\Debug\net8.0\herancasEComportamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\herancasEComportamento\obj\Debug\net8.0\herancasEComportamento.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\herancasEComportamento\obj\Debug\net8.0\herancasEComportamento.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\herancasEComportamento\obj\Debug\net8.0\herancasEComportamento.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\herancasEComportamento\obj\Debug\net8.0\herancasEComportamento.sourcelink.json
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\herancasEComportamento\bin\Debug\net8.0\herancasEComportamento.exe
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\herancasEComportamento\bin\Debug\net8.0\herancasEComportamento.deps.json
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\herancasEComportamento\bin\Debug\net8.0\herancasEComportamento.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\herancasEComportamento\bin\Debug\net8.0\herancasEComportamento.dll
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\herancasEComportamento\bin\Debug\net8.0\herancasEComportamento.pdb
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\herancasEComportamento\obj\Debug\net8.0\herancasEComportamento.dll
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\herancasEComportamento\obj\Debug\net8.0\refint\herancasEComportamento.dll
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\herancasEComportamento\obj\Debug\net8.0\herancasEComportamento.pdb
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\herancasEComportamento\obj\Debug\net8.0\herancasEComportamento.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\herancasEComportamento\obj\Debug\net8.0\ref\herancasEComportamento.dll

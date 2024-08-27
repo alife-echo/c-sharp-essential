@@ -1,0 +1,1912 @@
+ 
+# -- Classes e Metodos
+
+
+
+abstração de uma entidade do mundo real
+
+modelo ou template, que contém valores conhecidos como membros de dados e conjuntos de regras, conhecidos como comportamentos ou métodos
+
+é um tipo estruturado que contém membros:
+
+1. Atributos (dados: propriedades,campos)
+2. Comportamentos (métodos)
+
+sintaxe:
+
+class NomeClasse
+
+{
+ public string nome; --> Campos
+
+ public void Comer(); --> Métodos
+}
+
+
+exemplo:
+
+class Pessoa
+{
+ public string nome;
+ public int idade;
+ public string sexo;
+
+ public void Comer();
+ public void Respirar();
+ public void Trabalhar();
+}
+
+Pessoa agora representa um tipo qe contém atributos e comportamentos
+
+A classe Pessoa agora pode criar objetos do tipo Pessoa
+
+Parar criar objetos a partir de um classe usamos a palavra new
+
+
+Pessoa p1 = new Pessoa()
+p1.nome = "Maria";
+p1.idade = 34;
+p1.sexo = "feminino";
+
+Criamos uma variável p1 do tipo Pessoa
+Atribuimos valores aos atributos nome,idade,sexo
+
+p1 é chamado de objeto do tipo Pessoa
+Dizemos que p1 é um instância da classe Pessoa
+
+
+A classe Pessoa é um Modelo para criar objetos
+
+Esses objetos são alocados na memória Heap e são tipos por referência
+
+sintaxe atualizada .NET7
+
+Pessoa p1 = new()
+{
+    nome = "Alife",
+    idade = 23,
+    sexo = "masculino"
+};
+
+
+
+
+
+
+
+
+
+
+# -- Classe e Alocação na memória
+
+
+
+cada classe criada tem uma variavel na memoria stack apontando para o endereço na memoria heap.
+
+
+Cada instância da classe Pessoa (objetos p1 e p2) é uma entidade separada que tem seu próprio conjunto de membros de dados, distintos das outras instâncias da mesma classe.
+
+
+Pessoa p1;
+
+O ponteiro de referência definido por p1 é alocado na memória stack.
+
+A instrução Pessoa p1, não aloca memória para uma instância de Pessoa, apenas aloca uma variável com o nome p1 na Stack e define seu valor como null
+
+p1 = new Pessoa()
+
+No momento em que usamos a palavra chave new , o objeto é alocado na memória heap com seus dados e a variável p1 possui uma referência para o local da memória deste objeto
+
+Pessoa p1 = new Pessoa();
+p1.nome = "Maria";
+p1.idade = 34;
+p1.sexo = "feminino";
+
+
+
+
+
+
+
+
+
+
+# -- Alocação de memória
+
+Pessoa p2 = p1;
+
+Ambas as variáveis de referência p1 e p2 , são do tipo Pessoa, e , agora apontam para a mesma alocação da memória.
+
+Uma classe é um "tipo de referência"
+
+Classe, objeto e string são exemplos de Tipos de Referência e são alocadas na Heap
+
+
+exemplo:
+
+Pessoa p1 = new()
+{
+    idade = 20,
+    nome = "Álife",
+    sexo = "Masculino"
+};
+
+Pessoa p2 = p1;
+Console.WriteLine($"{p2.nome} {p2.idade} {p2.sexo}");
+
+class Pessoa
+{
+    public string? nome;
+    public int idade;
+    public string? sexo;
+}
+
+
+
+
+
+
+
+
+
+# -- Objeto
+
+
+Um objeto é uma instância de uma classe, criado pelo operador new, e , todos os membros da classe podem ser acessados através do objeto.
+
+A classe é um modelo, um planejamento, enquanto o objeto seria a classe materializada.
+
+public class Cachorro
+{
+    public string? nome;
+    public string? cor;
+    public string? sexo;
+
+    public void latir();
+    public void comer();
+}    
+
+
+
+
+
+
+
+
+
+
+
+# -- Métodos
+
+Os métodos representam os comportamentos das classes e são usados para executar ações e realizar a comunicação entre objetos e classes
+
+Um método é um bloco de código que contém série de instruções que são executadas quando ele for chamado
+
+No c#, todas as instruções executadas são realizadas no contexto de um método, e , todos os métodos são definidos em classes
+
+
+C# é uma linguagem orientada a objetos que não possui funções declaradas fora das classes
+
+Na linguagem C# , a rigor , não existem funções mas métodos
+
+
+
+
+
+
+
+-- Criando métodos - Sintaxe mínima
+
+
+Tipo de Retorno - Determina o tipo do valor que o método retorna ( se o metodo não retornar nada seu tipo será void)
+
+
+Nome - Define o nome do método(Pascal Case)
+
+
+Lista de parâmetros - Indica o tipo de dados e o valor das variáveis/objetos que o método pode receber. indicado em parenteses apos o nome do metodo.
+
+
+Corpo do método - Consiste das instruções definidas entre chaves no corpo do método.
+
+
+class MinhaClass
+{
+	void Saudacao()
+	{
+	 Console.WriteLine("Bem-Vindo !!!");
+	 Console.WriteLine("15/10/2022");			
+	}
+
+}
+
+
+exemplo completo :
+
+MyClass minhaClasse = new();
+
+minhaClasse.Saudacao();
+
+
+class MyClass
+{
+   public  void Saudacao()
+    {
+        Console.WriteLine("Bem-Vindo !!!");
+        ExibirDataAtual();
+    }
+   public void ExibirDataAtual()=>
+        Console.WriteLine(DateTime.Now.ToShortDateString());
+    
+}
+
+
+
+para uma instrução apenas colocar o sinal '=>'
+
+posso chamar metodos dentro de outros metodos
+
+
+
+
+
+
+
+
+
+
+
+
+# -- Metodos com parametros
+
+Maneira de passar dados para uma metodo/função e modificalos/exibilos da nossa maneira
+
+
+sintaxe padrão
+
+
+modificadorAcesso tipoRetorno nomeMetodo(argumentos) {
+	 instruções
+}
+
+
+
+
+exemplo:
+
+Myclass p1 = new Myclass();
+
+p1.Saudacao("Maria",DateTime.Now.ToShortDateString());
+
+public class Myclass
+{
+
+public void Saudacao(string nome,string data)
+{
+ 	Console.WriteLine(nome);
+ 	Console.WriteLine(data);
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+# -- Passando Parâmetros entre classes
+
+
+var aluno = new Aluno();
+Console.WriteLine("Nome:");
+aluno.Nome = Console.ReadLine();
+Console.WriteLine("Idade:");
+aluno.Idade = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Sexo:");
+aluno.Sexo = Console.ReadLine();
+Console.WriteLine("Aprovado (S)im (N)ão : ");
+aluno.Aprovado = Console.ReadLine();
+
+Curso curso = new();
+curso.Resultado(aluno);
+public class Aluno
+{
+    public string? Nome;
+    public int Idade;
+    public string? Sexo;
+    public string? Aprovado;
+}
+
+public class Curso
+{
+    public void Resultado(Aluno aluno)
+    {
+        Console.WriteLine($"\n O aluno:{aluno.Nome} sexo:{aluno.Sexo}  com {aluno.Idade} anos");
+        if(aluno.Aprovado?.ToUpper() == "S")
+        {
+            Console.WriteLine("Aprovado");
+        }
+        else
+        {
+            Console.WriteLine("Reprovado");
+        }
+    }
+}
+
+
+
+
+
+Quando um tipo de referencia é passado por valor a um método, esse método receberá uma copia da referencia para a instancia da classe
+
+
+o método chamado recebe uma cópia do endereço da instância e o método de chamada retém o endereço original da instância
+
+
+A instância de classe no método de chamada tem um endereço , o parâmetro do método chamado tem uma cópia do endereço e os dois endereços se referem ao mesmo objeto
+
+
+metodo main -->  endereço original da instância
+curso.Resultado(aluno); --> cópia do endereço da instância
+
+
+
+
+
+
+
+
+
+
+
+# -- Construtor
+
+
+Os construtores são tipos especiais de métodos usados para criar e inicilizar objetos de uma classe
+
+c# toda a classe precisa de um construtor para ser inicializada
+
+sempre quando new for usado o construtor será chamado
+
+se você não usar um construtor na classe, o c# criara um construtor padrão sem parametros, sendo usado para instaciar a classe e definir os valores padrão
+
+
+-- Construtor : sintaxe
+
+Um construtor deve possuir o mesmo nome da classe
+
+não possui tipo de retorno (nem mesmo void)
+
+pode ter parametros para inicializar os membros da classe
+
+
+
+valores padrão  de um construtor para os tipos de dados usados
+
+tipo        valor padrão
+
+int              0
+long             0
+float            0
+double           0
+decimal          0
+string          null
+bool            false
+
+exemplo:
+
+Console.WriteLine("Construtores");
+
+Aluno aluno = new Aluno("Maria",22,"Feminino","S");
+
+Console.WriteLine(aluno?.Nome == null ? "null" : aluno?.Nome);
+Console.WriteLine(aluno?.Idade == 0 ? 0 : aluno?.Idade);
+Console.WriteLine(aluno?.Sexo == null ? "null":aluno.Sexo);
+Console.WriteLine(aluno?.Aprovado == null ? "null":aluno.Aprovado );
+
+
+public class Aluno
+{   
+    public Aluno(string nome, int idade, string sexo, string aprovado)
+    {
+        Nome = nome; ;
+        Idade = idade; 
+        Sexo = sexo;
+        Aprovado = aprovado;
+    }
+    public string? Nome;
+    public int Idade;
+    public string? Sexo;
+    public string? Aprovado;
+}
+
+
+
+
+
+
+
+
+
+
+# -- Construtor II
+
+Podemos criar mais de um construtor, o c# tera inteligencia para inferir quais construtor estamos usando
+
+
+exem:
+
+Aluno aluno = new Aluno(22,"feminino","A");
+
+Console.WriteLine(aluno?.Nome == null ? "null" : aluno?.Nome);
+Console.WriteLine(aluno?.Idade == 0 ? 0 : aluno?.Idade);
+Console.WriteLine(aluno?.Sexo == null ? "null" : aluno.Sexo);
+Console.WriteLine(aluno?.Aprovado == null ? "null" : aluno.Aprovado);
+public class Aluno
+{   
+    public Aluno(string nome)=>Nome = nome;    
+
+    public Aluno(int idade, string sexo, string aprovado)
+    {
+        Idade = idade;
+        Sexo = sexo;    
+        Aprovado = aprovado;
+    }
+    public string Nome;
+    public int Idade;
+    public string Sexo;
+    public string Aprovado;
+}
+
+
+
+
+-- chamando outro construtor
+
+
+usando um parametro string nome no segundo construtor posso refrenciar com this o outro construtor que usa apenas o parametro nome e guardar seu valor no atributo Nome
+
+é bom para não mexer em outros construtores já criados
+
+Aluno aluno = new Aluno("Alife",22,"feminino","A");
+
+Console.WriteLine(aluno?.Nome == null ? "null" : aluno?.Nome);
+Console.WriteLine(aluno?.Idade == 0 ? 0 : aluno?.Idade);
+Console.WriteLine(aluno?.Sexo == null ? "null" : aluno.Sexo);
+Console.WriteLine(aluno?.Aprovado == null ? "null" : aluno.Aprovado);
+public class Aluno
+{   
+    public Aluno(string nome)=>Nome = nome;    
+
+    public Aluno(string nome ,int idade, string sexo, string aprovado):this(nome)
+    {
+        Idade = idade;
+        Sexo = sexo;    
+        Aprovado = aprovado;
+    }
+    public string? Nome;
+    public int Idade;
+    public string? Sexo;
+    public string? Aprovado;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# -- Palavra chave this
+
+É usada para diferenciar entre os parâmetros dos métodos e os campos quando ele tiverem o mesmo nome
+
+this representa a propia classe que esta sendo usada
+
+exemplo:
+
+public class Cliente
+{
+    public string? Nome;
+    public int Idade;
+    
+    public Cliente(string? Nome, int Idade)
+    {
+        this.Nome = Nome;
+        this.Idade = Idade;
+    }
+}
+
+
+-- Uso comuns da palavra-chave this
+
+
+Passa um objeto da instancia atual como parametro para outros metodos
+
+Teste t1 = new Teste();
+t1.Num1 = 10;
+t1.Num2 = 20;
+t1.Exibir();
+
+Teste t2 = new Teste();
+t2.Num1 = 88;
+t2.Num2 = 99;
+t2.Exibir();
+
+
+public class Teste
+{
+    public int Num1;
+    public int Num2;
+
+    public void PassarParametro(Teste t)
+    {
+        Console.WriteLine($"\n this={this}");
+        Console.WriteLine("Num1: "+ t.Num1);
+        Console.WriteLine("Num2:" + t.Num2);
+    }
+
+    public void Exibir()
+    {
+        PassarParametro(this);    
+    }
+
+}
+
+
+-- Usos comuns da palavra-chave this
+ 
+
+Invocar outro construtor da mesma classe
+
+no codigo abaixo caso seja passado apenas um valor ele ira mostrar apenas o valor inserido e ira mostrar dois parametros setados por padrão no construtor
+
+exemplo:
+
+TesteNum t1 = new TesteNum(10);
+
+public class TesteNum
+{
+    public TesteNum(int num1, int num2)
+    {
+        Console.WriteLine($"\nConstrutor com dois parâmetros {num1} e {num2}");
+    }
+
+    public TesteNum(int num): this(777,888)
+    {
+        Console.WriteLine("\n Construtor com um parâmetro " + num);
+
+    }
+}
+
+
+saida:
+
+Construtor com dois parâmetros 777 e 888
+
+Construtor com um parâmetro 10
+
+
+
+
+
+
+
+
+
+
+
+
+# -- Métodos com retorno
+
+
+Os métodos podem retonar um valor para o chamador
+
+se não houver um void , o método poderá retonar um valor usando a instrução return
+
+
+return funciona apenas se o valor corresponder com o tipo do retorno, então esse valor sera retonarnado ao chamador do metodo
+
+
+
+ex:
+
+tipo de retorno = int
+
+nome metodo = Somar
+
+Modificador de acesso -->	public int Somar (int n1, int n2)
+					{
+						int soma = n1 + n2;
+						return soma;
+					}
+
+
+
+
+
+ex:
+
+
+Calculadora calc = new();
+
+Console.WriteLine($"{calc.Somar(10,10)}");
+Console.WriteLine($"{calc.Subtrair(20,10)}");
+Console.WriteLine($"{calc.Multiplicar(2,10)}");
+Console.WriteLine($"{calc.Dividir(50,10)}");
+
+public class Calculadora
+{
+    public int Somar(int n1, int n2)
+    {
+        return n1 + n2;
+    }
+    public int Subtrair(int n1, int n2)
+    {
+        return n1 - n2;
+    }
+    public int Multiplicar(int n1, int n2)
+    {
+        return n1 * n2;
+    }
+    public int Dividir(int n1, int n2)
+    {
+        return n1 / n2;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+# -- Sobrecarga de métodos
+
+
+
+Assinatura do método é uma identificação exclusiva de um método para o compilador c#
+
+Formação assinatura método:
+
+- Nome do método
+
+- O número de parâmetros
+
+- O tipo dos parâmetros
+
+- A ordem dos parâmetros
+
+
+o tipo de retorno de um método não faz parte da assinatura do método
+
+não é possível ter dois métodos com a mesma assinatura
+
+
+
+Sobrecarga de métodos --> realização operações em tipos diferentes de dados, em operações que variam
+
+ex:
+
+public class Calculadora
+{
+    public int Somar(int n1, int n2)
+    {
+        return n1 + n2;
+    }
+    public int Somar(int n1, int n2, int n3)
+    {
+        return n1 + n2 + n3;    
+    }
+    public double Somar(double d1, double d2) 
+    {
+        return d1 + d2; 
+    }
+    public double Somar (int n1, double d2)
+    {
+        return n1 + d2;
+    }
+}
+
+todos esses metodos tem assinaturas diferentes pois não acertam de maneira total os requisitos para formação de assinatura de método
+
+
+
+
+
+
+
+
+
+# -- Exemplo pratico 1:
+
+
+Cadastro cadastro = new();
+
+var cliente = cadastro.Registrar();
+cadastro.ExibirDados(cliente);
+
+//alternar renda
+cadastro.Registrar(cliente);
+cadastro.ExibirDados("Renda Alterada", cliente);
+
+
+
+
+//mostrar
+
+Console.ReadKey();
+public class Cliente
+{
+    public string? Nome;
+    public int Idade;
+    public decimal Renda;
+
+    public Cliente(string? nome, int idade, decimal renda)
+    {
+        Nome = nome;
+        Idade = idade;
+        Renda = renda;
+    }
+
+    public Cliente()
+    { }
+}
+public class Cadastro
+{
+    public Cliente Registrar()
+    {
+        Cliente  cliente = new Cliente("Maria",23,3000);
+        return cliente;
+    }
+
+    public Cliente Registrar(Cliente cliente)
+    {
+        cliente.Renda = 3500;
+        return cliente;
+    }
+
+    public void ExibirDados(Cliente cliente)
+    {
+        Console.WriteLine($"{cliente.Nome} {cliente.Idade} {cliente.Renda.ToString("c")} ");
+
+    }
+    public void ExibirDados(string texto,Cliente cliente)
+    {
+        Console.Write($"\n {texto}\t");
+        Console.Write($"{cliente.Nome}  {cliente.Renda.ToString("c")} ");
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+# -- Passagem de argumentos por valor e referência
+
+
+1 - Passagem de argumento por valor (padrão)
+
+Um cópia do valor do argumento é feita  e passada para o parâmetro do método chamado
+
+As alterações na cópia não afetam o valor da variaável original no chamador
+
+Descomplicado = É feita um copia do valor do argumento no parametro do método, as alteraçoes feitas no parametro dentro do método não tem efeito no argumento
+
+
+
+ex:
+
+int x = 20;
+Console.WriteLine("\n Valor do argumento x antes de passar por valor : " + x);
+Console.WriteLine("\n--------------------------------------");
+
+Calculo calc = new();
+calc.Dobrar(x);
+
+Console.WriteLine("\n Valor do argumento x depois de passar por valor : " + x);
+Console.WriteLine("\n--------------------------------------");
+public class Calculo
+{
+    public void Dobrar(int y)
+    {
+        y *= 2;
+        Console.WriteLine("\nValor do parâmetro y no método Dobrar " + y);
+    }
+}
+
+
+
+saida:
+
+do Argumentos por Valor e por Referência
+
+ Valor do argumento x antes de passar por valor : 20
+
+--------------------------------------
+
+Valor do parâmetro y no método Dobrar 40
+
+ Valor do argumento x depois de passar por valor : 20
+
+
+
+
+2 - Passagem de argumento por referência ref 
+
+Passa a referência ao mesmo local de memória dos argumentos para os parâmetros;
+nenhuma cópia é passada.
+
+O chamador dá ao método a capacidade de acessar e modificar a variável original do chamador
+(passa o acesso á variável para o método)
+
+Para fazer isso podemos usar as palavras chave ref e out
+
+
+Descomplicado = É feita uma copia da referencia  ao local de memória do argumento no parametro , as alterações feitas no parametro afetam o argumento
+
+
+
+ex:
+
+int x = 20;
+Console.WriteLine("\n Valor do argumento x antes de passar por valor : " + x);
+Console.WriteLine("\n--------------------------------------");
+
+Calculo calc = new();
+calc.Dobrar(ref x); // passagem da cópia da referência da memória do argumento x para o parâmetro y
+
+Console.WriteLine("\n Valor do argumento x depois de passar por valor : " + x);
+Console.WriteLine("\n--------------------------------------");
+public class Calculo
+{
+    public void Dobrar(ref int y)
+    {
+        y *= 2; // esse alteração reflete tambem em x pois estamos acessando sua area de memoria
+        Console.WriteLine("\nValor do parâmetro y no método Dobrar " + y);
+    }
+}
+
+
+As alterações feitas no parâmetro afetam o argumento
+
+saida:
+
+Passagem de argumentos por referencia (ref)
+
+ Valor do argumento x antes de passar por valor : 20
+
+--------------------------------------
+
+Valor do parâmetro y no método Dobrar 40
+
+ Valor do argumento x depois de passar por valor : 40
+
+--------------------------------------
+
+
+
+
+
+Recordando:
+
+Variáveis Tipo valor -> contém seus dados diretamente
+
+Variávels do tipo valor = Armazenam valores, se especificar uma variavel do tipo valor em uma chamada de metodo é passado um copia do valor dessa variável para o método
+
+
+Tipo referência -> contém uma referência aos seus dados
+
+Variáveis de tipo de referência = armazenam refências a objetos, portanto as especificar uma variavel do tipo referencia  como um argumento trasmite ao metodo uma copia da referencia que se refere ao objeto
+
+
+
+
+
+
+
+
+
+
+# -- Passagem de argumentos por referência(out)
+
+
+A palavra-chave out faz com que os argumentos sejam passados por referência
+ 
+Devemos usar a palavra-chave out na declaraçao do método e na invocação do método
+
+Váriaveis passadas como argumentos out não precisam ser inicializadas antes de serem passadas em uma chamada de método
+
+No entanto o método chamado deve atribuir um valor ao parâmetro definido com a palavra-chave out antes que o método seja retornado
+
+precisa tanto no argumento como no parametro á -> out <T> nomeVarivel 
+
+Simplificando : posso criar uma variavel em um argumento na chamada no método, e passar esse argumento com o mesmo type para o parmetro do chamador, com isso eu posso atribuir essa variavel e passar seu valor pra fora do método
+
+a variavel tera seu valor compartilhado pois foi declarada como out que faz parte de argumentos de referencia
+
+
+Console.WriteLine("Informe o raio do círculo");
+double raio = Convert.ToDouble(Console.ReadLine());
+Circulo c1 = new Circulo();
+double circ = c1.CalculaAreaPerimetro(raio, out double area);
+Console.WriteLine($"Área:{area.ToString("0.###")} - Perimetro:{circ.ToString("0.###")}");
+
+public class Circulo
+{
+    public double CalculaAreaPerimetro(double raio, out double area)
+    {
+        area = Math.PI * Math.Pow(raio,2);
+        double perimetro = 2 * Math.PI * raio;
+        return perimetro;
+    }
+}
+
+
+
+
+
+
+# -- Argumentos nomeados
+
+
+Um parâmetro  = representa um valor que o método espera receber quando for chamado. A declaração do método define os seus parâmetros
+
+ex:
+	public int Somar(int n1, int n2)
+	{
+		return n1 + n2;
+	}
+ 
+Argumentos = representa o valor que você passa para um parâmetro de método quando você chama o método
+	
+	var valor = calc.Somar(10,10);
+
+
+
+
+
+Argumentos nomeados = Permitem que você especifique um argumento para um parâmetro correspodendo o argumento com seu nome em vez de com sua posição na lista de parâmetros
+
+Retira a necessiade de combinar a ordem de argumentos com parametros na chamada no metodo
+
+
+ex :
+
+Email e1 = new Email();
+
+e1.Enviar(assunto: "Reunião Orçamento",destino:"teste@gmail.com",titulo:"Urgente");
+
+public class Email
+{
+    public void Enviar(string destino,string titulo,string assunto)
+    {
+        Console.WriteLine($"{destino},{titulo}:{assunto}");
+    }
+}
+
+
+
+
+
+
+# -- Parâmetros opcionais
+
+
+Permitem definir parâmetros em uma assinatura de método que o chamador do método pode omitir
+
+Cada parâmetro opcionais deve ter um valor padrão, caso não seja  passado um valor o valor  padrão sera atribuido
+
+Parâmetros opcionais são exibidos no final da lista de parâmetros, depois de todos os parâmetros obrigatorios
+
+
+ex:
+
+Console.WriteLine("Informe o destino");
+string? destino = Console.ReadLine();
+
+Console.WriteLine("Informe o titulo");
+string titulo = Console.ReadLine();
+
+Console.WriteLine("Informe o assunto");
+string assunto  = Console.ReadLine();   
+
+
+Email e1 = new Email();
+
+e1.Enviar(destino);
+e1.Enviar(destino, titulo);
+e1.Enviar(destino,titulo,assunto);
+// não posso fazer
+//email.Enviar(destino,,assunto); // causa um error
+//
+e1.Enviar(destino, assunto: assunto); // alternativa
+
+
+Console.ReadKey();
+public class Email
+{
+    public void Enviar(string destino, string titulo = "Titulo Padrão", string assunto = "Assunto Padrão")
+    {
+        Console.WriteLine($"{destino},{titulo} : {assunto}");
+    }
+}
+
+
+
+
+
+
+# -- Métodos Estáticos
+
+
+
+Métodos que não depedem de um objeto ou seja não dependem da criação de uma instância da classe para serem acessados
+
+Pertencem a à classe e não ao objeto
+
+como ele não possui ligação com um objeto, ele não pode usar variáveis de instância, que são variaveis do objeto
+
+Simplificando = Posso acessar os metodos da classe apenas usando o nome da classe, sem precisar instancia-la
+
+
+É definido usando o modificador static na declaração do método
+
+
+sintaxe:
+
+
+public static TipoRetorno NomeMetodo(parâmetros)
+{
+	// instruções
+}
+
+O modificador static pode ser usado em : classes, interfaces, structs,campos,métodos,propriedades,operadores,eventos e construtores
+
+
+ex:
+Console.WriteLine($"{Calculadora.Somar(10, 10)}");
+Console.WriteLine($"{Calculadora.Subtrair(20, 10)}");
+Console.WriteLine($"{Calculadora.Multiplicar(2, 10)}");
+Console.WriteLine($"{Calculadora.Dividir(50, 10)}");
+
+Console.ReadKey();
+public class Calculadora
+{
+    public static int Somar(int n1, int n2)
+    {
+        return n1 + n2;
+    }
+    public static int Subtrair(int n1, int n2)
+    {
+        return n1 - n2;
+    }
+    public static int Multiplicar(int n1, int n2)
+    {
+        return n1 * n2;
+    }
+    public static int Dividir(int n1, int n2)
+    {
+        return n1 / n2;
+    }
+}
+
+
+
+
+
+
+
+
+# -- Membros Estáticos (Campos e propriedades)
+
+
+
+-- Conceito
+
+-- Modificador static
+
+-- Declaração 
+
+-- Uso
+
+É definido usando o membro modificador static
+
+public class Cliente
+{
+	public string? Nome;
+	public int Idade;
+}
+
+
+Um campo estático não pertence ao objeto mas à classe
+
+Um campo(field) estático é compartilhado com todas instâncias da classe e todas as instâncias acessam o mesmo local de memória
+
+
+A a1 = new A();
+a1.x = 10;
+
+A a2 = new A();
+a2.x = 20;
+
+A.y = 30;
+
+public class A
+{
+    public int x;
+    public static int y;
+}
+
+a memoria stack ira armazenar o objeto  a1 , enquanto os dados do objeto ai estarão apontando para a memoria heap
+da mesmo forma forma para o a2
+stack  heap
+a1   --> a1 = [
+		x:10
+	     y
+		]
+	     y:30	
+
+o campo estatico sera armazenado separadamente das instancias da classe na memoria heap, 
+como o campo y é estatico as instacias irão compartilhar o mesmo local de memoria do campo y
+
+
+
+
+
+
+
+
+# -- Construtor estatico
+
+
+
+Um construtor é usado para inicilizar quaisquer membros estaticos ou para executar um ação especifica que precisa ser executada apenas uma vez
+
+Ele é chamado automaticamente(uma unica vez) antes que a primeira instância seja criada ou que quaisquer membros estáticos sejam referenciados
+
+
+# -- Construtor estático : propriedades
+
+Um construtor estático não usa modificadores de acesso nem tem parâmetros.
+
+Um classe ou struct só pode ter um unico construtor estático
+
+Um construtor estático não pode ser chamado diretamente
+
+O usuário não tem controle sobre quando o construtor estático é executado no programa
+
+Se não houver um construtor estático para inicializar campos estáticos, todos os campos estático serão inicializados com valor padrão
+
+Se um construtor estático gerar uma exceção, o runtime não o chamara uma segunda vez, e o membro estático permanecera não inicializado durante o tempo de vida do aplicativo
+
+
+
+sintaxe:
+
+Bastar criar um construtor sem parâmetros usando a palavra-chave static
+
+class MinhaClasse
+{
+   // construtor estático
+   static MinhaClasse()
+   {
+   //Código
+   }
+
+}
+
+
+Podemos ter outros construtores na classe/struc além do construtor estático
+
+
+
+
+# -- Propriedades 
+
+Uma proprieadade é um membro da classe que fornece  um mecanismo para ler,gravar ou calcular o valor de um campo privado
+
+As propriedades podem ser usadas como dados publicos , porem com seus proprios acessadores especiais
+
+Expõe a classe publicamente, porem não deixa acessar o codigo de implementação ou verificação
+
+
+
+- Propriedade sintaxe
+
+sintaxe:
+
+public class Pessoa
+{
+  private string nome;
+  public string Nome
+  {
+  	get{return nome;}
+  	set{nome = value;}
+  }
+
+}
+
+
+sintaxe simples:
+
+public class Pessoa
+{
+	public string Nome {get;set;}
+}
+
+
+
+Campos X Propriedades
+
+public class Cliente
+{
+    public string? Nome;
+    public int Idade;
+    
+    public Cliente(string? nome,int idade)
+    {
+    		Nome = nome;
+    		Idade = idade;
+    }
+}
+
+
+- Usando campos públicos
+
+ Permite o acesso ao campo para quem instanciar a classe mas sem acesso a atribuição dos dados, apenas a inicialização
+ 
+ Os campos expõem o estado de um objeto da classe ao mundo exterior
+ 
+--- 
+ 
+- Proriedades
+
+public class Cliente
+{
+ public string? Nome {get;set;}
+ public int Idade {get;set;}
+ 
+ public Cliente(string? nome, int idade)
+ {
+ 	Nome = nome;
+ 	Idade = idade;
+ }
+}
+
+- Usando propriedades públicas
+
+Usa um campo de apoio privado para definir e recuperar o valor da propriedade
+
+O acessador get retorna o valor do campo privado
+
+O acessador set pode realizar alguma validação de dados antes de atribuir um valor ao campo privado
+
+simpli : as propriedades possuem meios de controlar acesso ao campo privado e realizar validação sobre a atribuição dos dados
+
+
+public string? Nome{ get;} --> somente leitura
+public int Idade {get;set;} --> leitura e gravação
+
+
+Diferença propriedade e campo -> enquanto o campo eu posso apenas atribuir os valores, nas propriedades eu posso restringir,acessar  e validar os valores
+
+-- propriedades : vantagens 
+
+Permitem um melhor controle dos membros da classe 
+
+Escolha de acessadores
+
+Mais flexiveis podendo alterar o codigo sem afetar outras partes
+
+Maior seguraça dos dados permitindo controlar o acesso
+
+
+
+# -- Exercicio propriedades :
+
+
+public class Produto
+{
+    private string? nome; --> campo de apoio
+    public string? Nome 
+    { 
+        get {return nome?.ToUpper();}
+        set {nome = value;}
+    }
+    private double preco; --> campo de apoio
+    public double Preco 
+    { 
+        get { return preco; }
+        set 
+        {
+            if (value < 5.00)
+            {
+                preco = 5.00;
+            }
+            else
+            {
+                preco = value;
+            }
+        }
+    }
+    private double desconto = 0.25; --> campo de apoio
+    public double Desconto { get { return desconto; } }
+
+    public double PrecoFinal {
+        get { return preco - preco * desconto;}
+    }
+    private int estoqueminimo; --> campo de apoio
+    public int EstoqueMinimo {
+            set { estoqueminimo = value; } 
+    }
+
+    public void Exibir()
+    {
+        Console.WriteLine(
+            $"{Nome}\n{Preco.ToString("c")}\n{Desconto * 100}%" +
+            $"\n{PrecoFinal.ToString("c")}\n{estoqueminimo}"
+            );
+    }
+
+}
+
+campo de apoio = serve para quando eu quiser trabalhar com set
+
+campo de apoio = podem ser acessados por toda classe e pelos acessadores especiais
+
+
+
+
+
+
+# -- Struct
+
+Um tipo de dado composto por outros tipos de dados(semelhante a uma classe)
+
+Uma struct pode conter campos,propriedades,construdores,metodos,constantes,indexados,operadores e mesmo outro tipos de estruturas.
+
+Diferença:
+
+Struct é do tipo valor(stack) enquanto  a classe é do tipo de referencia(heap). 
+
+Em atribuições a struct fara a copia de seus dados na stack, enquanto em classe ocorrera uma sobreposição dos dados na heap
+
+struct - sintaxe
+
+struct<nome_do_tipo>
+{
+   //membros:campos,propriedades,métodos,construdor e etc.
+}
+
+struct Pessoa
+{
+    public string Nome;
+    public string Idade { get; set; }
+
+    public void Exibir()
+    {
+        Console.WriteLine("Struct");
+    }
+}
+
+
+
+-- Quando usar structs
+
+Considere definir um struct em vez de uma classe se as instâncias do tipo forem pequenas e normalmente de curta duração ou se forem comumente incorporadas em outros objetos
+
+
+
+
+
+
+# -- Enum
+
+
+
+Enum ou Enumeration é um tipo de dados especial definido pelo usuário
+
+Enum é tipo valor (stack)
+
+enum é um "classe especial" que é definida por um conjunto de constantes nomeadas do tipo numérico
+
+enum ajuda a tornar o programa mais fácil de entender e manter
+
+Uma enumeração é definida usando a palavra-chave enum, diretamente dentro de um namespace, classe ou struct, e todos os nomes das constantes podem ser declarados e separados por virgula
+
+
+
+enum DiasDaSemana
+{
+    Segunda,
+    Terca,
+    Quarta,
+    Quinta,
+    Sexta,
+    Sabado,
+    Domingo
+}
+
+enum Categorias
+{
+    Moda,
+    Automotivo,
+    Artes,
+    Bebidas,
+    Livros,
+    Brinquedos
+}
+enum CodigoErro
+{
+    Nenhum = 0,
+    Desconhecido = 1,
+    ConexaoFalhou = 100,
+    DadosInvalidos = 200
+}
+
+
+Por padrão , os valores associados ao membros de uma enum são do tipo int;
+
+O primeiro membro de um enum tem o valor 0 e o valor de cada membro seguinte é incrementado de 1. (quando nenhum valor for atribuido)
+
+
+ex:
+
+enum Categorias --> não possui atribuições
+{
+    Moda, --> 0
+    Automotivo, --> 1
+    Artes, --> 2
+    Bebidas, --> 3
+    Livros, --> 4
+    Brinquedos --> 5
+}
+
+
+Podemos atribuir valores diferentes aos membros de uma enum
+
+Uma alteração no valor padrão de um nembro enum atribuira automaticamente valores incrementais aos outros membros sequencialmente
+
+
+enum Categorias
+{
+Moda, //0
+Automotivo, //1
+Artes = 5,
+Bebidas,//6
+Livros,//7
+Brinquedos //8
+}
+
+Podemos atribuir valores diferentes a cada membro do enum
+
+
+enum Categorias
+{
+Moda = 1,
+Automotivo = 5,
+Artes = 6,
+Bebidas = 10,
+Livros = 12,
+Brinquedos = 15
+}
+
+
+
+
+
+
+enum Categorias
+{
+    Moda, --> 0
+    Automotivo, --> 1
+    Artes, --> 2
+    Bebidas, --> 3
+    Livros, --> 4
+    Brinquedos --> 5
+}
+
+Um enum pode ser acessado usando a sintaxe de ponto : nome_enum.membro
+
+
+
+ex:
+
+Console.WriteLine(Categorias.Moda); ---> exibe o nome da constante
+
+Acessar valor da constante no enum, conversão do valor membro do enum para o seu tipo numerico é preciso realizar conversão forçada cast
+
+
+int dia = (int)DiasDaSemana.Quarta;
+Console.WriteLine(DiasDaSemana.Quarta);
+Console.WriteLine($"Dias da semana Quarta vale:{dia}");
+
+
+
+
+Enum - Acesso
+
+o enum pode ser qualquer tipo de dado numerico : byte,sbyte,short,ushort,int,uint,long ou ulong
+
+Para definir o tipo basta informar o nome do tipo após o nome do enum
+
+enum DiasDaSemana : byte
+{
+    Segunda,
+    Terca,
+    Quarta,
+    Quinta,
+    Sexta,
+    Sabado,
+    Domingo
+}
+
+acessando valor
+
+byte dia = (byte)DiasDaSemana.Quarta;
+Console.WriteLine($"Dias da semana Quarta vale:{dia}");
+
+
+
+
+
+
+Exemplo utilização enum:
+
+
+
+namespace _18Enumeration;
+
+        enum Categorias
+        {
+            Moda,
+            Automotivo,
+            Artes,
+            Bebidas,
+            Brinquedos
+        }
+        enum DiasDaSemana
+        {
+            Segunda,
+            Terça,
+            Quarta,
+            Quinta,
+            Sexta,
+            Sabado,
+            Domingo
+        }
+    
+
+--------
+
+// See https://aka.ms/new-console-template for more information
+
+using _18Enumeration;
+
+
+Console.WriteLine("## Enum ## \n");
+
+foreach (var category in Enum.GetValues(typeof(Categorias))){---> maneira de exibir os nomes e seus valores no enum
+    Console.WriteLine($"Nome:{category},Valor:{(int)category}");
+}
+Console.WriteLine("\nSelecione a Categoria teclando o seu valor");
+int valor = Convert.ToInt32(Console.ReadLine());
+
+var nomeMembroEnum = (Categorias)valor; --> acessar o nome em um enum
+Console.WriteLine($"\n Voce Selecionou a categoria : {nomeMembroEnum.ToString()}");
+
+Console.WriteLine(DiasDaSemana.Domingo);
+Console.WriteLine(DiasDaSemana.Terça);
+
+int dia1 = (int)DiasDaSemana.Domingo; --> acessar o valor do enum
+int dia2 = (int)DiasDaSemana.Terça;
+
+Console.WriteLine($"\n {DiasDaSemana.Domingo} vale : {dia1}");
+Console.WriteLine($"\n {DiasDaSemana.Terça} vale : {dia2}");
+Console.ReadKey();
+
+
+
+
+
+
+
+
+# -- Modificadores de acesso
+
+
+Os modificadores de acesso são palavras-chave usadas para especificar o acesso de um membro(campo,propriedade,método,etc.) ou de um tipo (classe,struct,etc.)
+
+
+public, private , internal , protected , file
+
+
+public --> codigo pode ser acessado no mesmo assembly ou outro assembly que faz referencia a ele
+
+private --> o tipo ou membro pode ser acessado pelo codigo apenas se estiver na mesma classe ou struct
+
+internal --> o tipo ou membro pode ser acessado por qualquer codigo no mesmo assembly, mas não em outro assembly
+
+protected --> o tipo ou membro pode ser acessado por qualquer codigo no assembly que ele esta declarado ou uma classe derivada de outro assembly
+
+file --> restringe a visibilidade de um tipo de nível superior ao arquivo no qual ele for declarado
+
+
+			  (Na própria classe(x))   (Subclasses no Assembly)    (Classes(x) do Assembly)  (Sublasses Fora do assembly)  (Classes(x) fora do assembly)
+
+public 			            x			    x                             x                         x                              x
+
+protected internal                  x			    x	                          x                         x
+	
+internal 			    x 			    x		                  x
+
+protected                           x 			    x	                                                    x
+	
+private protected                   x                       x
+
+private                             x
+
+
+
+Subclasse - É a classe derivada , a classe filha que foi herdada da classe pai
+
+Assembly - É o arquivo .exe ou .dll gerado pela sua aplicação .NET em cada projeto da solução
+
+Classe(x),Classes(x) - Classe ou Struct
+
+
+
+
+
+
+
+
+
+# -- Bloco Try-Catch
+
+
+Uma exceção é uma violação de uma condição que não foi especificada que ocorre em tempo de execução do codigo
+
+Se o programa não fornecer o código para tratar uma exceção, o sistema vai parar a execução do programa com uma mensagem de erro(lançar um exceção)
+
+
+Console.WriteLine("\n Informe o valor de x");
+int x = Convert.ToInt32(Console.ReadLine());
+
+Console.WriteLine("\n Informe o valor de y");
+int y = Convert.ToInt32(Console.ReadLine());
+
+int z = x / y;
+
+Console.WriteLine($"\n {x} / {y} = {z}");
+
+error  --> Unhandled exception. System.DivideByZeroException: Attempted to divide by zero.
+
+Desta forma exceções que podem ocorrer em um aplicativo devem ser tratadas para evitar travamentos e resultados inesperados e continuar a execução do código quando isso for possivel
+
+
+
+
+-- Para lidar com exceções a linguagem c# fornece o suporte interno através do uso do bloco:
+
+
+try{
+	// código que vai ser executado e
+	// que pode gerar uma exceção
+}
+catch
+{
+	//se ocorrer um erro será tratado aqui
+}
+
+
+A instrução try catch consiste em um bloco try seguido por uma ou mais clausulas catch, que se especificam manipuladores para diferentes exceções
+
+CLR(common languagem runtime) vai procurar o catch para tratar a exceção
+
+
+
+
+ -- Tratamento de exceção: bloco try-catch-finally
+
+finaly --> sempre será executado usado para liberar recursos  usado do programa ou realizar outra tarefa
+
+try{
+	// código que vai ser executado e
+	// que pode gerar uma exceção
+}
+catch
+{
+	//se ocorrer um erro será tratado aqui
+}
+finally
+{
+  //código para liberar recursos
+}
+
+
+Tendo sido lançado ou não uma exceção o bloco finally será executado
+
+
+
+
+
+-- Tratamento de exceção : Propriedades da exceção(Exception)
+
+Uma exceção contém diversas propriedades somente leitura que mostram informações sobre a exceção que causou erro.
+
+Abaixo temos as principais:
+
+Propriedade        Tipo             Descrição
+
+Message 	  String	  Contém uma mensagem de erro explicando a causa da exceção
+
+StackTrace        String          Contém a informação que descreve aonde a exceção ocorreu
+
+InnerException 	  Exception  	  Se a exceção foi lançada por outra exceção, esta propriedade contém a referencia da antiga exceção
+
+
+
+
+ex:
+
+
+Console.WriteLine("\n Informe o valor de x");
+int x = Convert.ToInt32(Console.ReadLine());
+
+Console.WriteLine("\n Informe o valor de y");
+int y = Convert.ToInt32(Console.ReadLine());
+
+try
+{
+    int z = x / y;
+    Console.WriteLine($"\n {x} / {y} = {z}");
+}
+catch(Exception ex)
+{
+
+    Console.WriteLine("\n Não existe divisão por zero, tente outro número....");
+    Console.WriteLine($"\n Erro: <<< {ex.Message}");
+    Console.WriteLine($"\n Localização: <<< {ex?.StackTrace?.ToString()}");
+    Console.WriteLine($"\n Ref: <<<{ex?.InnerException?.ToString()}");
+}
+
+finally
+{
+    Console.WriteLine("\nProcessamento concluido....");
+}
+Console.ReadKey();
+
+
+
+
+
+
+
+# -- Tipos Anõnimos
+
+
+Um tipo anônimo é um tipo(classe) sem nenhum nome que pode conter apenas propriedades públicas somente leitura
+
+
+Os tipos anônimos fornecem uma maneira coveniente para encapsular um conjunto de propriedades somente leitura em um único objeto sem precisar primeiro definir explicitamente um tipo
+
+o nome do tipo é gerado pelo compilador e não está disponível no código-fonte e o tipo de cada propriedade é inferido pelo compilador
+
+
+Um tipo anonimo é inicializado utilizando o operador new, seguindo com um inicializador de objetos
+
+deve-se usar a palavra-chave var para recuperar a referencia
+
+todas as propriedades do tipo anonimo são apenas para leitura
+
+var aluno = new
+{
+	Nome = "Maria",
+	Idade = 42
+}
+
+Console.WriteLine(aluno.Nome + " - " + aluno.Idade + " anos");
+
+Console.WriteLine(aluno.GetType().ToString()); --> retornar os tipos em um tipo anonimo
+
+
+
+	
+-- posso criar outros tipos anonimos dentro de um tipo anonimo
+
+
+var aluno2 = new
+{
+    Id = 1,
+    Nome = "Jairo",
+    Email = "jairo@email.com",
+    Endereco = new {Id = 1, Cidade = "Santos", Pais = "Brasil"}
+};
+Console.WriteLine(aluno2.Endereco.Cidade);
+
+
+
+-- posso criar array de tipos anonimos
+
+
+var alunos = new[]
+{
+        new {Id = 1, Cidade = "Maria", Email = "maria@email.com"},
+        new {Id = 2, Cidade = "Sonia", Email = "sonia@email.com"},
+        new {Id = 3, Cidade = "Bruno", Email = "bruno@email.com"}
+
+};
+Console.WriteLine(alunos.GetType().ToString());
+Console.WriteLine(alunos[0].Email);
+
+
+
+
+
+
+# -- Tipos anônimos: caracteristicas
+
+
+São os tipos de referencia que derivam diretamente de Object
+
+Contêm uma ou mais propriedades públicas somente leitura
+
+
+metodos,eventos --> não é valida em um tipo anonimo
+
+expressão usada para inicializar uma propriedade não pode ser nula, uma função anonima ou tipo de ponteiro
+
+se dois ou mais tipos anonimos tiverem o mesmo numero e tipo de propriedades na mesma ordem, o compilador ira tratalos como o mesmo tipo,
+e eles compartilham as mesmas informações de tipo gerado pelo compilador
+
+sempre será local para o método no qual for definido e não pode ser retornado do método --> caso queira colocar o tipo anonimo em um metodo de classe
+
+pode ser passado para outro método como parametro de tipo de objeto, mas isso não é recomendado
+
+
+
+
+# -- Quando usar  tipos anonimos ?
+
+em linq
+
+
+
+
+
+
+# -- Partial Class
+
+
+Partial class -> permite que uma classe venha ser implementada em múltiplos arquivos fisicos com extensão .cs
+
+Desta forma é possivel dividir a definição de uma classe, struct,interface ou método em dois ou mais arquivos de origem
+
+Cada arquivo de origem contém as definições de membros,tipós ou métodos e todas as partes são combinadas quando o aplicativo for compilado  
+
+Podemos criar classes,interfaces, structs e métodos parciais usando o modificador partial
+
+

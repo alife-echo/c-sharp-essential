@@ -1,0 +1,15 @@
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\HerancaConstrutores\bin\Debug\net8.0\HerancaConstrutores.exe
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\HerancaConstrutores\bin\Debug\net8.0\HerancaConstrutores.deps.json
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\HerancaConstrutores\bin\Debug\net8.0\HerancaConstrutores.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\HerancaConstrutores\bin\Debug\net8.0\HerancaConstrutores.dll
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\HerancaConstrutores\bin\Debug\net8.0\HerancaConstrutores.pdb
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\HerancaConstrutores\obj\Debug\net8.0\HerancaConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\HerancaConstrutores\obj\Debug\net8.0\HerancaConstrutores.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\HerancaConstrutores\obj\Debug\net8.0\HerancaConstrutores.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\HerancaConstrutores\obj\Debug\net8.0\HerancaConstrutores.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\HerancaConstrutores\obj\Debug\net8.0\HerancaConstrutores.sourcelink.json
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\HerancaConstrutores\obj\Debug\net8.0\HerancaConstrutores.dll
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\HerancaConstrutores\obj\Debug\net8.0\refint\HerancaConstrutores.dll
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\HerancaConstrutores\obj\Debug\net8.0\HerancaConstrutores.pdb
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\HerancaConstrutores\obj\Debug\net8.0\HerancaConstrutores.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\HerancaConstrutores\obj\Debug\net8.0\ref\HerancaConstrutores.dll
