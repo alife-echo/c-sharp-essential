@@ -1,0 +1,15 @@
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\exercicioHeranca\bin\Debug\net8.0\exercicioHeranca.exe
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\exercicioHeranca\bin\Debug\net8.0\exercicioHeranca.deps.json
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\exercicioHeranca\bin\Debug\net8.0\exercicioHeranca.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\exercicioHeranca\bin\Debug\net8.0\exercicioHeranca.dll
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\exercicioHeranca\bin\Debug\net8.0\exercicioHeranca.pdb
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\exercicioHeranca\obj\Debug\net8.0\exercicioHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\exercicioHeranca\obj\Debug\net8.0\exercicioHeranca.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\exercicioHeranca\obj\Debug\net8.0\exercicioHeranca.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\exercicioHeranca\obj\Debug\net8.0\exercicioHeranca.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\exercicioHeranca\obj\Debug\net8.0\exercicioHeranca.sourcelink.json
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\exercicioHeranca\obj\Debug\net8.0\exercicioHeranca.dll
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\exercicioHeranca\obj\Debug\net8.0\refint\exercicioHeranca.dll
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\exercicioHeranca\obj\Debug\net8.0\exercicioHeranca.pdb
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\exercicioHeranca\obj\Debug\net8.0\exercicioHeranca.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\exercicioHeranca\obj\Debug\net8.0\ref\exercicioHeranca.dll

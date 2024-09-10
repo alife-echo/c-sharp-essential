@@ -1,0 +1,15 @@
+C:\Users\alife\c-sharp-essential\leetCode\palindromeNumber\obj\Debug\net8.0\palindromeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\leetCode\palindromeNumber\obj\Debug\net8.0\palindromeNumber.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\leetCode\palindromeNumber\obj\Debug\net8.0\palindromeNumber.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\leetCode\palindromeNumber\obj\Debug\net8.0\palindromeNumber.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\leetCode\palindromeNumber\obj\Debug\net8.0\palindromeNumber.sourcelink.json
+C:\Users\alife\c-sharp-essential\leetCode\palindromeNumber\bin\Debug\net8.0\palindromeNumber.exe
+C:\Users\alife\c-sharp-essential\leetCode\palindromeNumber\bin\Debug\net8.0\palindromeNumber.deps.json
+C:\Users\alife\c-sharp-essential\leetCode\palindromeNumber\bin\Debug\net8.0\palindromeNumber.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\leetCode\palindromeNumber\bin\Debug\net8.0\palindromeNumber.dll
+C:\Users\alife\c-sharp-essential\leetCode\palindromeNumber\bin\Debug\net8.0\palindromeNumber.pdb
+C:\Users\alife\c-sharp-essential\leetCode\palindromeNumber\obj\Debug\net8.0\palindromeNumber.dll
+C:\Users\alife\c-sharp-essential\leetCode\palindromeNumber\obj\Debug\net8.0\refint\palindromeNumber.dll
+C:\Users\alife\c-sharp-essential\leetCode\palindromeNumber\obj\Debug\net8.0\palindromeNumber.pdb
+C:\Users\alife\c-sharp-essential\leetCode\palindromeNumber\obj\Debug\net8.0\palindromeNumber.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\leetCode\palindromeNumber\obj\Debug\net8.0\ref\palindromeNumber.dll
