@@ -1,0 +1,15 @@
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\downcastingANDupcasting\bin\Debug\net8.0\downcastingANDupcasting.exe
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\downcastingANDupcasting\bin\Debug\net8.0\downcastingANDupcasting.deps.json
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\downcastingANDupcasting\bin\Debug\net8.0\downcastingANDupcasting.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\downcastingANDupcasting\bin\Debug\net8.0\downcastingANDupcasting.dll
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\downcastingANDupcasting\bin\Debug\net8.0\downcastingANDupcasting.pdb
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\downcastingANDupcasting\obj\Debug\net8.0\downcastingANDupcasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\downcastingANDupcasting\obj\Debug\net8.0\downcastingANDupcasting.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\downcastingANDupcasting\obj\Debug\net8.0\downcastingANDupcasting.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\downcastingANDupcasting\obj\Debug\net8.0\downcastingANDupcasting.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\downcastingANDupcasting\obj\Debug\net8.0\downcastingANDupcasting.sourcelink.json
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\downcastingANDupcasting\obj\Debug\net8.0\downcastingANDupcasting.dll
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\downcastingANDupcasting\obj\Debug\net8.0\refint\downcastingANDupcasting.dll
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\downcastingANDupcasting\obj\Debug\net8.0\downcastingANDupcasting.pdb
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\downcastingANDupcasting\obj\Debug\net8.0\downcastingANDupcasting.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\downcastingANDupcasting\obj\Debug\net8.0\ref\downcastingANDupcasting.dll

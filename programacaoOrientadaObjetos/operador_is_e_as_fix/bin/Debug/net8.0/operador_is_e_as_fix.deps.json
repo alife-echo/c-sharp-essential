@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "operador_is_e_as_fix/1.0.0": {
+        "runtime": {
+          "operador_is_e_as_fix.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "operador_is_e_as_fix/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

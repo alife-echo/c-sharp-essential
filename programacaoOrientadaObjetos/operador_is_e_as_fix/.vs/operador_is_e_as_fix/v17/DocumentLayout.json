@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alife\\c-sharp-essential\\programacaoOrientadaObjetos\\operador_is_e_as_fix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{315907BD-CE9E-424E-92F4-22D69C71F8E8}|operador_is_e_as_fix.csproj|c:\\users\\alife\\c-sharp-essential\\programacaoorientadaobjetos\\operador_is_e_as_fix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{315907BD-CE9E-424E-92F4-22D69C71F8E8}|operador_is_e_as_fix.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{315907BD-CE9E-424E-92F4-22D69C71F8E8}|operador_is_e_as_fix.csproj|c:\\users\\alife\\c-sharp-essential\\programacaoorientadaobjetos\\operador_is_e_as_fix\\forma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{315907BD-CE9E-424E-92F4-22D69C71F8E8}|operador_is_e_as_fix.csproj|solutionrelative:forma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{315907BD-CE9E-424E-92F4-22D69C71F8E8}|operador_is_e_as_fix.csproj|c:\\users\\alife\\c-sharp-essential\\programacaoorientadaobjetos\\operador_is_e_as_fix\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{315907BD-CE9E-424E-92F4-22D69C71F8E8}|operador_is_e_as_fix.csproj|solutionrelative:circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circulo.cs",
+              "DocumentMoniker": "C:\\Users\\alife\\c-sharp-essential\\programacaoOrientadaObjetos\\operador_is_e_as_fix\\Circulo.cs",
+              "RelativeDocumentMoniker": "Circulo.cs",
+              "ToolTip": "C:\\Users\\alife\\c-sharp-essential\\programacaoOrientadaObjetos\\operador_is_e_as_fix\\Circulo.cs",
+              "RelativeToolTip": "Circulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T04:01:39.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Forma.cs",
+              "DocumentMoniker": "C:\\Users\\alife\\c-sharp-essential\\programacaoOrientadaObjetos\\operador_is_e_as_fix\\Forma.cs",
+              "RelativeDocumentMoniker": "Forma.cs",
+              "ToolTip": "C:\\Users\\alife\\c-sharp-essential\\programacaoOrientadaObjetos\\operador_is_e_as_fix\\Forma.cs",
+              "RelativeToolTip": "Forma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T04:00:20.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alife\\c-sharp-essential\\programacaoOrientadaObjetos\\operador_is_e_as_fix\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\alife\\c-sharp-essential\\programacaoOrientadaObjetos\\operador_is_e_as_fix\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T03:40:22.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\operador_is_e_as_fix\bin\Debug\net8.0\operador_is_e_as_fix.exe
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\operador_is_e_as_fix\bin\Debug\net8.0\operador_is_e_as_fix.deps.json
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\operador_is_e_as_fix\bin\Debug\net8.0\operador_is_e_as_fix.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\operador_is_e_as_fix\bin\Debug\net8.0\operador_is_e_as_fix.dll
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\operador_is_e_as_fix\bin\Debug\net8.0\operador_is_e_as_fix.pdb
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\operador_is_e_as_fix\obj\Debug\net8.0\operador_is_e_as_fix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\operador_is_e_as_fix\obj\Debug\net8.0\operador_is_e_as_fix.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\operador_is_e_as_fix\obj\Debug\net8.0\operador_is_e_as_fix.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\operador_is_e_as_fix\obj\Debug\net8.0\operador_is_e_as_fix.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\operador_is_e_as_fix\obj\Debug\net8.0\operador_is_e_as_fix.sourcelink.json
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\operador_is_e_as_fix\obj\Debug\net8.0\operador_is_e_as_fix.dll
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\operador_is_e_as_fix\obj\Debug\net8.0\refint\operador_is_e_as_fix.dll
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\operador_is_e_as_fix\obj\Debug\net8.0\operador_is_e_as_fix.pdb
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\operador_is_e_as_fix\obj\Debug\net8.0\operador_is_e_as_fix.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\operador_is_e_as_fix\obj\Debug\net8.0\ref\operador_is_e_as_fix.dll
