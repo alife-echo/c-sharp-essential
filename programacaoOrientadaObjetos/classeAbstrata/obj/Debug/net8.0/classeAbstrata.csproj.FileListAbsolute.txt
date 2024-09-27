@@ -1,0 +1,15 @@
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\classeAbstrata\bin\Debug\net8.0\classeAbstrata.exe
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\classeAbstrata\bin\Debug\net8.0\classeAbstrata.deps.json
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\classeAbstrata\bin\Debug\net8.0\classeAbstrata.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\classeAbstrata\bin\Debug\net8.0\classeAbstrata.dll
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\classeAbstrata\bin\Debug\net8.0\classeAbstrata.pdb
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\classeAbstrata\obj\Debug\net8.0\classeAbstrata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\classeAbstrata\obj\Debug\net8.0\classeAbstrata.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\classeAbstrata\obj\Debug\net8.0\classeAbstrata.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\classeAbstrata\obj\Debug\net8.0\classeAbstrata.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\classeAbstrata\obj\Debug\net8.0\classeAbstrata.sourcelink.json
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\classeAbstrata\obj\Debug\net8.0\classeAbstrata.dll
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\classeAbstrata\obj\Debug\net8.0\refint\classeAbstrata.dll
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\classeAbstrata\obj\Debug\net8.0\classeAbstrata.pdb
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\classeAbstrata\obj\Debug\net8.0\classeAbstrata.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\classeAbstrata\obj\Debug\net8.0\ref\classeAbstrata.dll
