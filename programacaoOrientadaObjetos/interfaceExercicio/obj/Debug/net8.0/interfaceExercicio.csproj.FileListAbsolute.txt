@@ -1,0 +1,15 @@
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\interfaceExercicio\bin\Debug\net8.0\interfaceExercicio.exe
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\interfaceExercicio\bin\Debug\net8.0\interfaceExercicio.deps.json
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\interfaceExercicio\bin\Debug\net8.0\interfaceExercicio.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\interfaceExercicio\bin\Debug\net8.0\interfaceExercicio.dll
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\interfaceExercicio\bin\Debug\net8.0\interfaceExercicio.pdb
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\interfaceExercicio\obj\Debug\net8.0\interfaceExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\interfaceExercicio\obj\Debug\net8.0\interfaceExercicio.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\interfaceExercicio\obj\Debug\net8.0\interfaceExercicio.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\interfaceExercicio\obj\Debug\net8.0\interfaceExercicio.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\interfaceExercicio\obj\Debug\net8.0\interfaceExercicio.sourcelink.json
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\interfaceExercicio\obj\Debug\net8.0\interfaceExercicio.dll
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\interfaceExercicio\obj\Debug\net8.0\refint\interfaceExercicio.dll
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\interfaceExercicio\obj\Debug\net8.0\interfaceExercicio.pdb
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\interfaceExercicio\obj\Debug\net8.0\interfaceExercicio.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\interfaceExercicio\obj\Debug\net8.0\ref\interfaceExercicio.dll
