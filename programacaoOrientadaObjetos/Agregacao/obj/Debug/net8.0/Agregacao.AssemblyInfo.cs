@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Agregacao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41dc4f068ce7b007915cd5601208e5db1401637b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8093d5630faa1f0bf2fdae6583e32efa45263267")]
 [assembly: System.Reflection.AssemblyProductAttribute("Agregacao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Agregacao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

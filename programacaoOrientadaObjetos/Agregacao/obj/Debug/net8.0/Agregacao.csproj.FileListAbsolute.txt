@@ -1,0 +1,15 @@
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\Agregacao\bin\Debug\net8.0\Agregacao.exe
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\Agregacao\bin\Debug\net8.0\Agregacao.deps.json
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\Agregacao\bin\Debug\net8.0\Agregacao.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\Agregacao\bin\Debug\net8.0\Agregacao.dll
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\Agregacao\bin\Debug\net8.0\Agregacao.pdb
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\Agregacao\obj\Debug\net8.0\Agregacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\Agregacao\obj\Debug\net8.0\Agregacao.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\Agregacao\obj\Debug\net8.0\Agregacao.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\Agregacao\obj\Debug\net8.0\Agregacao.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\Agregacao\obj\Debug\net8.0\Agregacao.sourcelink.json
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\Agregacao\obj\Debug\net8.0\Agregacao.dll
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\Agregacao\obj\Debug\net8.0\refint\Agregacao.dll
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\Agregacao\obj\Debug\net8.0\Agregacao.pdb
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\Agregacao\obj\Debug\net8.0\Agregacao.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\Agregacao\obj\Debug\net8.0\ref\Agregacao.dll

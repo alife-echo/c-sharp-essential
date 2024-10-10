@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\alife\\c-sharp-essential\\programacaoOrientadaObjetos\\Agregacao\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C3F6BCBC-9C0C-4341-AFDD-2DBA6831B938}|Agregacao.csproj|c:\\users\\alife\\c-sharp-essential\\programacaoorientadaobjetos\\agregacao\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3F6BCBC-9C0C-4341-AFDD-2DBA6831B938}|Agregacao.csproj|solutionrelative:departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6BCBC-9C0C-4341-AFDD-2DBA6831B938}|Agregacao.csproj|c:\\users\\alife\\c-sharp-essential\\programacaoorientadaobjetos\\agregacao\\agregacao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C3F6BCBC-9C0C-4341-AFDD-2DBA6831B938}|Agregacao.csproj|solutionrelative:agregacao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6BCBC-9C0C-4341-AFDD-2DBA6831B938}|Agregacao.csproj|c:\\users\\alife\\c-sharp-essential\\programacaoorientadaobjetos\\agregacao\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3F6BCBC-9C0C-4341-AFDD-2DBA6831B938}|Agregacao.csproj|solutionrelative:professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C3F6BCBC-9C0C-4341-AFDD-2DBA6831B938}|Agregacao.csproj|c:\\users\\alife\\c-sharp-essential\\programacaoorientadaobjetos\\agregacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3F6BCBC-9C0C-4341-AFDD-2DBA6831B938}|Agregacao.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6BCBC-9C0C-4341-AFDD-2DBA6831B938}|Agregacao.csproj|c:\\users\\alife\\c-sharp-essential\\programacaoorientadaobjetos\\agregacao\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{C3F6BCBC-9C0C-4341-AFDD-2DBA6831B938}|Agregacao.csproj|solutionrelative:classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,24 +30,75 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\alife\\c-sharp-essential\\programacaoOrientadaObjetos\\Agregacao\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\alife\\c-sharp-essential\\programacaoOrientadaObjetos\\Agregacao\\ClassDiagram1.cd",
+              "RelativeToolTip": "ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-10-10T21:48:35.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Agregacao",
+              "DocumentMoniker": "C:\\Users\\alife\\c-sharp-essential\\programacaoOrientadaObjetos\\Agregacao\\Agregacao.csproj",
+              "RelativeDocumentMoniker": "Agregacao.csproj",
+              "ToolTip": "C:\\Users\\alife\\c-sharp-essential\\programacaoOrientadaObjetos\\Agregacao\\Agregacao.csproj",
+              "RelativeToolTip": "Agregacao.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-10T21:43:27.527Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "C:\\Users\\alife\\c-sharp-essential\\programacaoOrientadaObjetos\\Agregacao\\Departamento.cs",
+              "RelativeDocumentMoniker": "Departamento.cs",
+              "ToolTip": "C:\\Users\\alife\\c-sharp-essential\\programacaoOrientadaObjetos\\Agregacao\\Departamento.cs",
+              "RelativeToolTip": "Departamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T21:35:25.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "C:\\Users\\alife\\c-sharp-essential\\programacaoOrientadaObjetos\\Agregacao\\Professor.cs",
+              "RelativeDocumentMoniker": "Professor.cs",
+              "ToolTip": "C:\\Users\\alife\\c-sharp-essential\\programacaoOrientadaObjetos\\Agregacao\\Professor.cs",
+              "RelativeToolTip": "Professor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T21:33:10.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\alife\\c-sharp-essential\\programacaoOrientadaObjetos\\Agregacao\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\alife\\c-sharp-essential\\programacaoOrientadaObjetos\\Agregacao\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T20:41:21.038Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
