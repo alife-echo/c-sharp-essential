@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alife\\c-sharp-essential\\programacaoOrientadaObjetos\\ExemploHerancaComposicao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84AF2CA2-5554-48E5-AE3E-8689178F9C45}|ExemploHerancaComposicao.csproj|c:\\users\\alife\\c-sharp-essential\\programacaoorientadaobjetos\\exemploherancacomposicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84AF2CA2-5554-48E5-AE3E-8689178F9C45}|ExemploHerancaComposicao.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AF2CA2-5554-48E5-AE3E-8689178F9C45}|ExemploHerancaComposicao.csproj|c:\\users\\alife\\c-sharp-essential\\programacaoorientadaobjetos\\exemploherancacomposicao\\homem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84AF2CA2-5554-48E5-AE3E-8689178F9C45}|ExemploHerancaComposicao.csproj|solutionrelative:homem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AF2CA2-5554-48E5-AE3E-8689178F9C45}|ExemploHerancaComposicao.csproj|c:\\users\\alife\\c-sharp-essential\\programacaoorientadaobjetos\\exemploherancacomposicao\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{84AF2CA2-5554-48E5-AE3E-8689178F9C45}|ExemploHerancaComposicao.csproj|solutionrelative:classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AF2CA2-5554-48E5-AE3E-8689178F9C45}|ExemploHerancaComposicao.csproj|c:\\users\\alife\\c-sharp-essential\\programacaoorientadaobjetos\\exemploherancacomposicao\\macaco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84AF2CA2-5554-48E5-AE3E-8689178F9C45}|ExemploHerancaComposicao.csproj|solutionrelative:macaco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AF2CA2-5554-48E5-AE3E-8689178F9C45}|ExemploHerancaComposicao.csproj|c:\\users\\alife\\c-sharp-essential\\programacaoorientadaobjetos\\exemploherancacomposicao\\sardinha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84AF2CA2-5554-48E5-AE3E-8689178F9C45}|ExemploHerancaComposicao.csproj|solutionrelative:sardinha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AF2CA2-5554-48E5-AE3E-8689178F9C45}|ExemploHerancaComposicao.csproj|c:\\users\\alife\\c-sharp-essential\\programacaoorientadaobjetos\\exemploherancacomposicao\\pe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84AF2CA2-5554-48E5-AE3E-8689178F9C45}|ExemploHerancaComposicao.csproj|solutionrelative:pe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AF2CA2-5554-48E5-AE3E-8689178F9C45}|ExemploHerancaComposicao.csproj|c:\\users\\alife\\c-sharp-essential\\programacaoorientadaobjetos\\exemploherancacomposicao\\nadadeira.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84AF2CA2-5554-48E5-AE3E-8689178F9C45}|ExemploHerancaComposicao.csproj|solutionrelative:nadadeira.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AF2CA2-5554-48E5-AE3E-8689178F9C45}|ExemploHerancaComposicao.csproj|c:\\users\\alife\\c-sharp-essential\\programacaoorientadaobjetos\\exemploherancacomposicao\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84AF2CA2-5554-48E5-AE3E-8689178F9C45}|ExemploHerancaComposicao.csproj|solutionrelative:animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\alife\\c-sharp-essential\\programacaoOrientadaObjetos\\ExemploHerancaComposicao\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\alife\\c-sharp-essential\\programacaoOrientadaObjetos\\ExemploHerancaComposicao\\ClassDiagram1.cd",
+              "RelativeToolTip": "ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-10-11T02:18:15.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sardinha.cs",
+              "DocumentMoniker": "C:\\Users\\alife\\c-sharp-essential\\programacaoOrientadaObjetos\\ExemploHerancaComposicao\\Sardinha.cs",
+              "RelativeDocumentMoniker": "Sardinha.cs",
+              "ToolTip": "C:\\Users\\alife\\c-sharp-essential\\programacaoOrientadaObjetos\\ExemploHerancaComposicao\\Sardinha.cs",
+              "RelativeToolTip": "Sardinha.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T01:59:57.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pe.cs",
+              "DocumentMoniker": "C:\\Users\\alife\\c-sharp-essential\\programacaoOrientadaObjetos\\ExemploHerancaComposicao\\Pe.cs",
+              "RelativeDocumentMoniker": "Pe.cs",
+              "ToolTip": "C:\\Users\\alife\\c-sharp-essential\\programacaoOrientadaObjetos\\ExemploHerancaComposicao\\Pe.cs",
+              "RelativeToolTip": "Pe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T01:53:16.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Macaco.cs",
+              "DocumentMoniker": "C:\\Users\\alife\\c-sharp-essential\\programacaoOrientadaObjetos\\ExemploHerancaComposicao\\Macaco.cs",
+              "RelativeDocumentMoniker": "Macaco.cs",
+              "ToolTip": "C:\\Users\\alife\\c-sharp-essential\\programacaoOrientadaObjetos\\ExemploHerancaComposicao\\Macaco.cs",
+              "RelativeToolTip": "Macaco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T01:44:18.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alife\\c-sharp-essential\\programacaoOrientadaObjetos\\ExemploHerancaComposicao\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\alife\\c-sharp-essential\\programacaoOrientadaObjetos\\ExemploHerancaComposicao\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T01:34:13.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Homem.cs",
+              "DocumentMoniker": "C:\\Users\\alife\\c-sharp-essential\\programacaoOrientadaObjetos\\ExemploHerancaComposicao\\Homem.cs",
+              "RelativeDocumentMoniker": "Homem.cs",
+              "ToolTip": "C:\\Users\\alife\\c-sharp-essential\\programacaoOrientadaObjetos\\ExemploHerancaComposicao\\Homem.cs",
+              "RelativeToolTip": "Homem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T01:38:24.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Nadadeira.cs",
+              "DocumentMoniker": "C:\\Users\\alife\\c-sharp-essential\\programacaoOrientadaObjetos\\ExemploHerancaComposicao\\Nadadeira.cs",
+              "RelativeDocumentMoniker": "Nadadeira.cs",
+              "ToolTip": "C:\\Users\\alife\\c-sharp-essential\\programacaoOrientadaObjetos\\ExemploHerancaComposicao\\Nadadeira.cs",
+              "RelativeToolTip": "Nadadeira.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T02:03:56.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\alife\\c-sharp-essential\\programacaoOrientadaObjetos\\ExemploHerancaComposicao\\Animal.cs",
+              "RelativeDocumentMoniker": "Animal.cs",
+              "ToolTip": "C:\\Users\\alife\\c-sharp-essential\\programacaoOrientadaObjetos\\ExemploHerancaComposicao\\Animal.cs",
+              "RelativeToolTip": "Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T01:35:54.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
