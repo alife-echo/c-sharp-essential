@@ -1,0 +1,15 @@
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\GenericsII\bin\Debug\net8.0\GenericsII.exe
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\GenericsII\bin\Debug\net8.0\GenericsII.deps.json
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\GenericsII\bin\Debug\net8.0\GenericsII.runtimeconfig.json
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\GenericsII\bin\Debug\net8.0\GenericsII.dll
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\GenericsII\bin\Debug\net8.0\GenericsII.pdb
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\GenericsII\obj\Debug\net8.0\GenericsII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\GenericsII\obj\Debug\net8.0\GenericsII.AssemblyInfoInputs.cache
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\GenericsII\obj\Debug\net8.0\GenericsII.AssemblyInfo.cs
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\GenericsII\obj\Debug\net8.0\GenericsII.csproj.CoreCompileInputs.cache
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\GenericsII\obj\Debug\net8.0\GenericsII.sourcelink.json
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\GenericsII\obj\Debug\net8.0\GenericsII.dll
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\GenericsII\obj\Debug\net8.0\refint\GenericsII.dll
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\GenericsII\obj\Debug\net8.0\GenericsII.pdb
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\GenericsII\obj\Debug\net8.0\GenericsII.genruntimeconfig.cache
+C:\Users\alife\c-sharp-essential\programacaoOrientadaObjetos\GenericsII\obj\Debug\net8.0\ref\GenericsII.dll
