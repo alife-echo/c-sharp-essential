@@ -1,0 +1,15 @@
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/GenericsIII/bin/Debug/net8.0/GenericsIII
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/GenericsIII/bin/Debug/net8.0/GenericsIII.deps.json
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/GenericsIII/bin/Debug/net8.0/GenericsIII.runtimeconfig.json
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/GenericsIII/bin/Debug/net8.0/GenericsIII.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/GenericsIII/bin/Debug/net8.0/GenericsIII.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/GenericsIII/obj/Debug/net8.0/GenericsIII.GeneratedMSBuildEditorConfig.editorconfig
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/GenericsIII/obj/Debug/net8.0/GenericsIII.AssemblyInfoInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/GenericsIII/obj/Debug/net8.0/GenericsIII.AssemblyInfo.cs
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/GenericsIII/obj/Debug/net8.0/GenericsIII.csproj.CoreCompileInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/GenericsIII/obj/Debug/net8.0/GenericsIII.sourcelink.json
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/GenericsIII/obj/Debug/net8.0/GenericsIII.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/GenericsIII/obj/Debug/net8.0/refint/GenericsIII.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/GenericsIII/obj/Debug/net8.0/GenericsIII.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/GenericsIII/obj/Debug/net8.0/GenericsIII.genruntimeconfig.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/GenericsIII/obj/Debug/net8.0/ref/GenericsIII.dll
