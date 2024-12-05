@@ -1,0 +1,15 @@
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/DictionaryII/bin/Debug/net8.0/DictionaryII
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/DictionaryII/bin/Debug/net8.0/DictionaryII.deps.json
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/DictionaryII/bin/Debug/net8.0/DictionaryII.runtimeconfig.json
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/DictionaryII/bin/Debug/net8.0/DictionaryII.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/DictionaryII/bin/Debug/net8.0/DictionaryII.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/DictionaryII/obj/Debug/net8.0/DictionaryII.GeneratedMSBuildEditorConfig.editorconfig
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/DictionaryII/obj/Debug/net8.0/DictionaryII.AssemblyInfoInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/DictionaryII/obj/Debug/net8.0/DictionaryII.AssemblyInfo.cs
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/DictionaryII/obj/Debug/net8.0/DictionaryII.csproj.CoreCompileInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/DictionaryII/obj/Debug/net8.0/DictionaryII.sourcelink.json
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/DictionaryII/obj/Debug/net8.0/DictionaryII.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/DictionaryII/obj/Debug/net8.0/refint/DictionaryII.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/DictionaryII/obj/Debug/net8.0/DictionaryII.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/DictionaryII/obj/Debug/net8.0/DictionaryII.genruntimeconfig.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/DictionaryII/obj/Debug/net8.0/ref/DictionaryII.dll

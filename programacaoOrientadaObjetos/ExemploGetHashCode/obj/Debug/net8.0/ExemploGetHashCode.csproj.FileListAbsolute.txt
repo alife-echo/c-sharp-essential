@@ -1,0 +1,15 @@
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/ExemploGetHashCode/bin/Debug/net8.0/ExemploGetHashCode
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/ExemploGetHashCode/bin/Debug/net8.0/ExemploGetHashCode.deps.json
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/ExemploGetHashCode/bin/Debug/net8.0/ExemploGetHashCode.runtimeconfig.json
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/ExemploGetHashCode/bin/Debug/net8.0/ExemploGetHashCode.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/ExemploGetHashCode/bin/Debug/net8.0/ExemploGetHashCode.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/ExemploGetHashCode/obj/Debug/net8.0/ExemploGetHashCode.GeneratedMSBuildEditorConfig.editorconfig
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/ExemploGetHashCode/obj/Debug/net8.0/ExemploGetHashCode.AssemblyInfoInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/ExemploGetHashCode/obj/Debug/net8.0/ExemploGetHashCode.AssemblyInfo.cs
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/ExemploGetHashCode/obj/Debug/net8.0/ExemploGetHashCode.csproj.CoreCompileInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/ExemploGetHashCode/obj/Debug/net8.0/ExemploGetHashCode.sourcelink.json
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/ExemploGetHashCode/obj/Debug/net8.0/ExemploGetHashCode.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/ExemploGetHashCode/obj/Debug/net8.0/refint/ExemploGetHashCode.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/ExemploGetHashCode/obj/Debug/net8.0/ExemploGetHashCode.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/ExemploGetHashCode/obj/Debug/net8.0/ExemploGetHashCode.genruntimeconfig.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/ExemploGetHashCode/obj/Debug/net8.0/ref/ExemploGetHashCode.dll

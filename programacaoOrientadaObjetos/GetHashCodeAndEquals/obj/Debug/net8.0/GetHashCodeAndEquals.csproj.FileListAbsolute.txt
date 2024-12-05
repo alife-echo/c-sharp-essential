@@ -1,0 +1,15 @@
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/GetHashCodeAndEquals/bin/Debug/net8.0/GetHashCodeAndEquals
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/GetHashCodeAndEquals/bin/Debug/net8.0/GetHashCodeAndEquals.deps.json
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/GetHashCodeAndEquals/bin/Debug/net8.0/GetHashCodeAndEquals.runtimeconfig.json
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/GetHashCodeAndEquals/bin/Debug/net8.0/GetHashCodeAndEquals.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/GetHashCodeAndEquals/bin/Debug/net8.0/GetHashCodeAndEquals.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/GetHashCodeAndEquals/obj/Debug/net8.0/GetHashCodeAndEquals.GeneratedMSBuildEditorConfig.editorconfig
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/GetHashCodeAndEquals/obj/Debug/net8.0/GetHashCodeAndEquals.AssemblyInfoInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/GetHashCodeAndEquals/obj/Debug/net8.0/GetHashCodeAndEquals.AssemblyInfo.cs
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/GetHashCodeAndEquals/obj/Debug/net8.0/GetHashCodeAndEquals.csproj.CoreCompileInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/GetHashCodeAndEquals/obj/Debug/net8.0/GetHashCodeAndEquals.sourcelink.json
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/GetHashCodeAndEquals/obj/Debug/net8.0/GetHashCodeAndEquals.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/GetHashCodeAndEquals/obj/Debug/net8.0/refint/GetHashCodeAndEquals.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/GetHashCodeAndEquals/obj/Debug/net8.0/GetHashCodeAndEquals.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/GetHashCodeAndEquals/obj/Debug/net8.0/GetHashCodeAndEquals.genruntimeconfig.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/GetHashCodeAndEquals/obj/Debug/net8.0/ref/GetHashCodeAndEquals.dll
