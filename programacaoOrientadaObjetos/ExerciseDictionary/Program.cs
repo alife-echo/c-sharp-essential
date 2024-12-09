@@ -51,7 +51,7 @@ public class RepositoryStudent
     
     public string TryAddStudent(int key,Student student)
     {
-       return  _students.TryAdd(key, student) == true ? "Studante Adicionado" : "Studante Não adicionado";
+       return  _students.TryAdd(key, student) ? "Studante Adicionado" : "Studante Não adicionado";
     }
 
     public void RemoveStudent(int key)
