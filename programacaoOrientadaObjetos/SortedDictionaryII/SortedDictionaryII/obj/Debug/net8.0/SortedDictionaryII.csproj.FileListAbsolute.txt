@@ -1,0 +1,15 @@
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/SortedDictionaryII/SortedDictionaryII/bin/Debug/net8.0/SortedDictionaryII
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/SortedDictionaryII/SortedDictionaryII/bin/Debug/net8.0/SortedDictionaryII.deps.json
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/SortedDictionaryII/SortedDictionaryII/bin/Debug/net8.0/SortedDictionaryII.runtimeconfig.json
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/SortedDictionaryII/SortedDictionaryII/bin/Debug/net8.0/SortedDictionaryII.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/SortedDictionaryII/SortedDictionaryII/bin/Debug/net8.0/SortedDictionaryII.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/SortedDictionaryII/SortedDictionaryII/obj/Debug/net8.0/SortedDictionaryII.GeneratedMSBuildEditorConfig.editorconfig
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/SortedDictionaryII/SortedDictionaryII/obj/Debug/net8.0/SortedDictionaryII.AssemblyInfoInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/SortedDictionaryII/SortedDictionaryII/obj/Debug/net8.0/SortedDictionaryII.AssemblyInfo.cs
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/SortedDictionaryII/SortedDictionaryII/obj/Debug/net8.0/SortedDictionaryII.csproj.CoreCompileInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/SortedDictionaryII/SortedDictionaryII/obj/Debug/net8.0/SortedDictionaryII.sourcelink.json
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/SortedDictionaryII/SortedDictionaryII/obj/Debug/net8.0/SortedDictionaryII.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/SortedDictionaryII/SortedDictionaryII/obj/Debug/net8.0/refint/SortedDictionaryII.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/SortedDictionaryII/SortedDictionaryII/obj/Debug/net8.0/SortedDictionaryII.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/SortedDictionaryII/SortedDictionaryII/obj/Debug/net8.0/SortedDictionaryII.genruntimeconfig.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/SortedDictionaryII/SortedDictionaryII/obj/Debug/net8.0/ref/SortedDictionaryII.dll
