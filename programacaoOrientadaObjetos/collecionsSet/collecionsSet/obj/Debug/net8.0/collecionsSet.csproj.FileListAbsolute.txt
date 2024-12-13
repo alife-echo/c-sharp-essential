@@ -1,0 +1,15 @@
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/collecionsSet/collecionsSet/bin/Debug/net8.0/collecionsSet
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/collecionsSet/collecionsSet/bin/Debug/net8.0/collecionsSet.deps.json
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/collecionsSet/collecionsSet/bin/Debug/net8.0/collecionsSet.runtimeconfig.json
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/collecionsSet/collecionsSet/bin/Debug/net8.0/collecionsSet.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/collecionsSet/collecionsSet/bin/Debug/net8.0/collecionsSet.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/collecionsSet/collecionsSet/obj/Debug/net8.0/collecionsSet.GeneratedMSBuildEditorConfig.editorconfig
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/collecionsSet/collecionsSet/obj/Debug/net8.0/collecionsSet.AssemblyInfoInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/collecionsSet/collecionsSet/obj/Debug/net8.0/collecionsSet.AssemblyInfo.cs
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/collecionsSet/collecionsSet/obj/Debug/net8.0/collecionsSet.csproj.CoreCompileInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/collecionsSet/collecionsSet/obj/Debug/net8.0/collecionsSet.sourcelink.json
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/collecionsSet/collecionsSet/obj/Debug/net8.0/collecionsSet.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/collecionsSet/collecionsSet/obj/Debug/net8.0/refint/collecionsSet.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/collecionsSet/collecionsSet/obj/Debug/net8.0/collecionsSet.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/collecionsSet/collecionsSet/obj/Debug/net8.0/collecionsSet.genruntimeconfig.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/collecionsSet/collecionsSet/obj/Debug/net8.0/ref/collecionsSet.dll
