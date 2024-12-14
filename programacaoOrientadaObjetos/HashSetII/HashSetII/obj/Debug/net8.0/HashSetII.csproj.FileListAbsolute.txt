@@ -1,0 +1,15 @@
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/HashSetII/HashSetII/bin/Debug/net8.0/HashSetII
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/HashSetII/HashSetII/bin/Debug/net8.0/HashSetII.deps.json
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/HashSetII/HashSetII/bin/Debug/net8.0/HashSetII.runtimeconfig.json
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/HashSetII/HashSetII/bin/Debug/net8.0/HashSetII.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/HashSetII/HashSetII/bin/Debug/net8.0/HashSetII.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/HashSetII/HashSetII/obj/Debug/net8.0/HashSetII.GeneratedMSBuildEditorConfig.editorconfig
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/HashSetII/HashSetII/obj/Debug/net8.0/HashSetII.AssemblyInfoInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/HashSetII/HashSetII/obj/Debug/net8.0/HashSetII.AssemblyInfo.cs
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/HashSetII/HashSetII/obj/Debug/net8.0/HashSetII.csproj.CoreCompileInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/HashSetII/HashSetII/obj/Debug/net8.0/HashSetII.sourcelink.json
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/HashSetII/HashSetII/obj/Debug/net8.0/HashSetII.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/HashSetII/HashSetII/obj/Debug/net8.0/refint/HashSetII.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/HashSetII/HashSetII/obj/Debug/net8.0/HashSetII.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/HashSetII/HashSetII/obj/Debug/net8.0/HashSetII.genruntimeconfig.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/HashSetII/HashSetII/obj/Debug/net8.0/ref/HashSetII.dll
