@@ -1,0 +1,15 @@
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/Stack/Stack/bin/Debug/net8.0/Stack
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/Stack/Stack/bin/Debug/net8.0/Stack.deps.json
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/Stack/Stack/bin/Debug/net8.0/Stack.runtimeconfig.json
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/Stack/Stack/bin/Debug/net8.0/Stack.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/Stack/Stack/bin/Debug/net8.0/Stack.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/Stack/Stack/obj/Debug/net8.0/Stack.GeneratedMSBuildEditorConfig.editorconfig
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/Stack/Stack/obj/Debug/net8.0/Stack.AssemblyInfoInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/Stack/Stack/obj/Debug/net8.0/Stack.AssemblyInfo.cs
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/Stack/Stack/obj/Debug/net8.0/Stack.csproj.CoreCompileInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/Stack/Stack/obj/Debug/net8.0/Stack.sourcelink.json
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/Stack/Stack/obj/Debug/net8.0/Stack.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/Stack/Stack/obj/Debug/net8.0/refint/Stack.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/Stack/Stack/obj/Debug/net8.0/Stack.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/Stack/Stack/obj/Debug/net8.0/Stack.genruntimeconfig.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/Stack/Stack/obj/Debug/net8.0/ref/Stack.dll
