@@ -1,0 +1,15 @@
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/QueueExample/QueueExample/bin/Debug/net8.0/QueueExample
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/QueueExample/QueueExample/bin/Debug/net8.0/QueueExample.deps.json
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/QueueExample/QueueExample/bin/Debug/net8.0/QueueExample.runtimeconfig.json
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/QueueExample/QueueExample/bin/Debug/net8.0/QueueExample.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/QueueExample/QueueExample/bin/Debug/net8.0/QueueExample.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/QueueExample/QueueExample/obj/Debug/net8.0/QueueExample.GeneratedMSBuildEditorConfig.editorconfig
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/QueueExample/QueueExample/obj/Debug/net8.0/QueueExample.AssemblyInfoInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/QueueExample/QueueExample/obj/Debug/net8.0/QueueExample.AssemblyInfo.cs
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/QueueExample/QueueExample/obj/Debug/net8.0/QueueExample.csproj.CoreCompileInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/QueueExample/QueueExample/obj/Debug/net8.0/QueueExample.sourcelink.json
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/QueueExample/QueueExample/obj/Debug/net8.0/QueueExample.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/QueueExample/QueueExample/obj/Debug/net8.0/refint/QueueExample.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/QueueExample/QueueExample/obj/Debug/net8.0/QueueExample.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/QueueExample/QueueExample/obj/Debug/net8.0/QueueExample.genruntimeconfig.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/QueueExample/QueueExample/obj/Debug/net8.0/ref/QueueExample.dll
