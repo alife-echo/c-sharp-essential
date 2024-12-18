@@ -1,0 +1,15 @@
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/ReadOnlyCollections/Exemplo2/bin/Debug/net8.0/Exemplo2
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/ReadOnlyCollections/Exemplo2/bin/Debug/net8.0/Exemplo2.deps.json
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/ReadOnlyCollections/Exemplo2/bin/Debug/net8.0/Exemplo2.runtimeconfig.json
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/ReadOnlyCollections/Exemplo2/bin/Debug/net8.0/Exemplo2.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/ReadOnlyCollections/Exemplo2/bin/Debug/net8.0/Exemplo2.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/ReadOnlyCollections/Exemplo2/obj/Debug/net8.0/Exemplo2.GeneratedMSBuildEditorConfig.editorconfig
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/ReadOnlyCollections/Exemplo2/obj/Debug/net8.0/Exemplo2.AssemblyInfoInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/ReadOnlyCollections/Exemplo2/obj/Debug/net8.0/Exemplo2.AssemblyInfo.cs
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/ReadOnlyCollections/Exemplo2/obj/Debug/net8.0/Exemplo2.csproj.CoreCompileInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/ReadOnlyCollections/Exemplo2/obj/Debug/net8.0/Exemplo2.sourcelink.json
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/ReadOnlyCollections/Exemplo2/obj/Debug/net8.0/Exemplo2.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/ReadOnlyCollections/Exemplo2/obj/Debug/net8.0/refint/Exemplo2.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/ReadOnlyCollections/Exemplo2/obj/Debug/net8.0/Exemplo2.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/ReadOnlyCollections/Exemplo2/obj/Debug/net8.0/Exemplo2.genruntimeconfig.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/programacaoOrientadaObjetos/ReadOnlyCollections/Exemplo2/obj/Debug/net8.0/ref/Exemplo2.dll
