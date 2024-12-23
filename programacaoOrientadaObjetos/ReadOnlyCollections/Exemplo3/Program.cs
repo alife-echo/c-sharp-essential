@@ -7,7 +7,7 @@ class ManagerExoPlanetas
     private List<ExoPlaneta>? exoPlanetas = ExoPlaneta.GetExoPlanetas();
 
     //Quando acessar a propriedade, retornar a List invólucra com a ReadOnlyCollection 
-    public ReadOnlyCollection<ExoPlaneta> ExoPlanetas
+    public ReadOnlyCollection<ExoPlaneta>? ExoPlanetas
     {
         get{ return exoPlanetas.AsReadOnly(); }
     }
