@@ -1,0 +1,15 @@
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/try-catch-finally-example/try-catch-finally-example/bin/Debug/net8.0/try-catch-finally-example
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/try-catch-finally-example/try-catch-finally-example/bin/Debug/net8.0/try-catch-finally-example.deps.json
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/try-catch-finally-example/try-catch-finally-example/bin/Debug/net8.0/try-catch-finally-example.runtimeconfig.json
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/try-catch-finally-example/try-catch-finally-example/bin/Debug/net8.0/try-catch-finally-example.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/try-catch-finally-example/try-catch-finally-example/bin/Debug/net8.0/try-catch-finally-example.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/try-catch-finally-example/try-catch-finally-example/obj/Debug/net8.0/try-catch-finally-example.GeneratedMSBuildEditorConfig.editorconfig
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/try-catch-finally-example/try-catch-finally-example/obj/Debug/net8.0/try-catch-finally-example.AssemblyInfoInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/try-catch-finally-example/try-catch-finally-example/obj/Debug/net8.0/try-catch-finally-example.AssemblyInfo.cs
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/try-catch-finally-example/try-catch-finally-example/obj/Debug/net8.0/try-catch-finally-example.csproj.CoreCompileInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/try-catch-finally-example/try-catch-finally-example/obj/Debug/net8.0/try-catch-finally-example.sourcelink.json
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/try-catch-finally-example/try-catch-finally-example/obj/Debug/net8.0/try-catch-finally-example.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/try-catch-finally-example/try-catch-finally-example/obj/Debug/net8.0/refint/try-catch-finally-example.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/try-catch-finally-example/try-catch-finally-example/obj/Debug/net8.0/try-catch-finally-example.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/try-catch-finally-example/try-catch-finally-example/obj/Debug/net8.0/try-catch-finally-example.genruntimeconfig.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/try-catch-finally-example/try-catch-finally-example/obj/Debug/net8.0/ref/try-catch-finally-example.dll
