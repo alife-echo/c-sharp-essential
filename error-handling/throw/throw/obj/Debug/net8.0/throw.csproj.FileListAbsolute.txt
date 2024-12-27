@@ -1,0 +1,15 @@
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/throw/throw/bin/Debug/net8.0/throw
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/throw/throw/bin/Debug/net8.0/throw.deps.json
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/throw/throw/bin/Debug/net8.0/throw.runtimeconfig.json
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/throw/throw/bin/Debug/net8.0/throw.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/throw/throw/bin/Debug/net8.0/throw.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/throw/throw/obj/Debug/net8.0/throw.GeneratedMSBuildEditorConfig.editorconfig
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/throw/throw/obj/Debug/net8.0/throw.AssemblyInfoInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/throw/throw/obj/Debug/net8.0/throw.AssemblyInfo.cs
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/throw/throw/obj/Debug/net8.0/throw.csproj.CoreCompileInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/throw/throw/obj/Debug/net8.0/throw.sourcelink.json
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/throw/throw/obj/Debug/net8.0/throw.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/throw/throw/obj/Debug/net8.0/refint/throw.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/throw/throw/obj/Debug/net8.0/throw.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/throw/throw/obj/Debug/net8.0/throw.genruntimeconfig.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/throw/throw/obj/Debug/net8.0/ref/throw.dll
