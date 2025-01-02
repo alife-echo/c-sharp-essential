@@ -1,0 +1,15 @@
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/exercicio_excecoes/exercicio_excecoes/bin/Debug/net8.0/exercicio_excecoes
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/exercicio_excecoes/exercicio_excecoes/bin/Debug/net8.0/exercicio_excecoes.deps.json
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/exercicio_excecoes/exercicio_excecoes/bin/Debug/net8.0/exercicio_excecoes.runtimeconfig.json
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/exercicio_excecoes/exercicio_excecoes/bin/Debug/net8.0/exercicio_excecoes.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/exercicio_excecoes/exercicio_excecoes/bin/Debug/net8.0/exercicio_excecoes.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/exercicio_excecoes/exercicio_excecoes/obj/Debug/net8.0/exercicio_excecoes.GeneratedMSBuildEditorConfig.editorconfig
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/exercicio_excecoes/exercicio_excecoes/obj/Debug/net8.0/exercicio_excecoes.AssemblyInfoInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/exercicio_excecoes/exercicio_excecoes/obj/Debug/net8.0/exercicio_excecoes.AssemblyInfo.cs
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/exercicio_excecoes/exercicio_excecoes/obj/Debug/net8.0/exercicio_excecoes.csproj.CoreCompileInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/exercicio_excecoes/exercicio_excecoes/obj/Debug/net8.0/exercicio_excecoes.sourcelink.json
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/exercicio_excecoes/exercicio_excecoes/obj/Debug/net8.0/exercicio_excecoes.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/exercicio_excecoes/exercicio_excecoes/obj/Debug/net8.0/refint/exercicio_excecoes.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/exercicio_excecoes/exercicio_excecoes/obj/Debug/net8.0/exercicio_excecoes.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/exercicio_excecoes/exercicio_excecoes/obj/Debug/net8.0/exercicio_excecoes.genruntimeconfig.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/exercicio_excecoes/exercicio_excecoes/obj/Debug/net8.0/ref/exercicio_excecoes.dll
