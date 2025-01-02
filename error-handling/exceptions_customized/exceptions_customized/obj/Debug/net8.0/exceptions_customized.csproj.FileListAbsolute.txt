@@ -1,0 +1,15 @@
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/exceptions_customized/exceptions_customized/bin/Debug/net8.0/exceptions_customized
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/exceptions_customized/exceptions_customized/bin/Debug/net8.0/exceptions_customized.deps.json
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/exceptions_customized/exceptions_customized/bin/Debug/net8.0/exceptions_customized.runtimeconfig.json
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/exceptions_customized/exceptions_customized/bin/Debug/net8.0/exceptions_customized.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/exceptions_customized/exceptions_customized/bin/Debug/net8.0/exceptions_customized.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/exceptions_customized/exceptions_customized/obj/Debug/net8.0/exceptions_customized.GeneratedMSBuildEditorConfig.editorconfig
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/exceptions_customized/exceptions_customized/obj/Debug/net8.0/exceptions_customized.AssemblyInfoInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/exceptions_customized/exceptions_customized/obj/Debug/net8.0/exceptions_customized.AssemblyInfo.cs
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/exceptions_customized/exceptions_customized/obj/Debug/net8.0/exceptions_customized.csproj.CoreCompileInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/exceptions_customized/exceptions_customized/obj/Debug/net8.0/exceptions_customized.sourcelink.json
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/exceptions_customized/exceptions_customized/obj/Debug/net8.0/exceptions_customized.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/exceptions_customized/exceptions_customized/obj/Debug/net8.0/refint/exceptions_customized.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/exceptions_customized/exceptions_customized/obj/Debug/net8.0/exceptions_customized.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/exceptions_customized/exceptions_customized/obj/Debug/net8.0/exceptions_customized.genruntimeconfig.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/exceptions_customized/exceptions_customized/obj/Debug/net8.0/ref/exceptions_customized.dll
