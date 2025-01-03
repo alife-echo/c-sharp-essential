@@ -1,0 +1,15 @@
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/ExceptionsLastExersice/ExceptionsLastExersice/bin/Debug/net8.0/ExceptionsLastExersice
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/ExceptionsLastExersice/ExceptionsLastExersice/bin/Debug/net8.0/ExceptionsLastExersice.deps.json
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/ExceptionsLastExersice/ExceptionsLastExersice/bin/Debug/net8.0/ExceptionsLastExersice.runtimeconfig.json
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/ExceptionsLastExersice/ExceptionsLastExersice/bin/Debug/net8.0/ExceptionsLastExersice.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/ExceptionsLastExersice/ExceptionsLastExersice/bin/Debug/net8.0/ExceptionsLastExersice.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/ExceptionsLastExersice/ExceptionsLastExersice/obj/Debug/net8.0/ExceptionsLastExersice.GeneratedMSBuildEditorConfig.editorconfig
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/ExceptionsLastExersice/ExceptionsLastExersice/obj/Debug/net8.0/ExceptionsLastExersice.AssemblyInfoInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/ExceptionsLastExersice/ExceptionsLastExersice/obj/Debug/net8.0/ExceptionsLastExersice.AssemblyInfo.cs
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/ExceptionsLastExersice/ExceptionsLastExersice/obj/Debug/net8.0/ExceptionsLastExersice.csproj.CoreCompileInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/ExceptionsLastExersice/ExceptionsLastExersice/obj/Debug/net8.0/ExceptionsLastExersice.sourcelink.json
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/ExceptionsLastExersice/ExceptionsLastExersice/obj/Debug/net8.0/ExceptionsLastExersice.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/ExceptionsLastExersice/ExceptionsLastExersice/obj/Debug/net8.0/refint/ExceptionsLastExersice.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/ExceptionsLastExersice/ExceptionsLastExersice/obj/Debug/net8.0/ExceptionsLastExersice.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/ExceptionsLastExersice/ExceptionsLastExersice/obj/Debug/net8.0/ExceptionsLastExersice.genruntimeconfig.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/error-handling/ExceptionsLastExersice/ExceptionsLastExersice/obj/Debug/net8.0/ref/ExceptionsLastExersice.dll
