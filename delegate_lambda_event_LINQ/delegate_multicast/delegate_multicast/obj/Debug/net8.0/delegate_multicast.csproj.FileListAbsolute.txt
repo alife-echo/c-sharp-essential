@@ -1,0 +1,15 @@
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/delegate_multicast/delegate_multicast/bin/Debug/net8.0/delegate_multicast
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/delegate_multicast/delegate_multicast/bin/Debug/net8.0/delegate_multicast.deps.json
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/delegate_multicast/delegate_multicast/bin/Debug/net8.0/delegate_multicast.runtimeconfig.json
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/delegate_multicast/delegate_multicast/bin/Debug/net8.0/delegate_multicast.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/delegate_multicast/delegate_multicast/bin/Debug/net8.0/delegate_multicast.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/delegate_multicast/delegate_multicast/obj/Debug/net8.0/delegate_multicast.GeneratedMSBuildEditorConfig.editorconfig
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/delegate_multicast/delegate_multicast/obj/Debug/net8.0/delegate_multicast.AssemblyInfoInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/delegate_multicast/delegate_multicast/obj/Debug/net8.0/delegate_multicast.AssemblyInfo.cs
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/delegate_multicast/delegate_multicast/obj/Debug/net8.0/delegate_multicast.csproj.CoreCompileInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/delegate_multicast/delegate_multicast/obj/Debug/net8.0/delegate_multicast.sourcelink.json
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/delegate_multicast/delegate_multicast/obj/Debug/net8.0/delegate_multicast.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/delegate_multicast/delegate_multicast/obj/Debug/net8.0/refint/delegate_multicast.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/delegate_multicast/delegate_multicast/obj/Debug/net8.0/delegate_multicast.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/delegate_multicast/delegate_multicast/obj/Debug/net8.0/delegate_multicast.genruntimeconfig.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/delegate_multicast/delegate_multicast/obj/Debug/net8.0/ref/delegate_multicast.dll
