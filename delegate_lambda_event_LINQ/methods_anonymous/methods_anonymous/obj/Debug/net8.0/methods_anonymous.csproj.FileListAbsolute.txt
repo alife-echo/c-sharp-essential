@@ -1,0 +1,15 @@
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/methods_anonymous/methods_anonymous/bin/Debug/net8.0/methods_anonymous
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/methods_anonymous/methods_anonymous/bin/Debug/net8.0/methods_anonymous.deps.json
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/methods_anonymous/methods_anonymous/bin/Debug/net8.0/methods_anonymous.runtimeconfig.json
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/methods_anonymous/methods_anonymous/bin/Debug/net8.0/methods_anonymous.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/methods_anonymous/methods_anonymous/bin/Debug/net8.0/methods_anonymous.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/methods_anonymous/methods_anonymous/obj/Debug/net8.0/methods_anonymous.GeneratedMSBuildEditorConfig.editorconfig
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/methods_anonymous/methods_anonymous/obj/Debug/net8.0/methods_anonymous.AssemblyInfoInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/methods_anonymous/methods_anonymous/obj/Debug/net8.0/methods_anonymous.AssemblyInfo.cs
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/methods_anonymous/methods_anonymous/obj/Debug/net8.0/methods_anonymous.csproj.CoreCompileInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/methods_anonymous/methods_anonymous/obj/Debug/net8.0/methods_anonymous.sourcelink.json
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/methods_anonymous/methods_anonymous/obj/Debug/net8.0/methods_anonymous.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/methods_anonymous/methods_anonymous/obj/Debug/net8.0/refint/methods_anonymous.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/methods_anonymous/methods_anonymous/obj/Debug/net8.0/methods_anonymous.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/methods_anonymous/methods_anonymous/obj/Debug/net8.0/methods_anonymous.genruntimeconfig.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/methods_anonymous/methods_anonymous/obj/Debug/net8.0/ref/methods_anonymous.dll
