@@ -1,0 +1,15 @@
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/delegateAction/delegateAction/bin/Debug/net8.0/delegateAction
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/delegateAction/delegateAction/bin/Debug/net8.0/delegateAction.deps.json
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/delegateAction/delegateAction/bin/Debug/net8.0/delegateAction.runtimeconfig.json
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/delegateAction/delegateAction/bin/Debug/net8.0/delegateAction.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/delegateAction/delegateAction/bin/Debug/net8.0/delegateAction.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/delegateAction/delegateAction/obj/Debug/net8.0/delegateAction.GeneratedMSBuildEditorConfig.editorconfig
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/delegateAction/delegateAction/obj/Debug/net8.0/delegateAction.AssemblyInfoInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/delegateAction/delegateAction/obj/Debug/net8.0/delegateAction.AssemblyInfo.cs
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/delegateAction/delegateAction/obj/Debug/net8.0/delegateAction.csproj.CoreCompileInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/delegateAction/delegateAction/obj/Debug/net8.0/delegateAction.sourcelink.json
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/delegateAction/delegateAction/obj/Debug/net8.0/delegateAction.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/delegateAction/delegateAction/obj/Debug/net8.0/refint/delegateAction.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/delegateAction/delegateAction/obj/Debug/net8.0/delegateAction.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/delegateAction/delegateAction/obj/Debug/net8.0/delegateAction.genruntimeconfig.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/delegateAction/delegateAction/obj/Debug/net8.0/ref/delegateAction.dll
