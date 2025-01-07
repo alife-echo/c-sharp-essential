@@ -1,0 +1,15 @@
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/delegate_predicate/delegate_predicate/bin/Debug/net8.0/delegate_predicate
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/delegate_predicate/delegate_predicate/bin/Debug/net8.0/delegate_predicate.deps.json
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/delegate_predicate/delegate_predicate/bin/Debug/net8.0/delegate_predicate.runtimeconfig.json
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/delegate_predicate/delegate_predicate/bin/Debug/net8.0/delegate_predicate.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/delegate_predicate/delegate_predicate/bin/Debug/net8.0/delegate_predicate.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/delegate_predicate/delegate_predicate/obj/Debug/net8.0/delegate_predicate.GeneratedMSBuildEditorConfig.editorconfig
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/delegate_predicate/delegate_predicate/obj/Debug/net8.0/delegate_predicate.AssemblyInfoInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/delegate_predicate/delegate_predicate/obj/Debug/net8.0/delegate_predicate.AssemblyInfo.cs
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/delegate_predicate/delegate_predicate/obj/Debug/net8.0/delegate_predicate.csproj.CoreCompileInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/delegate_predicate/delegate_predicate/obj/Debug/net8.0/delegate_predicate.sourcelink.json
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/delegate_predicate/delegate_predicate/obj/Debug/net8.0/delegate_predicate.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/delegate_predicate/delegate_predicate/obj/Debug/net8.0/refint/delegate_predicate.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/delegate_predicate/delegate_predicate/obj/Debug/net8.0/delegate_predicate.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/delegate_predicate/delegate_predicate/obj/Debug/net8.0/delegate_predicate.genruntimeconfig.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/delegate_predicate/delegate_predicate/obj/Debug/net8.0/ref/delegate_predicate.dll
