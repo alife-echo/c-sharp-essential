@@ -1,6 +1,7 @@
 ﻿using System.Threading.Channels;
 using exercise_delegates;
 
+
 var persons = Person.GetPersons();
 
 Console.WriteLine("---------- Todas Pessoas ----------");
@@ -17,3 +18,5 @@ Func<Person,int> personFunc = (person) => person.Age;
 var maxAge =  persons.MaxBy(personFunc);
 var oldPerson = persons.Find(p => p == maxAge);
 Console.WriteLine($"Old Person: {oldPerson?.Name}, {oldPerson?.Age}");
+
+

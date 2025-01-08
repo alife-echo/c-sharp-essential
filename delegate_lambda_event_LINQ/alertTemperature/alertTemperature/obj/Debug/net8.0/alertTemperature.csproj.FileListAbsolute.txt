@@ -1,0 +1,15 @@
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/alertTemperature/alertTemperature/bin/Debug/net8.0/alertTemperature
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/alertTemperature/alertTemperature/bin/Debug/net8.0/alertTemperature.deps.json
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/alertTemperature/alertTemperature/bin/Debug/net8.0/alertTemperature.runtimeconfig.json
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/alertTemperature/alertTemperature/bin/Debug/net8.0/alertTemperature.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/alertTemperature/alertTemperature/bin/Debug/net8.0/alertTemperature.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/alertTemperature/alertTemperature/obj/Debug/net8.0/alertTemperature.GeneratedMSBuildEditorConfig.editorconfig
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/alertTemperature/alertTemperature/obj/Debug/net8.0/alertTemperature.AssemblyInfoInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/alertTemperature/alertTemperature/obj/Debug/net8.0/alertTemperature.AssemblyInfo.cs
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/alertTemperature/alertTemperature/obj/Debug/net8.0/alertTemperature.csproj.CoreCompileInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/alertTemperature/alertTemperature/obj/Debug/net8.0/alertTemperature.sourcelink.json
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/alertTemperature/alertTemperature/obj/Debug/net8.0/alertTemperature.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/alertTemperature/alertTemperature/obj/Debug/net8.0/refint/alertTemperature.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/alertTemperature/alertTemperature/obj/Debug/net8.0/alertTemperature.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/alertTemperature/alertTemperature/obj/Debug/net8.0/alertTemperature.genruntimeconfig.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/alertTemperature/alertTemperature/obj/Debug/net8.0/ref/alertTemperature.dll
