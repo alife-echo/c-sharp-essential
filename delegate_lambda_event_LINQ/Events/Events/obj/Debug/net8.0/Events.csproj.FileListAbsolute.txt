@@ -1,0 +1,15 @@
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/Events/Events/bin/Debug/net8.0/Events
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/Events/Events/bin/Debug/net8.0/Events.deps.json
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/Events/Events/bin/Debug/net8.0/Events.runtimeconfig.json
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/Events/Events/bin/Debug/net8.0/Events.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/Events/Events/bin/Debug/net8.0/Events.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/Events/Events/obj/Debug/net8.0/Events.GeneratedMSBuildEditorConfig.editorconfig
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/Events/Events/obj/Debug/net8.0/Events.AssemblyInfoInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/Events/Events/obj/Debug/net8.0/Events.AssemblyInfo.cs
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/Events/Events/obj/Debug/net8.0/Events.csproj.CoreCompileInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/Events/Events/obj/Debug/net8.0/Events.sourcelink.json
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/Events/Events/obj/Debug/net8.0/Events.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/Events/Events/obj/Debug/net8.0/refint/Events.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/Events/Events/obj/Debug/net8.0/Events.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/Events/Events/obj/Debug/net8.0/Events.genruntimeconfig.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/Events/Events/obj/Debug/net8.0/ref/Events.dll
