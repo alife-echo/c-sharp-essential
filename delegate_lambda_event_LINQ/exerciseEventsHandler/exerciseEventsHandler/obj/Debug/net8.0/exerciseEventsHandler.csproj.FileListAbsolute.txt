@@ -1,0 +1,15 @@
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/exerciseEventsHandler/exerciseEventsHandler/obj/Debug/net8.0/exerciseEventsHandler.GeneratedMSBuildEditorConfig.editorconfig
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/exerciseEventsHandler/exerciseEventsHandler/obj/Debug/net8.0/exerciseEventsHandler.AssemblyInfoInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/exerciseEventsHandler/exerciseEventsHandler/obj/Debug/net8.0/exerciseEventsHandler.AssemblyInfo.cs
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/exerciseEventsHandler/exerciseEventsHandler/obj/Debug/net8.0/exerciseEventsHandler.csproj.CoreCompileInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/exerciseEventsHandler/exerciseEventsHandler/obj/Debug/net8.0/exerciseEventsHandler.sourcelink.json
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/exerciseEventsHandler/exerciseEventsHandler/bin/Debug/net8.0/exerciseEventsHandler
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/exerciseEventsHandler/exerciseEventsHandler/bin/Debug/net8.0/exerciseEventsHandler.deps.json
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/exerciseEventsHandler/exerciseEventsHandler/bin/Debug/net8.0/exerciseEventsHandler.runtimeconfig.json
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/exerciseEventsHandler/exerciseEventsHandler/bin/Debug/net8.0/exerciseEventsHandler.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/exerciseEventsHandler/exerciseEventsHandler/bin/Debug/net8.0/exerciseEventsHandler.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/exerciseEventsHandler/exerciseEventsHandler/obj/Debug/net8.0/exerciseEventsHandler.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/exerciseEventsHandler/exerciseEventsHandler/obj/Debug/net8.0/refint/exerciseEventsHandler.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/exerciseEventsHandler/exerciseEventsHandler/obj/Debug/net8.0/exerciseEventsHandler.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/exerciseEventsHandler/exerciseEventsHandler/obj/Debug/net8.0/exerciseEventsHandler.genruntimeconfig.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/exerciseEventsHandler/exerciseEventsHandler/obj/Debug/net8.0/ref/exerciseEventsHandler.dll
