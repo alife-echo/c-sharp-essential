@@ -1,0 +1,15 @@
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/linq_queries_III/linq_queries_III/bin/Debug/net8.0/linq_queries_III
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/linq_queries_III/linq_queries_III/bin/Debug/net8.0/linq_queries_III.deps.json
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/linq_queries_III/linq_queries_III/bin/Debug/net8.0/linq_queries_III.runtimeconfig.json
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/linq_queries_III/linq_queries_III/bin/Debug/net8.0/linq_queries_III.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/linq_queries_III/linq_queries_III/bin/Debug/net8.0/linq_queries_III.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/linq_queries_III/linq_queries_III/obj/Debug/net8.0/linq_queries_III.GeneratedMSBuildEditorConfig.editorconfig
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/linq_queries_III/linq_queries_III/obj/Debug/net8.0/linq_queries_III.AssemblyInfoInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/linq_queries_III/linq_queries_III/obj/Debug/net8.0/linq_queries_III.AssemblyInfo.cs
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/linq_queries_III/linq_queries_III/obj/Debug/net8.0/linq_queries_III.csproj.CoreCompileInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/linq_queries_III/linq_queries_III/obj/Debug/net8.0/linq_queries_III.sourcelink.json
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/linq_queries_III/linq_queries_III/obj/Debug/net8.0/linq_queries_III.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/linq_queries_III/linq_queries_III/obj/Debug/net8.0/refint/linq_queries_III.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/linq_queries_III/linq_queries_III/obj/Debug/net8.0/linq_queries_III.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/linq_queries_III/linq_queries_III/obj/Debug/net8.0/linq_queries_III.genruntimeconfig.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/delegate_lambda_event_LINQ/linq_queries_III/linq_queries_III/obj/Debug/net8.0/ref/linq_queries_III.dll
