@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "exersice_Delegate_Linq_Event_Lambda/1.0.0": {
+        "runtime": {
+          "exersice_Delegate_Linq_Event_Lambda.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exersice_Delegate_Linq_Event_Lambda/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
