@@ -1,0 +1,15 @@
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/class_file/class_file/bin/Debug/net8.0/class_file
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/class_file/class_file/bin/Debug/net8.0/class_file.deps.json
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/class_file/class_file/bin/Debug/net8.0/class_file.runtimeconfig.json
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/class_file/class_file/bin/Debug/net8.0/class_file.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/class_file/class_file/bin/Debug/net8.0/class_file.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/class_file/class_file/obj/Debug/net8.0/class_file.GeneratedMSBuildEditorConfig.editorconfig
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/class_file/class_file/obj/Debug/net8.0/class_file.AssemblyInfoInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/class_file/class_file/obj/Debug/net8.0/class_file.AssemblyInfo.cs
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/class_file/class_file/obj/Debug/net8.0/class_file.csproj.CoreCompileInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/class_file/class_file/obj/Debug/net8.0/class_file.sourcelink.json
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/class_file/class_file/obj/Debug/net8.0/class_file.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/class_file/class_file/obj/Debug/net8.0/refint/class_file.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/class_file/class_file/obj/Debug/net8.0/class_file.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/class_file/class_file/obj/Debug/net8.0/class_file.genruntimeconfig.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/class_file/class_file/obj/Debug/net8.0/ref/class_file.dll
