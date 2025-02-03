@@ -1,0 +1,15 @@
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/directoryEdirectoryInfo/directoryEdirectoryInfo/bin/Debug/net8.0/directoryEdirectoryInfo
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/directoryEdirectoryInfo/directoryEdirectoryInfo/bin/Debug/net8.0/directoryEdirectoryInfo.deps.json
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/directoryEdirectoryInfo/directoryEdirectoryInfo/bin/Debug/net8.0/directoryEdirectoryInfo.runtimeconfig.json
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/directoryEdirectoryInfo/directoryEdirectoryInfo/bin/Debug/net8.0/directoryEdirectoryInfo.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/directoryEdirectoryInfo/directoryEdirectoryInfo/bin/Debug/net8.0/directoryEdirectoryInfo.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/directoryEdirectoryInfo/directoryEdirectoryInfo/obj/Debug/net8.0/directoryEdirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/directoryEdirectoryInfo/directoryEdirectoryInfo/obj/Debug/net8.0/directoryEdirectoryInfo.AssemblyInfoInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/directoryEdirectoryInfo/directoryEdirectoryInfo/obj/Debug/net8.0/directoryEdirectoryInfo.AssemblyInfo.cs
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/directoryEdirectoryInfo/directoryEdirectoryInfo/obj/Debug/net8.0/directoryEdirectoryInfo.csproj.CoreCompileInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/directoryEdirectoryInfo/directoryEdirectoryInfo/obj/Debug/net8.0/directoryEdirectoryInfo.sourcelink.json
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/directoryEdirectoryInfo/directoryEdirectoryInfo/obj/Debug/net8.0/directoryEdirectoryInfo.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/directoryEdirectoryInfo/directoryEdirectoryInfo/obj/Debug/net8.0/refint/directoryEdirectoryInfo.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/directoryEdirectoryInfo/directoryEdirectoryInfo/obj/Debug/net8.0/directoryEdirectoryInfo.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/directoryEdirectoryInfo/directoryEdirectoryInfo/obj/Debug/net8.0/directoryEdirectoryInfo.genruntimeconfig.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/directoryEdirectoryInfo/directoryEdirectoryInfo/obj/Debug/net8.0/ref/directoryEdirectoryInfo.dll

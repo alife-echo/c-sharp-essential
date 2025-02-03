@@ -1,0 +1,15 @@
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/file_info/file_info/obj/Debug/net8.0/file_info.GeneratedMSBuildEditorConfig.editorconfig
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/file_info/file_info/obj/Debug/net8.0/file_info.AssemblyInfoInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/file_info/file_info/obj/Debug/net8.0/file_info.AssemblyInfo.cs
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/file_info/file_info/obj/Debug/net8.0/file_info.csproj.CoreCompileInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/file_info/file_info/obj/Debug/net8.0/file_info.sourcelink.json
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/file_info/file_info/bin/Debug/net8.0/file_info
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/file_info/file_info/bin/Debug/net8.0/file_info.deps.json
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/file_info/file_info/bin/Debug/net8.0/file_info.runtimeconfig.json
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/file_info/file_info/bin/Debug/net8.0/file_info.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/file_info/file_info/bin/Debug/net8.0/file_info.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/file_info/file_info/obj/Debug/net8.0/file_info.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/file_info/file_info/obj/Debug/net8.0/refint/file_info.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/file_info/file_info/obj/Debug/net8.0/file_info.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/file_info/file_info/obj/Debug/net8.0/file_info.genruntimeconfig.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/file_info/file_info/obj/Debug/net8.0/ref/file_info.dll
