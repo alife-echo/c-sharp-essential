@@ -42,8 +42,7 @@ if (!File.Exists(caminhoDestinoMov))
         {
             Console.WriteLine(linha);
         }
-
-
+        
 //copiando um arquivo
  
         Console.WriteLine($"\n Copiando de:{caminhoOrigem} para {caminhoCopia}");
