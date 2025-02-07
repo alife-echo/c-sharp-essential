@@ -1,0 +1,15 @@
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/streams_using/streams_using/bin/Debug/net8.0/streams_using
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/streams_using/streams_using/bin/Debug/net8.0/streams_using.deps.json
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/streams_using/streams_using/bin/Debug/net8.0/streams_using.runtimeconfig.json
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/streams_using/streams_using/bin/Debug/net8.0/streams_using.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/streams_using/streams_using/bin/Debug/net8.0/streams_using.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/streams_using/streams_using/obj/Debug/net8.0/streams_using.GeneratedMSBuildEditorConfig.editorconfig
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/streams_using/streams_using/obj/Debug/net8.0/streams_using.AssemblyInfoInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/streams_using/streams_using/obj/Debug/net8.0/streams_using.AssemblyInfo.cs
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/streams_using/streams_using/obj/Debug/net8.0/streams_using.csproj.CoreCompileInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/streams_using/streams_using/obj/Debug/net8.0/streams_using.sourcelink.json
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/streams_using/streams_using/obj/Debug/net8.0/streams_using.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/streams_using/streams_using/obj/Debug/net8.0/refint/streams_using.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/streams_using/streams_using/obj/Debug/net8.0/streams_using.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/streams_using/streams_using/obj/Debug/net8.0/streams_using.genruntimeconfig.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/streams_using/streams_using/obj/Debug/net8.0/ref/streams_using.dll
