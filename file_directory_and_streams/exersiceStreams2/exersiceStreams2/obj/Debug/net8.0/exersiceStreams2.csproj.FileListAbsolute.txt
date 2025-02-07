@@ -1,0 +1,15 @@
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/exersiceStreams2/exersiceStreams2/bin/Debug/net8.0/exersiceStreams2
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/exersiceStreams2/exersiceStreams2/bin/Debug/net8.0/exersiceStreams2.deps.json
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/exersiceStreams2/exersiceStreams2/bin/Debug/net8.0/exersiceStreams2.runtimeconfig.json
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/exersiceStreams2/exersiceStreams2/bin/Debug/net8.0/exersiceStreams2.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/exersiceStreams2/exersiceStreams2/bin/Debug/net8.0/exersiceStreams2.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/exersiceStreams2/exersiceStreams2/obj/Debug/net8.0/exersiceStreams2.GeneratedMSBuildEditorConfig.editorconfig
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/exersiceStreams2/exersiceStreams2/obj/Debug/net8.0/exersiceStreams2.AssemblyInfoInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/exersiceStreams2/exersiceStreams2/obj/Debug/net8.0/exersiceStreams2.AssemblyInfo.cs
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/exersiceStreams2/exersiceStreams2/obj/Debug/net8.0/exersiceStreams2.csproj.CoreCompileInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/exersiceStreams2/exersiceStreams2/obj/Debug/net8.0/exersiceStreams2.sourcelink.json
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/exersiceStreams2/exersiceStreams2/obj/Debug/net8.0/exersiceStreams2.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/exersiceStreams2/exersiceStreams2/obj/Debug/net8.0/refint/exersiceStreams2.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/exersiceStreams2/exersiceStreams2/obj/Debug/net8.0/exersiceStreams2.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/exersiceStreams2/exersiceStreams2/obj/Debug/net8.0/exersiceStreams2.genruntimeconfig.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/exersiceStreams2/exersiceStreams2/obj/Debug/net8.0/ref/exersiceStreams2.dll
