@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BreakAndContinue")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b3793fb8ba408c6614e1e43cb2ea24b8a699626")]
 [assembly: System.Reflection.AssemblyProductAttribute("BreakAndContinue")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BreakAndContinue")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("trab_warley_sd_alife_barbeiro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad4842479c5f0f018d592dca0ca046da6ed93de9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b3793fb8ba408c6614e1e43cb2ea24b8a699626")]
 [assembly: System.Reflection.AssemblyProductAttribute("trab_warley_sd_alife_barbeiro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("trab_warley_sd_alife_barbeiro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
