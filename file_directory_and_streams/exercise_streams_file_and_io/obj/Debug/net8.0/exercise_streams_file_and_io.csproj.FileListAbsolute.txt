@@ -1,0 +1,15 @@
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/exercise_streams_file_and_io/bin/Debug/net8.0/exercise_streams_file_and_io
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/exercise_streams_file_and_io/bin/Debug/net8.0/exercise_streams_file_and_io.deps.json
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/exercise_streams_file_and_io/bin/Debug/net8.0/exercise_streams_file_and_io.runtimeconfig.json
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/exercise_streams_file_and_io/bin/Debug/net8.0/exercise_streams_file_and_io.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/exercise_streams_file_and_io/bin/Debug/net8.0/exercise_streams_file_and_io.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/exercise_streams_file_and_io/obj/Debug/net8.0/exercise_streams_file_and_io.GeneratedMSBuildEditorConfig.editorconfig
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/exercise_streams_file_and_io/obj/Debug/net8.0/exercise_streams_file_and_io.AssemblyInfoInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/exercise_streams_file_and_io/obj/Debug/net8.0/exercise_streams_file_and_io.AssemblyInfo.cs
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/exercise_streams_file_and_io/obj/Debug/net8.0/exercise_streams_file_and_io.csproj.CoreCompileInputs.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/exercise_streams_file_and_io/obj/Debug/net8.0/exercise_streams_file_and_io.sourcelink.json
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/exercise_streams_file_and_io/obj/Debug/net8.0/exercise_streams_file_and_io.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/exercise_streams_file_and_io/obj/Debug/net8.0/refint/exercise_streams_file_and_io.dll
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/exercise_streams_file_and_io/obj/Debug/net8.0/exercise_streams_file_and_io.pdb
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/exercise_streams_file_and_io/obj/Debug/net8.0/exercise_streams_file_and_io.genruntimeconfig.cache
+/home/alife-echo/RiderProjects/c-sharp-essential/file_directory_and_streams/exercise_streams_file_and_io/obj/Debug/net8.0/ref/exercise_streams_file_and_io.dll
