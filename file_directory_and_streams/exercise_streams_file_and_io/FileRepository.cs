@@ -14,14 +14,14 @@ public class FileRepository(string? path)
         });
     }
 
-    public bool WriteInFile(string? content)
+    public bool WriteInFile(string? content,bool subscriber)
     {
         if (!File.Exists(Path) && string.IsNullOrEmpty(content))
             return false;
 
         return FileHelper.ExecuteWithHandling(() =>
         {
-            using var wr = new StreamWriter(Path,true);
+            using var wr = new StreamWriter(Path,subscriber);
             wr.WriteLine(content);
 
         });

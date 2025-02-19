@@ -77,18 +77,105 @@ using exercise_streams_file_and_io;
    
 */
 
+//C:\Users\alife\OneDrive\Desktop\dados
 
+/*
+ * 
+ * Questão 4
+using System.Security.Cryptography;
 using exercise_streams_file_and_io;
 
 Console.WriteLine("Digite o caminho do arquivo");
 var input = Console.ReadLine();
 
-if(!File.Exists(input))
+if(!File.Exists(@input))
     Console.WriteLine("O arquivo não existe");
 
-if(!string.IsNullOrEmpty(input))
+if(!string.IsNullOrEmpty(input) && File.Exists(input))
+{
+    Console.WriteLine("--- Lendo arquivo---");
+    var file = File.ReadAllText(input);
+    Console.WriteLine(file);
+    Console.WriteLine("\n");
+
+    Console.WriteLine("-- Arquivo criptografado ---");
+
+
+    // gerar a chave e iv com numeros aleatorios
+    byte[] key = new byte[32];
+    byte[] iv = new byte[16];
+
+    using (var rng = RandomNumberGenerator.Create()) // server para gerar numeros aleatorios
+    {
+
+        rng.GetBytes(key); 
+        rng.GetBytes(iv);
+
+    }
+
+    //critografar
+    byte[] cipherText = AesEncryption.Encrypt(file, key, iv); //encripta o arquivo
+    string encryptedText = Convert.ToBase64String(cipherText); // converte para base64
+
     FileHelper.ExecuteWithHandling(() =>
     {
-        var file = new FileInfo(input);
-        file.Enc
+        var fileForWriter = new FileRepository(input);
+        Console.WriteLine(fileForWriter.WriteInFile(encryptedText,false) ? "Arquivo sobreescrito" : "Arquivo não sobreescrito");
+        
     });
+
+    Console.WriteLine("Digite o caminho de origem:");
+    var origin = Console.ReadLine();
+
+    Console.WriteLine("Digite o caminho destino:");
+    var destiny = Console.ReadLine();
+
+    if (File.Exists(origin))
+    {
+        File.Copy(origin, destiny);
+        Console.WriteLine($"arquivo : {destiny} criptografado " + File.ReadAllText(destiny));
+    }
+    
+
+  
+}
+*/
+
+/*
+ *  Questão 5
+using exercise_streams_file_and_io;
+
+Console.WriteLine("Digite o caminho do arquivo:");
+var img = Console.ReadLine();
+
+if (File.Exists(img))
+{
+    byte[] imgBytes = File.ReadAllBytes(img);
+    var imgBase64File = Convert.ToBase64String(imgBytes);
+
+    Console.WriteLine("Imagem criptografada: " + imgBase64File);
+
+    Console.WriteLine("Digite o caminho para criar o arquivo de texto:");
+    var textBase64 = new FileRepository(Console.ReadLine());
+
+    FileHelper.ExecuteWithHandling(() =>
+    {
+        textBase64.WriteInFile(imgBase64File,false);
+    });
+
+    Console.WriteLine("Digite o caminho de origem:");
+    var origin = Console.ReadLine();
+
+    Console.WriteLine("Digite o caminho destino:");
+    var destiny = Console.ReadLine();
+
+    if (File.Exists(origin))
+    {
+        File.Copy(origin, destiny);
+    }
+
+}
+*/
+
+
+    Console.ReadKey();
