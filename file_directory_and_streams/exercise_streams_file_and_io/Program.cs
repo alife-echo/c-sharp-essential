@@ -474,9 +474,3 @@ if (Directory.Exists(path) && !string.IsNullOrEmpty(path))
 
 
 Console.ReadKey();
-=======
-*/
-
-
-    Console.ReadKey();
->>>>>>> 005a6a28f70b763ddf5d2eb0e40c5fd2bff63382
