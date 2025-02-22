@@ -150,8 +150,13 @@ var img = Console.ReadLine();
 
 if (File.Exists(img))
 {
+<<<<<<< HEAD
     byte[] imgBytes = File.ReadAllBytes(img); // transformar a imagem para bytes
     var imgBase64File = Convert.ToBase64String(imgBytes); // transformar os bytes da imagem para base64
+=======
+    byte[] imgBytes = File.ReadAllBytes(img);
+    var imgBase64File = Convert.ToBase64String(imgBytes);
+>>>>>>> 005a6a28f70b763ddf5d2eb0e40c5fd2bff63382
 
     Console.WriteLine("Imagem criptografada: " + imgBase64File);
 
@@ -175,6 +180,7 @@ if (File.Exists(img))
     }
 
 }
+<<<<<<< HEAD
 
 questão 6
 
@@ -468,3 +474,9 @@ if (Directory.Exists(path) && !string.IsNullOrEmpty(path))
 
 
 Console.ReadKey();
+=======
+*/
+
+
+    Console.ReadKey();
+>>>>>>> 005a6a28f70b763ddf5d2eb0e40c5fd2bff63382

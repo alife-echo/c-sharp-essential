@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("exercise_streams_file_and_io")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+005a6a28f70b763ddf5d2eb0e40c5fd2bff63382")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b3793fb8ba408c6614e1e43cb2ea24b8a699626")]
+>>>>>>> 005a6a28f70b763ddf5d2eb0e40c5fd2bff63382
 [assembly: System.Reflection.AssemblyProductAttribute("exercise_streams_file_and_io")]
 [assembly: System.Reflection.AssemblyTitleAttribute("exercise_streams_file_and_io")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
