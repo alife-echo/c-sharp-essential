@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "serializacao_xml/1.0.0": {
+        "runtime": {
+          "serializacao_xml.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "serializacao_xml/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

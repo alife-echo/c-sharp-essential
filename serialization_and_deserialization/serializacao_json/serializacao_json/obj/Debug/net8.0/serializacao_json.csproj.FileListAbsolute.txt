@@ -1,0 +1,15 @@
+C:\Users\alife\source\repos\c-sharp-essential\serialization_and_deserialization\serializacao_json\serializacao_json\bin\Debug\net8.0\serializacao_json.exe
+C:\Users\alife\source\repos\c-sharp-essential\serialization_and_deserialization\serializacao_json\serializacao_json\bin\Debug\net8.0\serializacao_json.deps.json
+C:\Users\alife\source\repos\c-sharp-essential\serialization_and_deserialization\serializacao_json\serializacao_json\bin\Debug\net8.0\serializacao_json.runtimeconfig.json
+C:\Users\alife\source\repos\c-sharp-essential\serialization_and_deserialization\serializacao_json\serializacao_json\bin\Debug\net8.0\serializacao_json.dll
+C:\Users\alife\source\repos\c-sharp-essential\serialization_and_deserialization\serializacao_json\serializacao_json\bin\Debug\net8.0\serializacao_json.pdb
+C:\Users\alife\source\repos\c-sharp-essential\serialization_and_deserialization\serializacao_json\serializacao_json\obj\Debug\net8.0\serializacao_json.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\source\repos\c-sharp-essential\serialization_and_deserialization\serializacao_json\serializacao_json\obj\Debug\net8.0\serializacao_json.AssemblyInfoInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\serialization_and_deserialization\serializacao_json\serializacao_json\obj\Debug\net8.0\serializacao_json.AssemblyInfo.cs
+C:\Users\alife\source\repos\c-sharp-essential\serialization_and_deserialization\serializacao_json\serializacao_json\obj\Debug\net8.0\serializacao_json.csproj.CoreCompileInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\serialization_and_deserialization\serializacao_json\serializacao_json\obj\Debug\net8.0\serializacao_json.sourcelink.json
+C:\Users\alife\source\repos\c-sharp-essential\serialization_and_deserialization\serializacao_json\serializacao_json\obj\Debug\net8.0\serializacao_json.dll
+C:\Users\alife\source\repos\c-sharp-essential\serialization_and_deserialization\serializacao_json\serializacao_json\obj\Debug\net8.0\refint\serializacao_json.dll
+C:\Users\alife\source\repos\c-sharp-essential\serialization_and_deserialization\serializacao_json\serializacao_json\obj\Debug\net8.0\serializacao_json.pdb
+C:\Users\alife\source\repos\c-sharp-essential\serialization_and_deserialization\serializacao_json\serializacao_json\obj\Debug\net8.0\serializacao_json.genruntimeconfig.cache
+C:\Users\alife\source\repos\c-sharp-essential\serialization_and_deserialization\serializacao_json\serializacao_json\obj\Debug\net8.0\ref\serializacao_json.dll

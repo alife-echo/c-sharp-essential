@@ -1,0 +1,15 @@
+C:\Users\alife\source\repos\c-sharp-essential\serialization_and_deserialization\serializacao_xml\serializacao_xml\bin\Debug\net8.0\serializacao_xml.exe
+C:\Users\alife\source\repos\c-sharp-essential\serialization_and_deserialization\serializacao_xml\serializacao_xml\bin\Debug\net8.0\serializacao_xml.deps.json
+C:\Users\alife\source\repos\c-sharp-essential\serialization_and_deserialization\serializacao_xml\serializacao_xml\bin\Debug\net8.0\serializacao_xml.runtimeconfig.json
+C:\Users\alife\source\repos\c-sharp-essential\serialization_and_deserialization\serializacao_xml\serializacao_xml\bin\Debug\net8.0\serializacao_xml.dll
+C:\Users\alife\source\repos\c-sharp-essential\serialization_and_deserialization\serializacao_xml\serializacao_xml\bin\Debug\net8.0\serializacao_xml.pdb
+C:\Users\alife\source\repos\c-sharp-essential\serialization_and_deserialization\serializacao_xml\serializacao_xml\obj\Debug\net8.0\serializacao_xml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\source\repos\c-sharp-essential\serialization_and_deserialization\serializacao_xml\serializacao_xml\obj\Debug\net8.0\serializacao_xml.AssemblyInfoInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\serialization_and_deserialization\serializacao_xml\serializacao_xml\obj\Debug\net8.0\serializacao_xml.AssemblyInfo.cs
+C:\Users\alife\source\repos\c-sharp-essential\serialization_and_deserialization\serializacao_xml\serializacao_xml\obj\Debug\net8.0\serializacao_xml.csproj.CoreCompileInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\serialization_and_deserialization\serializacao_xml\serializacao_xml\obj\Debug\net8.0\serializacao_xml.sourcelink.json
+C:\Users\alife\source\repos\c-sharp-essential\serialization_and_deserialization\serializacao_xml\serializacao_xml\obj\Debug\net8.0\serializacao_xml.dll
+C:\Users\alife\source\repos\c-sharp-essential\serialization_and_deserialization\serializacao_xml\serializacao_xml\obj\Debug\net8.0\refint\serializacao_xml.dll
+C:\Users\alife\source\repos\c-sharp-essential\serialization_and_deserialization\serializacao_xml\serializacao_xml\obj\Debug\net8.0\serializacao_xml.pdb
+C:\Users\alife\source\repos\c-sharp-essential\serialization_and_deserialization\serializacao_xml\serializacao_xml\obj\Debug\net8.0\serializacao_xml.genruntimeconfig.cache
+C:\Users\alife\source\repos\c-sharp-essential\serialization_and_deserialization\serializacao_xml\serializacao_xml\obj\Debug\net8.0\ref\serializacao_xml.dll
