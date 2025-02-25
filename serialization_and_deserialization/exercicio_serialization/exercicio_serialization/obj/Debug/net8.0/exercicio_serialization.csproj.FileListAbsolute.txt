@@ -1,0 +1,15 @@
+C:\Users\alife\source\repos\c-sharp-essential\serialization_and_deserialization\exercicio_serialization\exercicio_serialization\bin\Debug\net8.0\exercicio_serialization.exe
+C:\Users\alife\source\repos\c-sharp-essential\serialization_and_deserialization\exercicio_serialization\exercicio_serialization\bin\Debug\net8.0\exercicio_serialization.deps.json
+C:\Users\alife\source\repos\c-sharp-essential\serialization_and_deserialization\exercicio_serialization\exercicio_serialization\bin\Debug\net8.0\exercicio_serialization.runtimeconfig.json
+C:\Users\alife\source\repos\c-sharp-essential\serialization_and_deserialization\exercicio_serialization\exercicio_serialization\bin\Debug\net8.0\exercicio_serialization.dll
+C:\Users\alife\source\repos\c-sharp-essential\serialization_and_deserialization\exercicio_serialization\exercicio_serialization\bin\Debug\net8.0\exercicio_serialization.pdb
+C:\Users\alife\source\repos\c-sharp-essential\serialization_and_deserialization\exercicio_serialization\exercicio_serialization\obj\Debug\net8.0\exercicio_serialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\source\repos\c-sharp-essential\serialization_and_deserialization\exercicio_serialization\exercicio_serialization\obj\Debug\net8.0\exercicio_serialization.AssemblyInfoInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\serialization_and_deserialization\exercicio_serialization\exercicio_serialization\obj\Debug\net8.0\exercicio_serialization.AssemblyInfo.cs
+C:\Users\alife\source\repos\c-sharp-essential\serialization_and_deserialization\exercicio_serialization\exercicio_serialization\obj\Debug\net8.0\exercicio_serialization.csproj.CoreCompileInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\serialization_and_deserialization\exercicio_serialization\exercicio_serialization\obj\Debug\net8.0\exercicio_serialization.sourcelink.json
+C:\Users\alife\source\repos\c-sharp-essential\serialization_and_deserialization\exercicio_serialization\exercicio_serialization\obj\Debug\net8.0\exercicio_serialization.dll
+C:\Users\alife\source\repos\c-sharp-essential\serialization_and_deserialization\exercicio_serialization\exercicio_serialization\obj\Debug\net8.0\refint\exercicio_serialization.dll
+C:\Users\alife\source\repos\c-sharp-essential\serialization_and_deserialization\exercicio_serialization\exercicio_serialization\obj\Debug\net8.0\exercicio_serialization.pdb
+C:\Users\alife\source\repos\c-sharp-essential\serialization_and_deserialization\exercicio_serialization\exercicio_serialization\obj\Debug\net8.0\exercicio_serialization.genruntimeconfig.cache
+C:\Users\alife\source\repos\c-sharp-essential\serialization_and_deserialization\exercicio_serialization\exercicio_serialization\obj\Debug\net8.0\ref\exercicio_serialization.dll
