@@ -1,0 +1,15 @@
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\async_and_parallel\bin\Debug\net8.0\async_and_parallel.exe
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\async_and_parallel\bin\Debug\net8.0\async_and_parallel.deps.json
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\async_and_parallel\bin\Debug\net8.0\async_and_parallel.runtimeconfig.json
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\async_and_parallel\bin\Debug\net8.0\async_and_parallel.dll
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\async_and_parallel\bin\Debug\net8.0\async_and_parallel.pdb
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\async_and_parallel\obj\Debug\net8.0\async_and_parallel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\async_and_parallel\obj\Debug\net8.0\async_and_parallel.AssemblyInfoInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\async_and_parallel\obj\Debug\net8.0\async_and_parallel.AssemblyInfo.cs
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\async_and_parallel\obj\Debug\net8.0\async_and_parallel.csproj.CoreCompileInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\async_and_parallel\obj\Debug\net8.0\async_and_parallel.sourcelink.json
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\async_and_parallel\obj\Debug\net8.0\async_and_parallel.dll
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\async_and_parallel\obj\Debug\net8.0\refint\async_and_parallel.dll
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\async_and_parallel\obj\Debug\net8.0\async_and_parallel.pdb
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\async_and_parallel\obj\Debug\net8.0\async_and_parallel.genruntimeconfig.cache
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\async_and_parallel\obj\Debug\net8.0\ref\async_and_parallel.dll

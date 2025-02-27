@@ -1,0 +1,15 @@
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\async_programming_task_taskT\bin\Debug\net8.0\async_programming_task_taskT.exe
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\async_programming_task_taskT\bin\Debug\net8.0\async_programming_task_taskT.deps.json
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\async_programming_task_taskT\bin\Debug\net8.0\async_programming_task_taskT.runtimeconfig.json
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\async_programming_task_taskT\bin\Debug\net8.0\async_programming_task_taskT.dll
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\async_programming_task_taskT\bin\Debug\net8.0\async_programming_task_taskT.pdb
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\async_programming_task_taskT\obj\Debug\net8.0\async_programming_task_taskT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\async_programming_task_taskT\obj\Debug\net8.0\async_programming_task_taskT.AssemblyInfoInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\async_programming_task_taskT\obj\Debug\net8.0\async_programming_task_taskT.AssemblyInfo.cs
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\async_programming_task_taskT\obj\Debug\net8.0\async_programming_task_taskT.csproj.CoreCompileInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\async_programming_task_taskT\obj\Debug\net8.0\async_programming_task_taskT.sourcelink.json
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\async_programming_task_taskT\obj\Debug\net8.0\async_programming_task_taskT.dll
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\async_programming_task_taskT\obj\Debug\net8.0\refint\async_programming_task_taskT.dll
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\async_programming_task_taskT\obj\Debug\net8.0\async_programming_task_taskT.pdb
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\async_programming_task_taskT\obj\Debug\net8.0\async_programming_task_taskT.genruntimeconfig.cache
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\async_programming_task_taskT\obj\Debug\net8.0\ref\async_programming_task_taskT.dll
