@@ -1,0 +1,15 @@
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\valuetask_and_valuetask_t\bin\Debug\net8.0\valuetask_and_valuetask_t.exe
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\valuetask_and_valuetask_t\bin\Debug\net8.0\valuetask_and_valuetask_t.deps.json
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\valuetask_and_valuetask_t\bin\Debug\net8.0\valuetask_and_valuetask_t.runtimeconfig.json
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\valuetask_and_valuetask_t\bin\Debug\net8.0\valuetask_and_valuetask_t.dll
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\valuetask_and_valuetask_t\bin\Debug\net8.0\valuetask_and_valuetask_t.pdb
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\valuetask_and_valuetask_t\obj\Debug\net8.0\valuetask_and_valuetask_t.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\valuetask_and_valuetask_t\obj\Debug\net8.0\valuetask_and_valuetask_t.AssemblyInfoInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\valuetask_and_valuetask_t\obj\Debug\net8.0\valuetask_and_valuetask_t.AssemblyInfo.cs
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\valuetask_and_valuetask_t\obj\Debug\net8.0\valuetask_and_valuetask_t.csproj.CoreCompileInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\valuetask_and_valuetask_t\obj\Debug\net8.0\valuetask_and_valuetask_t.sourcelink.json
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\valuetask_and_valuetask_t\obj\Debug\net8.0\valuetask_and_valuetask_t.dll
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\valuetask_and_valuetask_t\obj\Debug\net8.0\refint\valuetask_and_valuetask_t.dll
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\valuetask_and_valuetask_t\obj\Debug\net8.0\valuetask_and_valuetask_t.pdb
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\valuetask_and_valuetask_t\obj\Debug\net8.0\valuetask_and_valuetask_t.genruntimeconfig.cache
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\valuetask_and_valuetask_t\obj\Debug\net8.0\ref\valuetask_and_valuetask_t.dll

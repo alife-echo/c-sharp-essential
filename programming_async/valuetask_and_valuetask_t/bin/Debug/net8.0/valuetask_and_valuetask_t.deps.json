@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "valuetask_and_valuetask_t/1.0.0": {
+        "runtime": {
+          "valuetask_and_valuetask_t.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "valuetask_and_valuetask_t/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\cancelTask\bin\Debug\net8.0\cancelTask.exe
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\cancelTask\bin\Debug\net8.0\cancelTask.deps.json
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\cancelTask\bin\Debug\net8.0\cancelTask.runtimeconfig.json
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\cancelTask\bin\Debug\net8.0\cancelTask.dll
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\cancelTask\bin\Debug\net8.0\cancelTask.pdb
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\cancelTask\obj\Debug\net8.0\cancelTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\cancelTask\obj\Debug\net8.0\cancelTask.AssemblyInfoInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\cancelTask\obj\Debug\net8.0\cancelTask.AssemblyInfo.cs
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\cancelTask\obj\Debug\net8.0\cancelTask.csproj.CoreCompileInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\cancelTask\obj\Debug\net8.0\cancelTask.sourcelink.json
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\cancelTask\obj\Debug\net8.0\cancelTask.dll
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\cancelTask\obj\Debug\net8.0\refint\cancelTask.dll
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\cancelTask\obj\Debug\net8.0\cancelTask.pdb
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\cancelTask\obj\Debug\net8.0\cancelTask.genruntimeconfig.cache
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\cancelTask\obj\Debug\net8.0\ref\cancelTask.dll
