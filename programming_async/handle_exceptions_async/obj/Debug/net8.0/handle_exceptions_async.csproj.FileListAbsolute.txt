@@ -1,0 +1,15 @@
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\handle_exceptions_async\bin\Debug\net8.0\handle_exceptions_async.exe
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\handle_exceptions_async\bin\Debug\net8.0\handle_exceptions_async.deps.json
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\handle_exceptions_async\bin\Debug\net8.0\handle_exceptions_async.runtimeconfig.json
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\handle_exceptions_async\bin\Debug\net8.0\handle_exceptions_async.dll
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\handle_exceptions_async\bin\Debug\net8.0\handle_exceptions_async.pdb
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\handle_exceptions_async\obj\Debug\net8.0\handle_exceptions_async.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\handle_exceptions_async\obj\Debug\net8.0\handle_exceptions_async.AssemblyInfoInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\handle_exceptions_async\obj\Debug\net8.0\handle_exceptions_async.AssemblyInfo.cs
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\handle_exceptions_async\obj\Debug\net8.0\handle_exceptions_async.csproj.CoreCompileInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\handle_exceptions_async\obj\Debug\net8.0\handle_exceptions_async.sourcelink.json
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\handle_exceptions_async\obj\Debug\net8.0\handle_exceptions_async.dll
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\handle_exceptions_async\obj\Debug\net8.0\refint\handle_exceptions_async.dll
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\handle_exceptions_async\obj\Debug\net8.0\handle_exceptions_async.pdb
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\handle_exceptions_async\obj\Debug\net8.0\handle_exceptions_async.genruntimeconfig.cache
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\handle_exceptions_async\obj\Debug\net8.0\ref\handle_exceptions_async.dll
