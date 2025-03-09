@@ -1,0 +1,15 @@
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\mult_exceptions\bin\Debug\net8.0\mult_exceptions.exe
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\mult_exceptions\bin\Debug\net8.0\mult_exceptions.deps.json
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\mult_exceptions\bin\Debug\net8.0\mult_exceptions.runtimeconfig.json
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\mult_exceptions\bin\Debug\net8.0\mult_exceptions.dll
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\mult_exceptions\bin\Debug\net8.0\mult_exceptions.pdb
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\mult_exceptions\obj\Debug\net8.0\mult_exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\mult_exceptions\obj\Debug\net8.0\mult_exceptions.AssemblyInfoInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\mult_exceptions\obj\Debug\net8.0\mult_exceptions.AssemblyInfo.cs
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\mult_exceptions\obj\Debug\net8.0\mult_exceptions.csproj.CoreCompileInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\mult_exceptions\obj\Debug\net8.0\mult_exceptions.sourcelink.json
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\mult_exceptions\obj\Debug\net8.0\mult_exceptions.dll
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\mult_exceptions\obj\Debug\net8.0\refint\mult_exceptions.dll
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\mult_exceptions\obj\Debug\net8.0\mult_exceptions.pdb
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\mult_exceptions\obj\Debug\net8.0\mult_exceptions.genruntimeconfig.cache
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\mult_exceptions\obj\Debug\net8.0\ref\mult_exceptions.dll

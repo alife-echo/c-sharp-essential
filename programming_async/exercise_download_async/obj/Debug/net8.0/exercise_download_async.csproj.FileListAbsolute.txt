@@ -1,0 +1,15 @@
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\exercise_download_async\bin\Debug\net8.0\exercise_download_async.exe
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\exercise_download_async\bin\Debug\net8.0\exercise_download_async.deps.json
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\exercise_download_async\bin\Debug\net8.0\exercise_download_async.runtimeconfig.json
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\exercise_download_async\bin\Debug\net8.0\exercise_download_async.dll
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\exercise_download_async\bin\Debug\net8.0\exercise_download_async.pdb
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\exercise_download_async\obj\Debug\net8.0\exercise_download_async.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\exercise_download_async\obj\Debug\net8.0\exercise_download_async.AssemblyInfoInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\exercise_download_async\obj\Debug\net8.0\exercise_download_async.AssemblyInfo.cs
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\exercise_download_async\obj\Debug\net8.0\exercise_download_async.csproj.CoreCompileInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\exercise_download_async\obj\Debug\net8.0\exercise_download_async.sourcelink.json
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\exercise_download_async\obj\Debug\net8.0\exercise_download_async.dll
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\exercise_download_async\obj\Debug\net8.0\refint\exercise_download_async.dll
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\exercise_download_async\obj\Debug\net8.0\exercise_download_async.pdb
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\exercise_download_async\obj\Debug\net8.0\exercise_download_async.genruntimeconfig.cache
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\exercise_download_async\obj\Debug\net8.0\ref\exercise_download_async.dll

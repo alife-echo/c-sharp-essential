@@ -1,0 +1,15 @@
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\streams_async\bin\Debug\net8.0\streams_async.exe
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\streams_async\bin\Debug\net8.0\streams_async.deps.json
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\streams_async\bin\Debug\net8.0\streams_async.runtimeconfig.json
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\streams_async\bin\Debug\net8.0\streams_async.dll
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\streams_async\bin\Debug\net8.0\streams_async.pdb
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\streams_async\obj\Debug\net8.0\streams_async.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\streams_async\obj\Debug\net8.0\streams_async.AssemblyInfoInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\streams_async\obj\Debug\net8.0\streams_async.AssemblyInfo.cs
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\streams_async\obj\Debug\net8.0\streams_async.csproj.CoreCompileInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\streams_async\obj\Debug\net8.0\streams_async.sourcelink.json
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\streams_async\obj\Debug\net8.0\streams_async.dll
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\streams_async\obj\Debug\net8.0\refint\streams_async.dll
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\streams_async\obj\Debug\net8.0\streams_async.pdb
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\streams_async\obj\Debug\net8.0\streams_async.genruntimeconfig.cache
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\streams_async\obj\Debug\net8.0\ref\streams_async.dll
