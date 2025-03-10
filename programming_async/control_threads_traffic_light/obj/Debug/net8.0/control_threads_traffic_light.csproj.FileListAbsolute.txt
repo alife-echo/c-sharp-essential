@@ -1,0 +1,15 @@
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\control_threads_traffic_light\bin\Debug\net8.0\control_threads_traffic_light.exe
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\control_threads_traffic_light\bin\Debug\net8.0\control_threads_traffic_light.deps.json
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\control_threads_traffic_light\bin\Debug\net8.0\control_threads_traffic_light.runtimeconfig.json
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\control_threads_traffic_light\bin\Debug\net8.0\control_threads_traffic_light.dll
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\control_threads_traffic_light\bin\Debug\net8.0\control_threads_traffic_light.pdb
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\control_threads_traffic_light\obj\Debug\net8.0\control_threads_traffic_light.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\control_threads_traffic_light\obj\Debug\net8.0\control_threads_traffic_light.AssemblyInfoInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\control_threads_traffic_light\obj\Debug\net8.0\control_threads_traffic_light.AssemblyInfo.cs
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\control_threads_traffic_light\obj\Debug\net8.0\control_threads_traffic_light.csproj.CoreCompileInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\control_threads_traffic_light\obj\Debug\net8.0\control_threads_traffic_light.sourcelink.json
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\control_threads_traffic_light\obj\Debug\net8.0\control_threads_traffic_light.dll
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\control_threads_traffic_light\obj\Debug\net8.0\refint\control_threads_traffic_light.dll
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\control_threads_traffic_light\obj\Debug\net8.0\control_threads_traffic_light.pdb
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\control_threads_traffic_light\obj\Debug\net8.0\control_threads_traffic_light.genruntimeconfig.cache
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\control_threads_traffic_light\obj\Debug\net8.0\ref\control_threads_traffic_light.dll

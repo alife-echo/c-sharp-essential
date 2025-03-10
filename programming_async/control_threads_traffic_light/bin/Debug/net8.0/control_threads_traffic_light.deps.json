@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "control_threads_traffic_light/1.0.0": {
+        "runtime": {
+          "control_threads_traffic_light.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "control_threads_traffic_light/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
