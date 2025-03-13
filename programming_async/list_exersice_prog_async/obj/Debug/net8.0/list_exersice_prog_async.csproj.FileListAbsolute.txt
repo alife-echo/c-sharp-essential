@@ -1,0 +1,15 @@
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\list_exersice_prog_async\bin\Debug\net8.0\list_exersice_prog_async.exe
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\list_exersice_prog_async\bin\Debug\net8.0\list_exersice_prog_async.deps.json
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\list_exersice_prog_async\bin\Debug\net8.0\list_exersice_prog_async.runtimeconfig.json
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\list_exersice_prog_async\bin\Debug\net8.0\list_exersice_prog_async.dll
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\list_exersice_prog_async\bin\Debug\net8.0\list_exersice_prog_async.pdb
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\list_exersice_prog_async\obj\Debug\net8.0\list_exersice_prog_async.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\list_exersice_prog_async\obj\Debug\net8.0\list_exersice_prog_async.AssemblyInfoInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\list_exersice_prog_async\obj\Debug\net8.0\list_exersice_prog_async.AssemblyInfo.cs
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\list_exersice_prog_async\obj\Debug\net8.0\list_exersice_prog_async.csproj.CoreCompileInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\list_exersice_prog_async\obj\Debug\net8.0\list_exersice_prog_async.sourcelink.json
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\list_exersice_prog_async\obj\Debug\net8.0\list_exersice_prog_async.dll
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\list_exersice_prog_async\obj\Debug\net8.0\refint\list_exersice_prog_async.dll
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\list_exersice_prog_async\obj\Debug\net8.0\list_exersice_prog_async.pdb
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\list_exersice_prog_async\obj\Debug\net8.0\list_exersice_prog_async.genruntimeconfig.cache
+C:\Users\alife\source\repos\c-sharp-essential\programming_async\list_exersice_prog_async\obj\Debug\net8.0\ref\list_exersice_prog_async.dll
