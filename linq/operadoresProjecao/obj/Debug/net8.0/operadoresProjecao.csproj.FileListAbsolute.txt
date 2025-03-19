@@ -1,0 +1,15 @@
+C:\Users\alife\source\repos\c-sharp-essential\linq\operadoresProjecao\bin\Debug\net8.0\operadoresProjecao.exe
+C:\Users\alife\source\repos\c-sharp-essential\linq\operadoresProjecao\bin\Debug\net8.0\operadoresProjecao.deps.json
+C:\Users\alife\source\repos\c-sharp-essential\linq\operadoresProjecao\bin\Debug\net8.0\operadoresProjecao.runtimeconfig.json
+C:\Users\alife\source\repos\c-sharp-essential\linq\operadoresProjecao\bin\Debug\net8.0\operadoresProjecao.dll
+C:\Users\alife\source\repos\c-sharp-essential\linq\operadoresProjecao\bin\Debug\net8.0\operadoresProjecao.pdb
+C:\Users\alife\source\repos\c-sharp-essential\linq\operadoresProjecao\obj\Debug\net8.0\operadoresProjecao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\source\repos\c-sharp-essential\linq\operadoresProjecao\obj\Debug\net8.0\operadoresProjecao.AssemblyInfoInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\linq\operadoresProjecao\obj\Debug\net8.0\operadoresProjecao.AssemblyInfo.cs
+C:\Users\alife\source\repos\c-sharp-essential\linq\operadoresProjecao\obj\Debug\net8.0\operadoresProjecao.csproj.CoreCompileInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\linq\operadoresProjecao\obj\Debug\net8.0\operadoresProjecao.sourcelink.json
+C:\Users\alife\source\repos\c-sharp-essential\linq\operadoresProjecao\obj\Debug\net8.0\operadoresProjecao.dll
+C:\Users\alife\source\repos\c-sharp-essential\linq\operadoresProjecao\obj\Debug\net8.0\refint\operadoresProjecao.dll
+C:\Users\alife\source\repos\c-sharp-essential\linq\operadoresProjecao\obj\Debug\net8.0\operadoresProjecao.pdb
+C:\Users\alife\source\repos\c-sharp-essential\linq\operadoresProjecao\obj\Debug\net8.0\operadoresProjecao.genruntimeconfig.cache
+C:\Users\alife\source\repos\c-sharp-essential\linq\operadoresProjecao\obj\Debug\net8.0\ref\operadoresProjecao.dll
