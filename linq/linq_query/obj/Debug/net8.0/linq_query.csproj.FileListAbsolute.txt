@@ -1,0 +1,15 @@
+C:\Users\alife\source\repos\c-sharp-essential\linq\linq_query\bin\Debug\net8.0\linq_query.exe
+C:\Users\alife\source\repos\c-sharp-essential\linq\linq_query\bin\Debug\net8.0\linq_query.deps.json
+C:\Users\alife\source\repos\c-sharp-essential\linq\linq_query\bin\Debug\net8.0\linq_query.runtimeconfig.json
+C:\Users\alife\source\repos\c-sharp-essential\linq\linq_query\bin\Debug\net8.0\linq_query.dll
+C:\Users\alife\source\repos\c-sharp-essential\linq\linq_query\bin\Debug\net8.0\linq_query.pdb
+C:\Users\alife\source\repos\c-sharp-essential\linq\linq_query\obj\Debug\net8.0\linq_query.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\source\repos\c-sharp-essential\linq\linq_query\obj\Debug\net8.0\linq_query.AssemblyInfoInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\linq\linq_query\obj\Debug\net8.0\linq_query.AssemblyInfo.cs
+C:\Users\alife\source\repos\c-sharp-essential\linq\linq_query\obj\Debug\net8.0\linq_query.csproj.CoreCompileInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\linq\linq_query\obj\Debug\net8.0\linq_query.sourcelink.json
+C:\Users\alife\source\repos\c-sharp-essential\linq\linq_query\obj\Debug\net8.0\linq_query.dll
+C:\Users\alife\source\repos\c-sharp-essential\linq\linq_query\obj\Debug\net8.0\refint\linq_query.dll
+C:\Users\alife\source\repos\c-sharp-essential\linq\linq_query\obj\Debug\net8.0\linq_query.pdb
+C:\Users\alife\source\repos\c-sharp-essential\linq\linq_query\obj\Debug\net8.0\linq_query.genruntimeconfig.cache
+C:\Users\alife\source\repos\c-sharp-essential\linq\linq_query\obj\Debug\net8.0\ref\linq_query.dll
