@@ -1,0 +1,15 @@
+C:\Users\alife\source\repos\c-sharp-essential\linq\set_operationsII\bin\Debug\net8.0\set_operationsII.exe
+C:\Users\alife\source\repos\c-sharp-essential\linq\set_operationsII\bin\Debug\net8.0\set_operationsII.deps.json
+C:\Users\alife\source\repos\c-sharp-essential\linq\set_operationsII\bin\Debug\net8.0\set_operationsII.runtimeconfig.json
+C:\Users\alife\source\repos\c-sharp-essential\linq\set_operationsII\bin\Debug\net8.0\set_operationsII.dll
+C:\Users\alife\source\repos\c-sharp-essential\linq\set_operationsII\bin\Debug\net8.0\set_operationsII.pdb
+C:\Users\alife\source\repos\c-sharp-essential\linq\set_operationsII\obj\Debug\net8.0\set_operationsII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\source\repos\c-sharp-essential\linq\set_operationsII\obj\Debug\net8.0\set_operationsII.AssemblyInfoInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\linq\set_operationsII\obj\Debug\net8.0\set_operationsII.AssemblyInfo.cs
+C:\Users\alife\source\repos\c-sharp-essential\linq\set_operationsII\obj\Debug\net8.0\set_operationsII.csproj.CoreCompileInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\linq\set_operationsII\obj\Debug\net8.0\set_operationsII.sourcelink.json
+C:\Users\alife\source\repos\c-sharp-essential\linq\set_operationsII\obj\Debug\net8.0\set_operationsII.dll
+C:\Users\alife\source\repos\c-sharp-essential\linq\set_operationsII\obj\Debug\net8.0\refint\set_operationsII.dll
+C:\Users\alife\source\repos\c-sharp-essential\linq\set_operationsII\obj\Debug\net8.0\set_operationsII.pdb
+C:\Users\alife\source\repos\c-sharp-essential\linq\set_operationsII\obj\Debug\net8.0\set_operationsII.genruntimeconfig.cache
+C:\Users\alife\source\repos\c-sharp-essential\linq\set_operationsII\obj\Debug\net8.0\ref\set_operationsII.dll
