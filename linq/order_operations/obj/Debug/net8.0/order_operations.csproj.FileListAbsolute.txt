@@ -1,0 +1,15 @@
+C:\Users\alife\source\repos\c-sharp-essential\linq\order_operations\bin\Debug\net8.0\order_operations.exe
+C:\Users\alife\source\repos\c-sharp-essential\linq\order_operations\bin\Debug\net8.0\order_operations.deps.json
+C:\Users\alife\source\repos\c-sharp-essential\linq\order_operations\bin\Debug\net8.0\order_operations.runtimeconfig.json
+C:\Users\alife\source\repos\c-sharp-essential\linq\order_operations\bin\Debug\net8.0\order_operations.dll
+C:\Users\alife\source\repos\c-sharp-essential\linq\order_operations\bin\Debug\net8.0\order_operations.pdb
+C:\Users\alife\source\repos\c-sharp-essential\linq\order_operations\obj\Debug\net8.0\order_operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\source\repos\c-sharp-essential\linq\order_operations\obj\Debug\net8.0\order_operations.AssemblyInfoInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\linq\order_operations\obj\Debug\net8.0\order_operations.AssemblyInfo.cs
+C:\Users\alife\source\repos\c-sharp-essential\linq\order_operations\obj\Debug\net8.0\order_operations.csproj.CoreCompileInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\linq\order_operations\obj\Debug\net8.0\order_operations.sourcelink.json
+C:\Users\alife\source\repos\c-sharp-essential\linq\order_operations\obj\Debug\net8.0\order_operations.dll
+C:\Users\alife\source\repos\c-sharp-essential\linq\order_operations\obj\Debug\net8.0\refint\order_operations.dll
+C:\Users\alife\source\repos\c-sharp-essential\linq\order_operations\obj\Debug\net8.0\order_operations.pdb
+C:\Users\alife\source\repos\c-sharp-essential\linq\order_operations\obj\Debug\net8.0\order_operations.genruntimeconfig.cache
+C:\Users\alife\source\repos\c-sharp-essential\linq\order_operations\obj\Debug\net8.0\ref\order_operations.dll
