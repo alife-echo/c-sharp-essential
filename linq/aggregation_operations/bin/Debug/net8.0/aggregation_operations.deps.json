@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "aggregation_operations/1.0.0": {
+        "runtime": {
+          "aggregation_operations.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "aggregation_operations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

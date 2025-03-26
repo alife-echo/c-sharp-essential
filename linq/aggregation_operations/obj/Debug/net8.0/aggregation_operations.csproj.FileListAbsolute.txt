@@ -1,0 +1,15 @@
+C:\Users\alife\source\repos\c-sharp-essential\linq\aggregation_operations\bin\Debug\net8.0\aggregation_operations.exe
+C:\Users\alife\source\repos\c-sharp-essential\linq\aggregation_operations\bin\Debug\net8.0\aggregation_operations.deps.json
+C:\Users\alife\source\repos\c-sharp-essential\linq\aggregation_operations\bin\Debug\net8.0\aggregation_operations.runtimeconfig.json
+C:\Users\alife\source\repos\c-sharp-essential\linq\aggregation_operations\bin\Debug\net8.0\aggregation_operations.dll
+C:\Users\alife\source\repos\c-sharp-essential\linq\aggregation_operations\bin\Debug\net8.0\aggregation_operations.pdb
+C:\Users\alife\source\repos\c-sharp-essential\linq\aggregation_operations\obj\Debug\net8.0\aggregation_operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\source\repos\c-sharp-essential\linq\aggregation_operations\obj\Debug\net8.0\aggregation_operations.AssemblyInfoInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\linq\aggregation_operations\obj\Debug\net8.0\aggregation_operations.AssemblyInfo.cs
+C:\Users\alife\source\repos\c-sharp-essential\linq\aggregation_operations\obj\Debug\net8.0\aggregation_operations.csproj.CoreCompileInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\linq\aggregation_operations\obj\Debug\net8.0\aggregation_operations.sourcelink.json
+C:\Users\alife\source\repos\c-sharp-essential\linq\aggregation_operations\obj\Debug\net8.0\aggregation_operations.dll
+C:\Users\alife\source\repos\c-sharp-essential\linq\aggregation_operations\obj\Debug\net8.0\refint\aggregation_operations.dll
+C:\Users\alife\source\repos\c-sharp-essential\linq\aggregation_operations\obj\Debug\net8.0\aggregation_operations.pdb
+C:\Users\alife\source\repos\c-sharp-essential\linq\aggregation_operations\obj\Debug\net8.0\aggregation_operations.genruntimeconfig.cache
+C:\Users\alife\source\repos\c-sharp-essential\linq\aggregation_operations\obj\Debug\net8.0\ref\aggregation_operations.dll
