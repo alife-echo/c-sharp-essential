@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "quantification_operation/1.0.0": {
+        "runtime": {
+          "quantification_operation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "quantification_operation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

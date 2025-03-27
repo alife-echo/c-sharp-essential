@@ -1,0 +1,15 @@
+C:\Users\alife\source\repos\c-sharp-essential\linq\quantification_operation\bin\Debug\net8.0\quantification_operation.exe
+C:\Users\alife\source\repos\c-sharp-essential\linq\quantification_operation\bin\Debug\net8.0\quantification_operation.deps.json
+C:\Users\alife\source\repos\c-sharp-essential\linq\quantification_operation\bin\Debug\net8.0\quantification_operation.runtimeconfig.json
+C:\Users\alife\source\repos\c-sharp-essential\linq\quantification_operation\bin\Debug\net8.0\quantification_operation.dll
+C:\Users\alife\source\repos\c-sharp-essential\linq\quantification_operation\bin\Debug\net8.0\quantification_operation.pdb
+C:\Users\alife\source\repos\c-sharp-essential\linq\quantification_operation\obj\Debug\net8.0\quantification_operation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\source\repos\c-sharp-essential\linq\quantification_operation\obj\Debug\net8.0\quantification_operation.AssemblyInfoInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\linq\quantification_operation\obj\Debug\net8.0\quantification_operation.AssemblyInfo.cs
+C:\Users\alife\source\repos\c-sharp-essential\linq\quantification_operation\obj\Debug\net8.0\quantification_operation.csproj.CoreCompileInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\linq\quantification_operation\obj\Debug\net8.0\quantification_operation.sourcelink.json
+C:\Users\alife\source\repos\c-sharp-essential\linq\quantification_operation\obj\Debug\net8.0\quantification_operation.dll
+C:\Users\alife\source\repos\c-sharp-essential\linq\quantification_operation\obj\Debug\net8.0\refint\quantification_operation.dll
+C:\Users\alife\source\repos\c-sharp-essential\linq\quantification_operation\obj\Debug\net8.0\quantification_operation.pdb
+C:\Users\alife\source\repos\c-sharp-essential\linq\quantification_operation\obj\Debug\net8.0\quantification_operation.genruntimeconfig.cache
+C:\Users\alife\source\repos\c-sharp-essential\linq\quantification_operation\obj\Debug\net8.0\ref\quantification_operation.dll
