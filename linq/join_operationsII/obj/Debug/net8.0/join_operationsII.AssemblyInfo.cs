@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("join_operationsII")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a180d2e45d220f0eefddd2aeab746904e69891fb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3b3f8375f77264df46f26ab404848bd2d2b2a11")]
 [assembly: System.Reflection.AssemblyProductAttribute("join_operationsII")]
 [assembly: System.Reflection.AssemblyTitleAttribute("join_operationsII")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

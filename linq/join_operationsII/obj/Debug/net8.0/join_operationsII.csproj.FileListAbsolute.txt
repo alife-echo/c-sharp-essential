@@ -1,0 +1,15 @@
+C:\Users\alife\source\repos\c-sharp-essential\linq\join_operationsII\bin\Debug\net8.0\join_operationsII.exe
+C:\Users\alife\source\repos\c-sharp-essential\linq\join_operationsII\bin\Debug\net8.0\join_operationsII.deps.json
+C:\Users\alife\source\repos\c-sharp-essential\linq\join_operationsII\bin\Debug\net8.0\join_operationsII.runtimeconfig.json
+C:\Users\alife\source\repos\c-sharp-essential\linq\join_operationsII\bin\Debug\net8.0\join_operationsII.dll
+C:\Users\alife\source\repos\c-sharp-essential\linq\join_operationsII\bin\Debug\net8.0\join_operationsII.pdb
+C:\Users\alife\source\repos\c-sharp-essential\linq\join_operationsII\obj\Debug\net8.0\join_operationsII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\source\repos\c-sharp-essential\linq\join_operationsII\obj\Debug\net8.0\join_operationsII.AssemblyInfoInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\linq\join_operationsII\obj\Debug\net8.0\join_operationsII.AssemblyInfo.cs
+C:\Users\alife\source\repos\c-sharp-essential\linq\join_operationsII\obj\Debug\net8.0\join_operationsII.csproj.CoreCompileInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\linq\join_operationsII\obj\Debug\net8.0\join_operationsII.sourcelink.json
+C:\Users\alife\source\repos\c-sharp-essential\linq\join_operationsII\obj\Debug\net8.0\join_operationsII.dll
+C:\Users\alife\source\repos\c-sharp-essential\linq\join_operationsII\obj\Debug\net8.0\refint\join_operationsII.dll
+C:\Users\alife\source\repos\c-sharp-essential\linq\join_operationsII\obj\Debug\net8.0\join_operationsII.pdb
+C:\Users\alife\source\repos\c-sharp-essential\linq\join_operationsII\obj\Debug\net8.0\join_operationsII.genruntimeconfig.cache
+C:\Users\alife\source\repos\c-sharp-essential\linq\join_operationsII\obj\Debug\net8.0\ref\join_operationsII.dll
