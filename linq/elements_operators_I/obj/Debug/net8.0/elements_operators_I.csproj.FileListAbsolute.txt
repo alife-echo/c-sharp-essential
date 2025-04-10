@@ -1,0 +1,15 @@
+C:\Users\alife\source\repos\c-sharp-essential\linq\elements_operators_I\bin\Debug\net8.0\elements_operators_I.exe
+C:\Users\alife\source\repos\c-sharp-essential\linq\elements_operators_I\bin\Debug\net8.0\elements_operators_I.deps.json
+C:\Users\alife\source\repos\c-sharp-essential\linq\elements_operators_I\bin\Debug\net8.0\elements_operators_I.runtimeconfig.json
+C:\Users\alife\source\repos\c-sharp-essential\linq\elements_operators_I\bin\Debug\net8.0\elements_operators_I.dll
+C:\Users\alife\source\repos\c-sharp-essential\linq\elements_operators_I\bin\Debug\net8.0\elements_operators_I.pdb
+C:\Users\alife\source\repos\c-sharp-essential\linq\elements_operators_I\obj\Debug\net8.0\elements_operators_I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\source\repos\c-sharp-essential\linq\elements_operators_I\obj\Debug\net8.0\elements_operators_I.AssemblyInfoInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\linq\elements_operators_I\obj\Debug\net8.0\elements_operators_I.AssemblyInfo.cs
+C:\Users\alife\source\repos\c-sharp-essential\linq\elements_operators_I\obj\Debug\net8.0\elements_operators_I.csproj.CoreCompileInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\linq\elements_operators_I\obj\Debug\net8.0\elements_operators_I.sourcelink.json
+C:\Users\alife\source\repos\c-sharp-essential\linq\elements_operators_I\obj\Debug\net8.0\elements_operators_I.dll
+C:\Users\alife\source\repos\c-sharp-essential\linq\elements_operators_I\obj\Debug\net8.0\refint\elements_operators_I.dll
+C:\Users\alife\source\repos\c-sharp-essential\linq\elements_operators_I\obj\Debug\net8.0\elements_operators_I.pdb
+C:\Users\alife\source\repos\c-sharp-essential\linq\elements_operators_I\obj\Debug\net8.0\elements_operators_I.genruntimeconfig.cache
+C:\Users\alife\source\repos\c-sharp-essential\linq\elements_operators_I\obj\Debug\net8.0\ref\elements_operators_I.dll
