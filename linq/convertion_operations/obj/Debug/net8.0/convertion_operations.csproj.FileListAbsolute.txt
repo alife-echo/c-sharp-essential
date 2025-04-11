@@ -1,0 +1,15 @@
+C:\Users\alife\source\repos\c-sharp-essential\linq\convertion_operations\bin\Debug\net8.0\convertion_operations.exe
+C:\Users\alife\source\repos\c-sharp-essential\linq\convertion_operations\bin\Debug\net8.0\convertion_operations.deps.json
+C:\Users\alife\source\repos\c-sharp-essential\linq\convertion_operations\bin\Debug\net8.0\convertion_operations.runtimeconfig.json
+C:\Users\alife\source\repos\c-sharp-essential\linq\convertion_operations\bin\Debug\net8.0\convertion_operations.dll
+C:\Users\alife\source\repos\c-sharp-essential\linq\convertion_operations\bin\Debug\net8.0\convertion_operations.pdb
+C:\Users\alife\source\repos\c-sharp-essential\linq\convertion_operations\obj\Debug\net8.0\convertion_operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\source\repos\c-sharp-essential\linq\convertion_operations\obj\Debug\net8.0\convertion_operations.AssemblyInfoInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\linq\convertion_operations\obj\Debug\net8.0\convertion_operations.AssemblyInfo.cs
+C:\Users\alife\source\repos\c-sharp-essential\linq\convertion_operations\obj\Debug\net8.0\convertion_operations.csproj.CoreCompileInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\linq\convertion_operations\obj\Debug\net8.0\convertion_operations.sourcelink.json
+C:\Users\alife\source\repos\c-sharp-essential\linq\convertion_operations\obj\Debug\net8.0\convertion_operations.dll
+C:\Users\alife\source\repos\c-sharp-essential\linq\convertion_operations\obj\Debug\net8.0\refint\convertion_operations.dll
+C:\Users\alife\source\repos\c-sharp-essential\linq\convertion_operations\obj\Debug\net8.0\convertion_operations.pdb
+C:\Users\alife\source\repos\c-sharp-essential\linq\convertion_operations\obj\Debug\net8.0\convertion_operations.genruntimeconfig.cache
+C:\Users\alife\source\repos\c-sharp-essential\linq\convertion_operations\obj\Debug\net8.0\ref\convertion_operations.dll
