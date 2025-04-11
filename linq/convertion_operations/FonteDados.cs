@@ -21,4 +21,18 @@ class FonteDados
 
         return alunos.AsEnumerable();
     }
+
+    public static IEnumerable<Funcionario> GetFuncionarios()
+    {
+        List<Funcionario> func = new()
+        {
+            new Funcionario(){Nome = "Maria", Idade=42 , Salario = 3290.55m,Cidade = "Marabá"},
+            new Funcionario(){Nome = "Manoel", Idade=34 , Salario = 4125.45m,Cidade = "São Paulo"},
+            new Funcionario(){Nome = "Amanda", Idade=21 , Salario = 5123.99m,Cidade = "Rio de Janeiro"},
+            new Funcionario(){Nome = "Carlos", Idade=18 , Salario = 6200.50m,Cidade = "Marabá"},
+            new Funcionario(){Nome = "Alicia", Idade=15 , Salario = 4099.11m,Cidade = "Marabá"},
+        };
+
+        return func.AsEnumerable();
+    }
 }
