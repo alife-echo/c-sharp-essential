@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "partitioning_operations", "partitioning_operations.csproj", "{A2B0EAC1-CB39-443A-8DA1-502075186C07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2B0EAC1-CB39-443A-8DA1-502075186C07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2B0EAC1-CB39-443A-8DA1-502075186C07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2B0EAC1-CB39-443A-8DA1-502075186C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2B0EAC1-CB39-443A-8DA1-502075186C07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {035C48D7-2B4F-45C7-8593-9428E3786356}
+	EndGlobalSection
+EndGlobal

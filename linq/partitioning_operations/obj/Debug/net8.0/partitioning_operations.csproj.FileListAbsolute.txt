@@ -1,0 +1,15 @@
+C:\Users\alife\source\repos\c-sharp-essential\linq\partitioning_operations\bin\Debug\net8.0\partitioning_operations.exe
+C:\Users\alife\source\repos\c-sharp-essential\linq\partitioning_operations\bin\Debug\net8.0\partitioning_operations.deps.json
+C:\Users\alife\source\repos\c-sharp-essential\linq\partitioning_operations\bin\Debug\net8.0\partitioning_operations.runtimeconfig.json
+C:\Users\alife\source\repos\c-sharp-essential\linq\partitioning_operations\bin\Debug\net8.0\partitioning_operations.dll
+C:\Users\alife\source\repos\c-sharp-essential\linq\partitioning_operations\bin\Debug\net8.0\partitioning_operations.pdb
+C:\Users\alife\source\repos\c-sharp-essential\linq\partitioning_operations\obj\Debug\net8.0\partitioning_operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\source\repos\c-sharp-essential\linq\partitioning_operations\obj\Debug\net8.0\partitioning_operations.AssemblyInfoInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\linq\partitioning_operations\obj\Debug\net8.0\partitioning_operations.AssemblyInfo.cs
+C:\Users\alife\source\repos\c-sharp-essential\linq\partitioning_operations\obj\Debug\net8.0\partitioning_operations.csproj.CoreCompileInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\linq\partitioning_operations\obj\Debug\net8.0\partitioning_operations.sourcelink.json
+C:\Users\alife\source\repos\c-sharp-essential\linq\partitioning_operations\obj\Debug\net8.0\partitioning_operations.dll
+C:\Users\alife\source\repos\c-sharp-essential\linq\partitioning_operations\obj\Debug\net8.0\refint\partitioning_operations.dll
+C:\Users\alife\source\repos\c-sharp-essential\linq\partitioning_operations\obj\Debug\net8.0\partitioning_operations.pdb
+C:\Users\alife\source\repos\c-sharp-essential\linq\partitioning_operations\obj\Debug\net8.0\partitioning_operations.genruntimeconfig.cache
+C:\Users\alife\source\repos\c-sharp-essential\linq\partitioning_operations\obj\Debug\net8.0\ref\partitioning_operations.dll
