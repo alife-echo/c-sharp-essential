@@ -1,0 +1,15 @@
+C:\Users\alife\source\repos\c-sharp-essential\linq\page_skip_take\bin\Debug\net8.0\page_skip_take.exe
+C:\Users\alife\source\repos\c-sharp-essential\linq\page_skip_take\bin\Debug\net8.0\page_skip_take.deps.json
+C:\Users\alife\source\repos\c-sharp-essential\linq\page_skip_take\bin\Debug\net8.0\page_skip_take.runtimeconfig.json
+C:\Users\alife\source\repos\c-sharp-essential\linq\page_skip_take\bin\Debug\net8.0\page_skip_take.dll
+C:\Users\alife\source\repos\c-sharp-essential\linq\page_skip_take\bin\Debug\net8.0\page_skip_take.pdb
+C:\Users\alife\source\repos\c-sharp-essential\linq\page_skip_take\obj\Debug\net8.0\page_skip_take.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\source\repos\c-sharp-essential\linq\page_skip_take\obj\Debug\net8.0\page_skip_take.AssemblyInfoInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\linq\page_skip_take\obj\Debug\net8.0\page_skip_take.AssemblyInfo.cs
+C:\Users\alife\source\repos\c-sharp-essential\linq\page_skip_take\obj\Debug\net8.0\page_skip_take.csproj.CoreCompileInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\linq\page_skip_take\obj\Debug\net8.0\page_skip_take.sourcelink.json
+C:\Users\alife\source\repos\c-sharp-essential\linq\page_skip_take\obj\Debug\net8.0\page_skip_take.dll
+C:\Users\alife\source\repos\c-sharp-essential\linq\page_skip_take\obj\Debug\net8.0\refint\page_skip_take.dll
+C:\Users\alife\source\repos\c-sharp-essential\linq\page_skip_take\obj\Debug\net8.0\page_skip_take.pdb
+C:\Users\alife\source\repos\c-sharp-essential\linq\page_skip_take\obj\Debug\net8.0\page_skip_take.genruntimeconfig.cache
+C:\Users\alife\source\repos\c-sharp-essential\linq\page_skip_take\obj\Debug\net8.0\ref\page_skip_take.dll

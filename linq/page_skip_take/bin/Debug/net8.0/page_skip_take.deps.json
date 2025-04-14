@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "page_skip_take/1.0.0": {
+        "runtime": {
+          "page_skip_take.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "page_skip_take/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
