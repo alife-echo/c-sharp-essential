@@ -1,0 +1,15 @@
+C:\Users\alife\source\repos\c-sharp-essential\linq\append_prepend_zio\bin\Debug\net8.0\append_prepend_zio.exe
+C:\Users\alife\source\repos\c-sharp-essential\linq\append_prepend_zio\bin\Debug\net8.0\append_prepend_zio.deps.json
+C:\Users\alife\source\repos\c-sharp-essential\linq\append_prepend_zio\bin\Debug\net8.0\append_prepend_zio.runtimeconfig.json
+C:\Users\alife\source\repos\c-sharp-essential\linq\append_prepend_zio\bin\Debug\net8.0\append_prepend_zio.dll
+C:\Users\alife\source\repos\c-sharp-essential\linq\append_prepend_zio\bin\Debug\net8.0\append_prepend_zio.pdb
+C:\Users\alife\source\repos\c-sharp-essential\linq\append_prepend_zio\obj\Debug\net8.0\append_prepend_zio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\source\repos\c-sharp-essential\linq\append_prepend_zio\obj\Debug\net8.0\append_prepend_zio.AssemblyInfoInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\linq\append_prepend_zio\obj\Debug\net8.0\append_prepend_zio.AssemblyInfo.cs
+C:\Users\alife\source\repos\c-sharp-essential\linq\append_prepend_zio\obj\Debug\net8.0\append_prepend_zio.csproj.CoreCompileInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\linq\append_prepend_zio\obj\Debug\net8.0\append_prepend_zio.sourcelink.json
+C:\Users\alife\source\repos\c-sharp-essential\linq\append_prepend_zio\obj\Debug\net8.0\append_prepend_zio.dll
+C:\Users\alife\source\repos\c-sharp-essential\linq\append_prepend_zio\obj\Debug\net8.0\refint\append_prepend_zio.dll
+C:\Users\alife\source\repos\c-sharp-essential\linq\append_prepend_zio\obj\Debug\net8.0\append_prepend_zio.pdb
+C:\Users\alife\source\repos\c-sharp-essential\linq\append_prepend_zio\obj\Debug\net8.0\append_prepend_zio.genruntimeconfig.cache
+C:\Users\alife\source\repos\c-sharp-essential\linq\append_prepend_zio\obj\Debug\net8.0\ref\append_prepend_zio.dll
