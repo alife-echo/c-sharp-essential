@@ -1,0 +1,15 @@
+C:\Users\alife\source\repos\c-sharp-essential\linq\exerciseLINQ\bin\Debug\net8.0\exerciseLINQ.exe
+C:\Users\alife\source\repos\c-sharp-essential\linq\exerciseLINQ\bin\Debug\net8.0\exerciseLINQ.deps.json
+C:\Users\alife\source\repos\c-sharp-essential\linq\exerciseLINQ\bin\Debug\net8.0\exerciseLINQ.runtimeconfig.json
+C:\Users\alife\source\repos\c-sharp-essential\linq\exerciseLINQ\bin\Debug\net8.0\exerciseLINQ.dll
+C:\Users\alife\source\repos\c-sharp-essential\linq\exerciseLINQ\bin\Debug\net8.0\exerciseLINQ.pdb
+C:\Users\alife\source\repos\c-sharp-essential\linq\exerciseLINQ\obj\Debug\net8.0\exerciseLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\source\repos\c-sharp-essential\linq\exerciseLINQ\obj\Debug\net8.0\exerciseLINQ.AssemblyInfoInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\linq\exerciseLINQ\obj\Debug\net8.0\exerciseLINQ.AssemblyInfo.cs
+C:\Users\alife\source\repos\c-sharp-essential\linq\exerciseLINQ\obj\Debug\net8.0\exerciseLINQ.csproj.CoreCompileInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\linq\exerciseLINQ\obj\Debug\net8.0\exerciseLINQ.sourcelink.json
+C:\Users\alife\source\repos\c-sharp-essential\linq\exerciseLINQ\obj\Debug\net8.0\exerciseLINQ.dll
+C:\Users\alife\source\repos\c-sharp-essential\linq\exerciseLINQ\obj\Debug\net8.0\refint\exerciseLINQ.dll
+C:\Users\alife\source\repos\c-sharp-essential\linq\exerciseLINQ\obj\Debug\net8.0\exerciseLINQ.pdb
+C:\Users\alife\source\repos\c-sharp-essential\linq\exerciseLINQ\obj\Debug\net8.0\exerciseLINQ.genruntimeconfig.cache
+C:\Users\alife\source\repos\c-sharp-essential\linq\exerciseLINQ\obj\Debug\net8.0\ref\exerciseLINQ.dll
