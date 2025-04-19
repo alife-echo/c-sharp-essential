@@ -1,0 +1,15 @@
+C:\Users\alife\source\repos\c-sharp-essential\atualizacoes_c#\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\alife\source\repos\c-sharp-essential\atualizacoes_c#\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\alife\source\repos\c-sharp-essential\atualizacoes_c#\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\alife\source\repos\c-sharp-essential\atualizacoes_c#\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\alife\source\repos\c-sharp-essential\atualizacoes_c#\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\alife\source\repos\c-sharp-essential\atualizacoes_c#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\source\repos\c-sharp-essential\atualizacoes_c#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\atualizacoes_c#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\alife\source\repos\c-sharp-essential\atualizacoes_c#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\atualizacoes_c#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
+C:\Users\alife\source\repos\c-sharp-essential\atualizacoes_c#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\alife\source\repos\c-sharp-essential\atualizacoes_c#\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\alife\source\repos\c-sharp-essential\atualizacoes_c#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\alife\source\repos\c-sharp-essential\atualizacoes_c#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\alife\source\repos\c-sharp-essential\atualizacoes_c#\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
