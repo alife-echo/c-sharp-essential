@@ -1,0 +1,15 @@
+C:\Users\alife\source\repos\c-sharp-essential\atualizacoes_c#\records_I\records_I\bin\Debug\net8.0\records_I.exe
+C:\Users\alife\source\repos\c-sharp-essential\atualizacoes_c#\records_I\records_I\bin\Debug\net8.0\records_I.deps.json
+C:\Users\alife\source\repos\c-sharp-essential\atualizacoes_c#\records_I\records_I\bin\Debug\net8.0\records_I.runtimeconfig.json
+C:\Users\alife\source\repos\c-sharp-essential\atualizacoes_c#\records_I\records_I\bin\Debug\net8.0\records_I.dll
+C:\Users\alife\source\repos\c-sharp-essential\atualizacoes_c#\records_I\records_I\bin\Debug\net8.0\records_I.pdb
+C:\Users\alife\source\repos\c-sharp-essential\atualizacoes_c#\records_I\records_I\obj\Debug\net8.0\records_I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alife\source\repos\c-sharp-essential\atualizacoes_c#\records_I\records_I\obj\Debug\net8.0\records_I.AssemblyInfoInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\atualizacoes_c#\records_I\records_I\obj\Debug\net8.0\records_I.AssemblyInfo.cs
+C:\Users\alife\source\repos\c-sharp-essential\atualizacoes_c#\records_I\records_I\obj\Debug\net8.0\records_I.csproj.CoreCompileInputs.cache
+C:\Users\alife\source\repos\c-sharp-essential\atualizacoes_c#\records_I\records_I\obj\Debug\net8.0\records_I.sourcelink.json
+C:\Users\alife\source\repos\c-sharp-essential\atualizacoes_c#\records_I\records_I\obj\Debug\net8.0\records_I.dll
+C:\Users\alife\source\repos\c-sharp-essential\atualizacoes_c#\records_I\records_I\obj\Debug\net8.0\refint\records_I.dll
+C:\Users\alife\source\repos\c-sharp-essential\atualizacoes_c#\records_I\records_I\obj\Debug\net8.0\records_I.pdb
+C:\Users\alife\source\repos\c-sharp-essential\atualizacoes_c#\records_I\records_I\obj\Debug\net8.0\records_I.genruntimeconfig.cache
+C:\Users\alife\source\repos\c-sharp-essential\atualizacoes_c#\records_I\records_I\obj\Debug\net8.0\ref\records_I.dll
