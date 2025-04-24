@@ -8,31 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\alife\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/home/alife/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alife\\source\\repos\\c-sharp-essential\\atualizacoes_c#\\records_III\\records_III\\records_III.csproj",
+      "projectUniqueName": "/home/alife/c-sharp-essential/atualizacoes_c#/records_III/records_III/records_III.csproj",
       "projectName": "records_III",
-      "projectPath": "C:\\Users\\alife\\source\\repos\\c-sharp-essential\\atualizacoes_c#\\records_III\\records_III\\records_III.csproj",
-      "packagesPath": "C:\\Users\\alife\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alife\\source\\repos\\c-sharp-essential\\atualizacoes_c#\\records_III\\records_III\\obj\\",
+      "projectPath": "/home/alife/c-sharp-essential/atualizacoes_c#/records_III/records_III/records_III.csproj",
+      "packagesPath": "/home/alife/.nuget/packages/",
+      "outputPath": "/home/alife/c-sharp-essential/atualizacoes_c#/records_III/records_III/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\alife\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/alife/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -50,8 +43,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.200"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -72,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/home/alife/.dotnet/sdk/8.0.406/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
