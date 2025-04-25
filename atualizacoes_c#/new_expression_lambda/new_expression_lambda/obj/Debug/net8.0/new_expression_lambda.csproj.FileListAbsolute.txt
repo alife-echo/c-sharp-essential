@@ -1,0 +1,15 @@
+/home/alife/c-sharp-essential/atualizacoes_c#/new_expression_lambda/new_expression_lambda/bin/Debug/net8.0/new_expression_lambda
+/home/alife/c-sharp-essential/atualizacoes_c#/new_expression_lambda/new_expression_lambda/bin/Debug/net8.0/new_expression_lambda.deps.json
+/home/alife/c-sharp-essential/atualizacoes_c#/new_expression_lambda/new_expression_lambda/bin/Debug/net8.0/new_expression_lambda.runtimeconfig.json
+/home/alife/c-sharp-essential/atualizacoes_c#/new_expression_lambda/new_expression_lambda/bin/Debug/net8.0/new_expression_lambda.dll
+/home/alife/c-sharp-essential/atualizacoes_c#/new_expression_lambda/new_expression_lambda/bin/Debug/net8.0/new_expression_lambda.pdb
+/home/alife/c-sharp-essential/atualizacoes_c#/new_expression_lambda/new_expression_lambda/obj/Debug/net8.0/new_expression_lambda.GeneratedMSBuildEditorConfig.editorconfig
+/home/alife/c-sharp-essential/atualizacoes_c#/new_expression_lambda/new_expression_lambda/obj/Debug/net8.0/new_expression_lambda.AssemblyInfoInputs.cache
+/home/alife/c-sharp-essential/atualizacoes_c#/new_expression_lambda/new_expression_lambda/obj/Debug/net8.0/new_expression_lambda.AssemblyInfo.cs
+/home/alife/c-sharp-essential/atualizacoes_c#/new_expression_lambda/new_expression_lambda/obj/Debug/net8.0/new_expression_lambda.csproj.CoreCompileInputs.cache
+/home/alife/c-sharp-essential/atualizacoes_c#/new_expression_lambda/new_expression_lambda/obj/Debug/net8.0/new_expression_lambda.sourcelink.json
+/home/alife/c-sharp-essential/atualizacoes_c#/new_expression_lambda/new_expression_lambda/obj/Debug/net8.0/new_expression_lambda.dll
+/home/alife/c-sharp-essential/atualizacoes_c#/new_expression_lambda/new_expression_lambda/obj/Debug/net8.0/refint/new_expression_lambda.dll
+/home/alife/c-sharp-essential/atualizacoes_c#/new_expression_lambda/new_expression_lambda/obj/Debug/net8.0/new_expression_lambda.pdb
+/home/alife/c-sharp-essential/atualizacoes_c#/new_expression_lambda/new_expression_lambda/obj/Debug/net8.0/new_expression_lambda.genruntimeconfig.cache
+/home/alife/c-sharp-essential/atualizacoes_c#/new_expression_lambda/new_expression_lambda/obj/Debug/net8.0/ref/new_expression_lambda.dll
