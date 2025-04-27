@@ -1,0 +1,15 @@
+/home/alife/c-sharp-essential/atualizacoes_c#/timeOnly/timeOnly/bin/Debug/net8.0/timeOnly
+/home/alife/c-sharp-essential/atualizacoes_c#/timeOnly/timeOnly/bin/Debug/net8.0/timeOnly.deps.json
+/home/alife/c-sharp-essential/atualizacoes_c#/timeOnly/timeOnly/bin/Debug/net8.0/timeOnly.runtimeconfig.json
+/home/alife/c-sharp-essential/atualizacoes_c#/timeOnly/timeOnly/bin/Debug/net8.0/timeOnly.dll
+/home/alife/c-sharp-essential/atualizacoes_c#/timeOnly/timeOnly/bin/Debug/net8.0/timeOnly.pdb
+/home/alife/c-sharp-essential/atualizacoes_c#/timeOnly/timeOnly/obj/Debug/net8.0/timeOnly.GeneratedMSBuildEditorConfig.editorconfig
+/home/alife/c-sharp-essential/atualizacoes_c#/timeOnly/timeOnly/obj/Debug/net8.0/timeOnly.AssemblyInfoInputs.cache
+/home/alife/c-sharp-essential/atualizacoes_c#/timeOnly/timeOnly/obj/Debug/net8.0/timeOnly.AssemblyInfo.cs
+/home/alife/c-sharp-essential/atualizacoes_c#/timeOnly/timeOnly/obj/Debug/net8.0/timeOnly.csproj.CoreCompileInputs.cache
+/home/alife/c-sharp-essential/atualizacoes_c#/timeOnly/timeOnly/obj/Debug/net8.0/timeOnly.sourcelink.json
+/home/alife/c-sharp-essential/atualizacoes_c#/timeOnly/timeOnly/obj/Debug/net8.0/timeOnly.dll
+/home/alife/c-sharp-essential/atualizacoes_c#/timeOnly/timeOnly/obj/Debug/net8.0/refint/timeOnly.dll
+/home/alife/c-sharp-essential/atualizacoes_c#/timeOnly/timeOnly/obj/Debug/net8.0/timeOnly.pdb
+/home/alife/c-sharp-essential/atualizacoes_c#/timeOnly/timeOnly/obj/Debug/net8.0/timeOnly.genruntimeconfig.cache
+/home/alife/c-sharp-essential/atualizacoes_c#/timeOnly/timeOnly/obj/Debug/net8.0/ref/timeOnly.dll
