@@ -1,0 +1,15 @@
+/home/alife/c-sharp-essential/atualizacoes_c#/new_five_resources_I/new_five_resources_I/obj/Debug/net8.0/new_five_resources_I.GeneratedMSBuildEditorConfig.editorconfig
+/home/alife/c-sharp-essential/atualizacoes_c#/new_five_resources_I/new_five_resources_I/obj/Debug/net8.0/new_five_resources_I.AssemblyInfoInputs.cache
+/home/alife/c-sharp-essential/atualizacoes_c#/new_five_resources_I/new_five_resources_I/obj/Debug/net8.0/new_five_resources_I.AssemblyInfo.cs
+/home/alife/c-sharp-essential/atualizacoes_c#/new_five_resources_I/new_five_resources_I/obj/Debug/net8.0/new_five_resources_I.csproj.CoreCompileInputs.cache
+/home/alife/c-sharp-essential/atualizacoes_c#/new_five_resources_I/new_five_resources_I/obj/Debug/net8.0/new_five_resources_I.sourcelink.json
+/home/alife/c-sharp-essential/atualizacoes_c#/new_five_resources_I/new_five_resources_I/bin/Debug/net8.0/new_five_resources_I
+/home/alife/c-sharp-essential/atualizacoes_c#/new_five_resources_I/new_five_resources_I/bin/Debug/net8.0/new_five_resources_I.deps.json
+/home/alife/c-sharp-essential/atualizacoes_c#/new_five_resources_I/new_five_resources_I/bin/Debug/net8.0/new_five_resources_I.runtimeconfig.json
+/home/alife/c-sharp-essential/atualizacoes_c#/new_five_resources_I/new_five_resources_I/bin/Debug/net8.0/new_five_resources_I.dll
+/home/alife/c-sharp-essential/atualizacoes_c#/new_five_resources_I/new_five_resources_I/bin/Debug/net8.0/new_five_resources_I.pdb
+/home/alife/c-sharp-essential/atualizacoes_c#/new_five_resources_I/new_five_resources_I/obj/Debug/net8.0/new_five_resources_I.dll
+/home/alife/c-sharp-essential/atualizacoes_c#/new_five_resources_I/new_five_resources_I/obj/Debug/net8.0/refint/new_five_resources_I.dll
+/home/alife/c-sharp-essential/atualizacoes_c#/new_five_resources_I/new_five_resources_I/obj/Debug/net8.0/new_five_resources_I.pdb
+/home/alife/c-sharp-essential/atualizacoes_c#/new_five_resources_I/new_five_resources_I/obj/Debug/net8.0/new_five_resources_I.genruntimeconfig.cache
+/home/alife/c-sharp-essential/atualizacoes_c#/new_five_resources_I/new_five_resources_I/obj/Debug/net8.0/ref/new_five_resources_I.dll
