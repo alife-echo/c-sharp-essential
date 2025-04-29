@@ -1,0 +1,15 @@
+/home/alife/c-sharp-essential/atualizacoes_c#/new_five_resources_II/new_five_resources_II/bin/Debug/net8.0/new_five_resources_II
+/home/alife/c-sharp-essential/atualizacoes_c#/new_five_resources_II/new_five_resources_II/bin/Debug/net8.0/new_five_resources_II.deps.json
+/home/alife/c-sharp-essential/atualizacoes_c#/new_five_resources_II/new_five_resources_II/bin/Debug/net8.0/new_five_resources_II.runtimeconfig.json
+/home/alife/c-sharp-essential/atualizacoes_c#/new_five_resources_II/new_five_resources_II/bin/Debug/net8.0/new_five_resources_II.dll
+/home/alife/c-sharp-essential/atualizacoes_c#/new_five_resources_II/new_five_resources_II/bin/Debug/net8.0/new_five_resources_II.pdb
+/home/alife/c-sharp-essential/atualizacoes_c#/new_five_resources_II/new_five_resources_II/obj/Debug/net8.0/new_five_resources_II.GeneratedMSBuildEditorConfig.editorconfig
+/home/alife/c-sharp-essential/atualizacoes_c#/new_five_resources_II/new_five_resources_II/obj/Debug/net8.0/new_five_resources_II.AssemblyInfoInputs.cache
+/home/alife/c-sharp-essential/atualizacoes_c#/new_five_resources_II/new_five_resources_II/obj/Debug/net8.0/new_five_resources_II.AssemblyInfo.cs
+/home/alife/c-sharp-essential/atualizacoes_c#/new_five_resources_II/new_five_resources_II/obj/Debug/net8.0/new_five_resources_II.csproj.CoreCompileInputs.cache
+/home/alife/c-sharp-essential/atualizacoes_c#/new_five_resources_II/new_five_resources_II/obj/Debug/net8.0/new_five_resources_II.sourcelink.json
+/home/alife/c-sharp-essential/atualizacoes_c#/new_five_resources_II/new_five_resources_II/obj/Debug/net8.0/new_five_resources_II.dll
+/home/alife/c-sharp-essential/atualizacoes_c#/new_five_resources_II/new_five_resources_II/obj/Debug/net8.0/refint/new_five_resources_II.dll
+/home/alife/c-sharp-essential/atualizacoes_c#/new_five_resources_II/new_five_resources_II/obj/Debug/net8.0/new_five_resources_II.pdb
+/home/alife/c-sharp-essential/atualizacoes_c#/new_five_resources_II/new_five_resources_II/obj/Debug/net8.0/new_five_resources_II.genruntimeconfig.cache
+/home/alife/c-sharp-essential/atualizacoes_c#/new_five_resources_II/new_five_resources_II/obj/Debug/net8.0/ref/new_five_resources_II.dll

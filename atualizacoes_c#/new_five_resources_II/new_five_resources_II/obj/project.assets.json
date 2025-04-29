@@ -1,0 +1,71 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net8.0": []
+  },
+  "packageFolders": {
+    "/home/alife/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/alife/c-sharp-essential/atualizacoes_c#/new_five_resources_II/new_five_resources_II/new_five_resources_II.csproj",
+      "projectName": "new_five_resources_II",
+      "projectPath": "/home/alife/c-sharp-essential/atualizacoes_c#/new_five_resources_II/new_five_resources_II/new_five_resources_II.csproj",
+      "packagesPath": "/home/alife/.nuget/packages/",
+      "outputPath": "/home/alife/c-sharp-essential/atualizacoes_c#/new_five_resources_II/new_five_resources_II/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/alife/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/home/alife/.dotnet/sdk/8.0.406/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
