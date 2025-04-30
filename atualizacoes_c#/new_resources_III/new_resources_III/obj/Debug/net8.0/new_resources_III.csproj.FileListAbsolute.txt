@@ -1,0 +1,15 @@
+/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_III/new_resources_III/bin/Debug/net8.0/new_resources_III
+/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_III/new_resources_III/bin/Debug/net8.0/new_resources_III.deps.json
+/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_III/new_resources_III/bin/Debug/net8.0/new_resources_III.runtimeconfig.json
+/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_III/new_resources_III/bin/Debug/net8.0/new_resources_III.dll
+/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_III/new_resources_III/bin/Debug/net8.0/new_resources_III.pdb
+/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_III/new_resources_III/obj/Debug/net8.0/new_resources_III.GeneratedMSBuildEditorConfig.editorconfig
+/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_III/new_resources_III/obj/Debug/net8.0/new_resources_III.AssemblyInfoInputs.cache
+/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_III/new_resources_III/obj/Debug/net8.0/new_resources_III.AssemblyInfo.cs
+/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_III/new_resources_III/obj/Debug/net8.0/new_resources_III.csproj.CoreCompileInputs.cache
+/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_III/new_resources_III/obj/Debug/net8.0/new_resources_III.sourcelink.json
+/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_III/new_resources_III/obj/Debug/net8.0/new_resources_III.dll
+/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_III/new_resources_III/obj/Debug/net8.0/refint/new_resources_III.dll
+/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_III/new_resources_III/obj/Debug/net8.0/new_resources_III.pdb
+/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_III/new_resources_III/obj/Debug/net8.0/new_resources_III.genruntimeconfig.cache
+/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_III/new_resources_III/obj/Debug/net8.0/ref/new_resources_III.dll
