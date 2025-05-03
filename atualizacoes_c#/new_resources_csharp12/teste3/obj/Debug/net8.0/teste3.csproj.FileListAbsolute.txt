@@ -1,0 +1,15 @@
+/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_csharp12/teste3/bin/Debug/net8.0/teste3
+/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_csharp12/teste3/bin/Debug/net8.0/teste3.deps.json
+/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_csharp12/teste3/bin/Debug/net8.0/teste3.runtimeconfig.json
+/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_csharp12/teste3/bin/Debug/net8.0/teste3.dll
+/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_csharp12/teste3/bin/Debug/net8.0/teste3.pdb
+/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_csharp12/teste3/obj/Debug/net8.0/teste3.GeneratedMSBuildEditorConfig.editorconfig
+/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_csharp12/teste3/obj/Debug/net8.0/teste3.AssemblyInfoInputs.cache
+/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_csharp12/teste3/obj/Debug/net8.0/teste3.AssemblyInfo.cs
+/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_csharp12/teste3/obj/Debug/net8.0/teste3.csproj.CoreCompileInputs.cache
+/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_csharp12/teste3/obj/Debug/net8.0/teste3.sourcelink.json
+/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_csharp12/teste3/obj/Debug/net8.0/teste3.dll
+/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_csharp12/teste3/obj/Debug/net8.0/refint/teste3.dll
+/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_csharp12/teste3/obj/Debug/net8.0/teste3.pdb
+/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_csharp12/teste3/obj/Debug/net8.0/teste3.genruntimeconfig.cache
+/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_csharp12/teste3/obj/Debug/net8.0/ref/teste3.dll

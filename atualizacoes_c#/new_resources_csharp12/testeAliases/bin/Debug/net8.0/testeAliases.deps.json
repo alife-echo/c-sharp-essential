@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "testeAliases/1.0.0": {
+        "dependencies": {
+          "new_resources_csharp12": "1.0.0",
+          "teste3": "1.0.0"
+        },
+        "runtime": {
+          "testeAliases.dll": {}
+        }
+      },
+      "new_resources_csharp12/1.0.0": {
+        "runtime": {
+          "new_resources_csharp12.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "teste3/1.0.0": {
+        "runtime": {
+          "teste3.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "testeAliases/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "new_resources_csharp12/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "teste3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

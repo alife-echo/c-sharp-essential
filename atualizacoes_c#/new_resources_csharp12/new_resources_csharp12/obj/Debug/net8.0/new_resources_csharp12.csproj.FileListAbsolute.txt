@@ -1,0 +1,15 @@
+/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_csharp12/new_resources_csharp12/bin/Debug/net8.0/new_resources_csharp12
+/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_csharp12/new_resources_csharp12/bin/Debug/net8.0/new_resources_csharp12.deps.json
+/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_csharp12/new_resources_csharp12/bin/Debug/net8.0/new_resources_csharp12.runtimeconfig.json
+/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_csharp12/new_resources_csharp12/bin/Debug/net8.0/new_resources_csharp12.dll
+/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_csharp12/new_resources_csharp12/bin/Debug/net8.0/new_resources_csharp12.pdb
+/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_csharp12/new_resources_csharp12/obj/Debug/net8.0/new_resources_csharp12.GeneratedMSBuildEditorConfig.editorconfig
+/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_csharp12/new_resources_csharp12/obj/Debug/net8.0/new_resources_csharp12.AssemblyInfoInputs.cache
+/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_csharp12/new_resources_csharp12/obj/Debug/net8.0/new_resources_csharp12.AssemblyInfo.cs
+/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_csharp12/new_resources_csharp12/obj/Debug/net8.0/new_resources_csharp12.csproj.CoreCompileInputs.cache
+/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_csharp12/new_resources_csharp12/obj/Debug/net8.0/new_resources_csharp12.sourcelink.json
+/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_csharp12/new_resources_csharp12/obj/Debug/net8.0/new_resources_csharp12.dll
+/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_csharp12/new_resources_csharp12/obj/Debug/net8.0/refint/new_resources_csharp12.dll
+/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_csharp12/new_resources_csharp12/obj/Debug/net8.0/new_resources_csharp12.pdb
+/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_csharp12/new_resources_csharp12/obj/Debug/net8.0/new_resources_csharp12.genruntimeconfig.cache
+/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_csharp12/new_resources_csharp12/obj/Debug/net8.0/ref/new_resources_csharp12.dll

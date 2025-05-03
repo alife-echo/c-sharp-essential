@@ -1,0 +1,113 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "new_resources_csharp12/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/new_resources_csharp12.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/new_resources_csharp12.dll": {}
+        }
+      },
+      "teste3/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/teste3.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/teste3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "new_resources_csharp12/1.0.0": {
+      "type": "project",
+      "path": "../new_resources_csharp12/new_resources_csharp12.csproj",
+      "msbuildProject": "../new_resources_csharp12/new_resources_csharp12.csproj"
+    },
+    "teste3/1.0.0": {
+      "type": "project",
+      "path": "../teste3/teste3.csproj",
+      "msbuildProject": "../teste3/teste3.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "new_resources_csharp12 >= 1.0.0",
+      "teste3 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/alife/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_csharp12/testeAliases/testeAliases.csproj",
+      "projectName": "testeAliases",
+      "projectPath": "/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_csharp12/testeAliases/testeAliases.csproj",
+      "packagesPath": "/home/alife/.nuget/packages/",
+      "outputPath": "/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_csharp12/testeAliases/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/alife/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_csharp12/new_resources_csharp12/new_resources_csharp12.csproj": {
+              "projectPath": "/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_csharp12/new_resources_csharp12/new_resources_csharp12.csproj"
+            },
+            "/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_csharp12/teste3/teste3.csproj": {
+              "projectPath": "/home/alife/c-sharp-essential/atualizacoes_c#/new_resources_csharp12/teste3/teste3.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/home/alife/.dotnet/sdk/8.0.406/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
