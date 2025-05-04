@@ -1,0 +1,15 @@
+/home/alife/c-sharp-essential/atualizacoes_c#/partial_property/partial_property/bin/Debug/net9.0/partial_property
+/home/alife/c-sharp-essential/atualizacoes_c#/partial_property/partial_property/bin/Debug/net9.0/partial_property.deps.json
+/home/alife/c-sharp-essential/atualizacoes_c#/partial_property/partial_property/bin/Debug/net9.0/partial_property.runtimeconfig.json
+/home/alife/c-sharp-essential/atualizacoes_c#/partial_property/partial_property/bin/Debug/net9.0/partial_property.dll
+/home/alife/c-sharp-essential/atualizacoes_c#/partial_property/partial_property/bin/Debug/net9.0/partial_property.pdb
+/home/alife/c-sharp-essential/atualizacoes_c#/partial_property/partial_property/obj/Debug/net9.0/partial_property.GeneratedMSBuildEditorConfig.editorconfig
+/home/alife/c-sharp-essential/atualizacoes_c#/partial_property/partial_property/obj/Debug/net9.0/partial_property.AssemblyInfoInputs.cache
+/home/alife/c-sharp-essential/atualizacoes_c#/partial_property/partial_property/obj/Debug/net9.0/partial_property.AssemblyInfo.cs
+/home/alife/c-sharp-essential/atualizacoes_c#/partial_property/partial_property/obj/Debug/net9.0/partial_property.csproj.CoreCompileInputs.cache
+/home/alife/c-sharp-essential/atualizacoes_c#/partial_property/partial_property/obj/Debug/net9.0/partial_property.sourcelink.json
+/home/alife/c-sharp-essential/atualizacoes_c#/partial_property/partial_property/obj/Debug/net9.0/partial_property.dll
+/home/alife/c-sharp-essential/atualizacoes_c#/partial_property/partial_property/obj/Debug/net9.0/refint/partial_property.dll
+/home/alife/c-sharp-essential/atualizacoes_c#/partial_property/partial_property/obj/Debug/net9.0/partial_property.pdb
+/home/alife/c-sharp-essential/atualizacoes_c#/partial_property/partial_property/obj/Debug/net9.0/partial_property.genruntimeconfig.cache
+/home/alife/c-sharp-essential/atualizacoes_c#/partial_property/partial_property/obj/Debug/net9.0/ref/partial_property.dll
