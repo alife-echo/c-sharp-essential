@@ -1,0 +1,5 @@
+/home/alife/c-sharp-essential/atualizacoes_c#/object_lock/object_lock/obj/Debug/net8.0/object_lock.GeneratedMSBuildEditorConfig.editorconfig
+/home/alife/c-sharp-essential/atualizacoes_c#/object_lock/object_lock/obj/Debug/net8.0/object_lock.AssemblyInfoInputs.cache
+/home/alife/c-sharp-essential/atualizacoes_c#/object_lock/object_lock/obj/Debug/net8.0/object_lock.AssemblyInfo.cs
+/home/alife/c-sharp-essential/atualizacoes_c#/object_lock/object_lock/obj/Debug/net8.0/object_lock.csproj.CoreCompileInputs.cache
+/home/alife/c-sharp-essential/atualizacoes_c#/object_lock/object_lock/obj/Debug/net8.0/object_lock.sourcelink.json

@@ -1,0 +1,15 @@
+/home/alife/c-sharp-essential/atualizacoes_c#/object_lock/lock_object_9/bin/Debug/net9.0/lock_object_9
+/home/alife/c-sharp-essential/atualizacoes_c#/object_lock/lock_object_9/bin/Debug/net9.0/lock_object_9.deps.json
+/home/alife/c-sharp-essential/atualizacoes_c#/object_lock/lock_object_9/bin/Debug/net9.0/lock_object_9.runtimeconfig.json
+/home/alife/c-sharp-essential/atualizacoes_c#/object_lock/lock_object_9/bin/Debug/net9.0/lock_object_9.dll
+/home/alife/c-sharp-essential/atualizacoes_c#/object_lock/lock_object_9/bin/Debug/net9.0/lock_object_9.pdb
+/home/alife/c-sharp-essential/atualizacoes_c#/object_lock/lock_object_9/obj/Debug/net9.0/lock_object_9.GeneratedMSBuildEditorConfig.editorconfig
+/home/alife/c-sharp-essential/atualizacoes_c#/object_lock/lock_object_9/obj/Debug/net9.0/lock_object_9.AssemblyInfoInputs.cache
+/home/alife/c-sharp-essential/atualizacoes_c#/object_lock/lock_object_9/obj/Debug/net9.0/lock_object_9.AssemblyInfo.cs
+/home/alife/c-sharp-essential/atualizacoes_c#/object_lock/lock_object_9/obj/Debug/net9.0/lock_object_9.csproj.CoreCompileInputs.cache
+/home/alife/c-sharp-essential/atualizacoes_c#/object_lock/lock_object_9/obj/Debug/net9.0/lock_object_9.sourcelink.json
+/home/alife/c-sharp-essential/atualizacoes_c#/object_lock/lock_object_9/obj/Debug/net9.0/lock_object_9.dll
+/home/alife/c-sharp-essential/atualizacoes_c#/object_lock/lock_object_9/obj/Debug/net9.0/refint/lock_object_9.dll
+/home/alife/c-sharp-essential/atualizacoes_c#/object_lock/lock_object_9/obj/Debug/net9.0/lock_object_9.pdb
+/home/alife/c-sharp-essential/atualizacoes_c#/object_lock/lock_object_9/obj/Debug/net9.0/lock_object_9.genruntimeconfig.cache
+/home/alife/c-sharp-essential/atualizacoes_c#/object_lock/lock_object_9/obj/Debug/net9.0/ref/lock_object_9.dll
