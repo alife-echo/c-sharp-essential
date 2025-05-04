@@ -1,0 +1,15 @@
+/home/alife/c-sharp-essential/atualizacoes_c#/params_collection/params_collection/obj/Debug/net9.0/params_collection.GeneratedMSBuildEditorConfig.editorconfig
+/home/alife/c-sharp-essential/atualizacoes_c#/params_collection/params_collection/obj/Debug/net9.0/params_collection.AssemblyInfoInputs.cache
+/home/alife/c-sharp-essential/atualizacoes_c#/params_collection/params_collection/obj/Debug/net9.0/params_collection.AssemblyInfo.cs
+/home/alife/c-sharp-essential/atualizacoes_c#/params_collection/params_collection/obj/Debug/net9.0/params_collection.csproj.CoreCompileInputs.cache
+/home/alife/c-sharp-essential/atualizacoes_c#/params_collection/params_collection/obj/Debug/net9.0/params_collection.sourcelink.json
+/home/alife/c-sharp-essential/atualizacoes_c#/params_collection/params_collection/bin/Debug/net9.0/params_collection
+/home/alife/c-sharp-essential/atualizacoes_c#/params_collection/params_collection/bin/Debug/net9.0/params_collection.deps.json
+/home/alife/c-sharp-essential/atualizacoes_c#/params_collection/params_collection/bin/Debug/net9.0/params_collection.runtimeconfig.json
+/home/alife/c-sharp-essential/atualizacoes_c#/params_collection/params_collection/bin/Debug/net9.0/params_collection.dll
+/home/alife/c-sharp-essential/atualizacoes_c#/params_collection/params_collection/bin/Debug/net9.0/params_collection.pdb
+/home/alife/c-sharp-essential/atualizacoes_c#/params_collection/params_collection/obj/Debug/net9.0/params_collection.dll
+/home/alife/c-sharp-essential/atualizacoes_c#/params_collection/params_collection/obj/Debug/net9.0/refint/params_collection.dll
+/home/alife/c-sharp-essential/atualizacoes_c#/params_collection/params_collection/obj/Debug/net9.0/params_collection.pdb
+/home/alife/c-sharp-essential/atualizacoes_c#/params_collection/params_collection/obj/Debug/net9.0/params_collection.genruntimeconfig.cache
+/home/alife/c-sharp-essential/atualizacoes_c#/params_collection/params_collection/obj/Debug/net9.0/ref/params_collection.dll
