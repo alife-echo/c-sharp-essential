@@ -1,0 +1,15 @@
+/home/alife/c-sharp-essential/atualizacoes_c#/task_when_each/task_when_each/bin/Debug/net9.0/task_when_each
+/home/alife/c-sharp-essential/atualizacoes_c#/task_when_each/task_when_each/bin/Debug/net9.0/task_when_each.deps.json
+/home/alife/c-sharp-essential/atualizacoes_c#/task_when_each/task_when_each/bin/Debug/net9.0/task_when_each.runtimeconfig.json
+/home/alife/c-sharp-essential/atualizacoes_c#/task_when_each/task_when_each/bin/Debug/net9.0/task_when_each.dll
+/home/alife/c-sharp-essential/atualizacoes_c#/task_when_each/task_when_each/bin/Debug/net9.0/task_when_each.pdb
+/home/alife/c-sharp-essential/atualizacoes_c#/task_when_each/task_when_each/obj/Debug/net9.0/task_when_each.GeneratedMSBuildEditorConfig.editorconfig
+/home/alife/c-sharp-essential/atualizacoes_c#/task_when_each/task_when_each/obj/Debug/net9.0/task_when_each.AssemblyInfoInputs.cache
+/home/alife/c-sharp-essential/atualizacoes_c#/task_when_each/task_when_each/obj/Debug/net9.0/task_when_each.AssemblyInfo.cs
+/home/alife/c-sharp-essential/atualizacoes_c#/task_when_each/task_when_each/obj/Debug/net9.0/task_when_each.csproj.CoreCompileInputs.cache
+/home/alife/c-sharp-essential/atualizacoes_c#/task_when_each/task_when_each/obj/Debug/net9.0/task_when_each.sourcelink.json
+/home/alife/c-sharp-essential/atualizacoes_c#/task_when_each/task_when_each/obj/Debug/net9.0/task_when_each.dll
+/home/alife/c-sharp-essential/atualizacoes_c#/task_when_each/task_when_each/obj/Debug/net9.0/refint/task_when_each.dll
+/home/alife/c-sharp-essential/atualizacoes_c#/task_when_each/task_when_each/obj/Debug/net9.0/task_when_each.pdb
+/home/alife/c-sharp-essential/atualizacoes_c#/task_when_each/task_when_each/obj/Debug/net9.0/task_when_each.genruntimeconfig.cache
+/home/alife/c-sharp-essential/atualizacoes_c#/task_when_each/task_when_each/obj/Debug/net9.0/ref/task_when_each.dll
