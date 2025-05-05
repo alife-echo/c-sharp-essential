@@ -1,0 +1,15 @@
+/home/alife/c-sharp-essential/atualizacoes_c#/automatics_properties/automatics_properties/bin/Debug/net9.0/automatics_properties
+/home/alife/c-sharp-essential/atualizacoes_c#/automatics_properties/automatics_properties/bin/Debug/net9.0/automatics_properties.deps.json
+/home/alife/c-sharp-essential/atualizacoes_c#/automatics_properties/automatics_properties/bin/Debug/net9.0/automatics_properties.runtimeconfig.json
+/home/alife/c-sharp-essential/atualizacoes_c#/automatics_properties/automatics_properties/bin/Debug/net9.0/automatics_properties.dll
+/home/alife/c-sharp-essential/atualizacoes_c#/automatics_properties/automatics_properties/bin/Debug/net9.0/automatics_properties.pdb
+/home/alife/c-sharp-essential/atualizacoes_c#/automatics_properties/automatics_properties/obj/Debug/net9.0/automatics_properties.GeneratedMSBuildEditorConfig.editorconfig
+/home/alife/c-sharp-essential/atualizacoes_c#/automatics_properties/automatics_properties/obj/Debug/net9.0/automatics_properties.AssemblyInfoInputs.cache
+/home/alife/c-sharp-essential/atualizacoes_c#/automatics_properties/automatics_properties/obj/Debug/net9.0/automatics_properties.AssemblyInfo.cs
+/home/alife/c-sharp-essential/atualizacoes_c#/automatics_properties/automatics_properties/obj/Debug/net9.0/automatics_properties.csproj.CoreCompileInputs.cache
+/home/alife/c-sharp-essential/atualizacoes_c#/automatics_properties/automatics_properties/obj/Debug/net9.0/automatics_properties.sourcelink.json
+/home/alife/c-sharp-essential/atualizacoes_c#/automatics_properties/automatics_properties/obj/Debug/net9.0/automatics_properties.dll
+/home/alife/c-sharp-essential/atualizacoes_c#/automatics_properties/automatics_properties/obj/Debug/net9.0/refint/automatics_properties.dll
+/home/alife/c-sharp-essential/atualizacoes_c#/automatics_properties/automatics_properties/obj/Debug/net9.0/automatics_properties.pdb
+/home/alife/c-sharp-essential/atualizacoes_c#/automatics_properties/automatics_properties/obj/Debug/net9.0/automatics_properties.genruntimeconfig.cache
+/home/alife/c-sharp-essential/atualizacoes_c#/automatics_properties/automatics_properties/obj/Debug/net9.0/ref/automatics_properties.dll

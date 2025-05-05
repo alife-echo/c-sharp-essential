@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "automatics_properties/1.0.0": {
+        "runtime": {
+          "automatics_properties.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "automatics_properties/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
