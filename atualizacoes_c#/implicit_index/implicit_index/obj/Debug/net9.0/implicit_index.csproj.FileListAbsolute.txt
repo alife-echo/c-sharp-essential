@@ -1,0 +1,15 @@
+/home/alife/c-sharp-essential/atualizacoes_c#/implicit_index/implicit_index/bin/Debug/net9.0/implicit_index
+/home/alife/c-sharp-essential/atualizacoes_c#/implicit_index/implicit_index/bin/Debug/net9.0/implicit_index.deps.json
+/home/alife/c-sharp-essential/atualizacoes_c#/implicit_index/implicit_index/bin/Debug/net9.0/implicit_index.runtimeconfig.json
+/home/alife/c-sharp-essential/atualizacoes_c#/implicit_index/implicit_index/bin/Debug/net9.0/implicit_index.dll
+/home/alife/c-sharp-essential/atualizacoes_c#/implicit_index/implicit_index/bin/Debug/net9.0/implicit_index.pdb
+/home/alife/c-sharp-essential/atualizacoes_c#/implicit_index/implicit_index/obj/Debug/net9.0/implicit_index.GeneratedMSBuildEditorConfig.editorconfig
+/home/alife/c-sharp-essential/atualizacoes_c#/implicit_index/implicit_index/obj/Debug/net9.0/implicit_index.AssemblyInfoInputs.cache
+/home/alife/c-sharp-essential/atualizacoes_c#/implicit_index/implicit_index/obj/Debug/net9.0/implicit_index.AssemblyInfo.cs
+/home/alife/c-sharp-essential/atualizacoes_c#/implicit_index/implicit_index/obj/Debug/net9.0/implicit_index.csproj.CoreCompileInputs.cache
+/home/alife/c-sharp-essential/atualizacoes_c#/implicit_index/implicit_index/obj/Debug/net9.0/implicit_index.sourcelink.json
+/home/alife/c-sharp-essential/atualizacoes_c#/implicit_index/implicit_index/obj/Debug/net9.0/implicit_index.dll
+/home/alife/c-sharp-essential/atualizacoes_c#/implicit_index/implicit_index/obj/Debug/net9.0/refint/implicit_index.dll
+/home/alife/c-sharp-essential/atualizacoes_c#/implicit_index/implicit_index/obj/Debug/net9.0/implicit_index.pdb
+/home/alife/c-sharp-essential/atualizacoes_c#/implicit_index/implicit_index/obj/Debug/net9.0/implicit_index.genruntimeconfig.cache
+/home/alife/c-sharp-essential/atualizacoes_c#/implicit_index/implicit_index/obj/Debug/net9.0/ref/implicit_index.dll
