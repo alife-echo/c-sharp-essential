@@ -1,0 +1,15 @@
+/home/alife/c-sharp-essential/atualizacoes_c#/new_methods_linq/new_methods_linq/bin/Debug/net9.0/new_methods_linq
+/home/alife/c-sharp-essential/atualizacoes_c#/new_methods_linq/new_methods_linq/bin/Debug/net9.0/new_methods_linq.deps.json
+/home/alife/c-sharp-essential/atualizacoes_c#/new_methods_linq/new_methods_linq/bin/Debug/net9.0/new_methods_linq.runtimeconfig.json
+/home/alife/c-sharp-essential/atualizacoes_c#/new_methods_linq/new_methods_linq/bin/Debug/net9.0/new_methods_linq.dll
+/home/alife/c-sharp-essential/atualizacoes_c#/new_methods_linq/new_methods_linq/bin/Debug/net9.0/new_methods_linq.pdb
+/home/alife/c-sharp-essential/atualizacoes_c#/new_methods_linq/new_methods_linq/obj/Debug/net9.0/new_methods_linq.GeneratedMSBuildEditorConfig.editorconfig
+/home/alife/c-sharp-essential/atualizacoes_c#/new_methods_linq/new_methods_linq/obj/Debug/net9.0/new_methods_linq.AssemblyInfoInputs.cache
+/home/alife/c-sharp-essential/atualizacoes_c#/new_methods_linq/new_methods_linq/obj/Debug/net9.0/new_methods_linq.AssemblyInfo.cs
+/home/alife/c-sharp-essential/atualizacoes_c#/new_methods_linq/new_methods_linq/obj/Debug/net9.0/new_methods_linq.csproj.CoreCompileInputs.cache
+/home/alife/c-sharp-essential/atualizacoes_c#/new_methods_linq/new_methods_linq/obj/Debug/net9.0/new_methods_linq.sourcelink.json
+/home/alife/c-sharp-essential/atualizacoes_c#/new_methods_linq/new_methods_linq/obj/Debug/net9.0/new_methods_linq.dll
+/home/alife/c-sharp-essential/atualizacoes_c#/new_methods_linq/new_methods_linq/obj/Debug/net9.0/refint/new_methods_linq.dll
+/home/alife/c-sharp-essential/atualizacoes_c#/new_methods_linq/new_methods_linq/obj/Debug/net9.0/new_methods_linq.pdb
+/home/alife/c-sharp-essential/atualizacoes_c#/new_methods_linq/new_methods_linq/obj/Debug/net9.0/new_methods_linq.genruntimeconfig.cache
+/home/alife/c-sharp-essential/atualizacoes_c#/new_methods_linq/new_methods_linq/obj/Debug/net9.0/ref/new_methods_linq.dll
